@@ -1,0 +1,3168 @@
+item_id,model_raw,model_norm,answer_gold_diagram,answer_gold_text_misleading,condition
+mv_0,C:120°,C,D,nan,I+T_perp
+mv_1,A,A,D,nan,I+T_perp
+mv_2,A,A,D,nan,I+T_perp
+mv_3,B,B,D,nan,I+T_perp
+mv_5,A,A,C,nan,I+T_perp
+mv_6,A,A,C,nan,I+T_perp
+mv_7,A,A,C,nan,I+T_perp
+mv_8,A,A,C,nan,I+T_perp
+mv_10,C,C,A,nan,I+T_perp
+mv_11,C,C,A,nan,I+T_perp
+mv_12,A,A,A,nan,I+T_perp
+mv_13,C:45°,C,A,nan,I+T_perp
+mv_15,A,A,D,nan,I+T_perp
+mv_16,A,A,D,nan,I+T_perp
+mv_17,A,A,D,nan,I+T_perp
+mv_18,A,A,D,nan,I+T_perp
+mv_20,A,A,A,nan,I+T_perp
+mv_21,A,A,A,nan,I+T_perp
+mv_22,A,A,A,nan,I+T_perp
+mv_23,A,A,A,nan,I+T_perp
+mv_25,A,A,C,nan,I+T_perp
+mv_26,A,A,C,nan,I+T_perp
+mv_27,A,A,C,nan,I+T_perp
+mv_28,A,A,C,nan,I+T_perp
+mv_30,C:35°,C,B,nan,I+T_perp
+mv_31,C:35°,C,B,nan,I+T_perp
+mv_32,C,C,B,nan,I+T_perp
+mv_33,C,C,B,nan,I+T_perp
+mv_35,D,D,C,nan,I+T_perp
+mv_36,D,D,C,nan,I+T_perp
+mv_37,D,D,C,nan,I+T_perp
+mv_38,D,D,C,nan,I+T_perp
+mv_40,D,D,A,nan,I+T_perp
+mv_41,B,B,A,nan,I+T_perp
+mv_42,D,D,A,nan,I+T_perp
+mv_43,C,C,A,nan,I+T_perp
+mv_45,B,B,A,nan,I+T_perp
+mv_46,B,B,A,nan,I+T_perp
+mv_47,B,B,A,nan,I+T_perp
+mv_48,B,B,A,nan,I+T_perp
+mv_50,C:60°,C,A,nan,I+T_perp
+mv_51,C:60°,C,A,nan,I+T_perp
+mv_52,A,A,A,nan,I+T_perp
+mv_53,C,C,A,nan,I+T_perp
+mv_55,A,A,A,nan,I+T_perp
+mv_56,A,A,A,nan,I+T_perp
+mv_57,A,A,A,nan,I+T_perp
+mv_58,A,A,A,nan,I+T_perp
+mv_60,D,D,C,nan,I+T_perp
+mv_61,A,A,C,nan,I+T_perp
+mv_62,D,D,C,nan,I+T_perp
+mv_63,A,A,C,nan,I+T_perp
+mv_65,A,A,B,nan,I+T_perp
+mv_66,A,A,B,nan,I+T_perp
+mv_67,A,A,B,nan,I+T_perp
+mv_68,A,A,B,nan,I+T_perp
+mv_70,A,A,D,nan,I+T_perp
+mv_71,A,A,D,nan,I+T_perp
+mv_72,A,A,D,nan,I+T_perp
+mv_73,A,A,D,nan,I+T_perp
+mv_75,B,B,A,nan,I+T_perp
+mv_76,B,B,A,nan,I+T_perp
+mv_77,B,B,A,nan,I+T_perp
+mv_78,B,B,A,nan,I+T_perp
+mv_80,A,A,C,nan,I+T_perp
+mv_81,A,A,C,nan,I+T_perp
+mv_82,A,A,C,nan,I+T_perp
+mv_83,A,A,C,nan,I+T_perp
+mv_85,B,B,C,nan,I+T_perp
+mv_86,B,B,C,nan,I+T_perp
+mv_87,B,B,C,nan,I+T_perp
+mv_88,B,B,C,nan,I+T_perp
+mv_90,A,A,C,nan,I+T_perp
+mv_91,A,A,C,nan,I+T_perp
+mv_92,A,A,C,nan,I+T_perp
+mv_93,A,A,C,nan,I+T_perp
+mv_95,A,A,A,nan,I+T_perp
+mv_96,D,D,A,nan,I+T_perp
+mv_97,D,D,A,nan,I+T_perp
+mv_98,D,D,A,nan,I+T_perp
+mv_100,A,A,D,nan,I+T_perp
+mv_101,A,A,D,nan,I+T_perp
+mv_102,A,A,D,nan,I+T_perp
+mv_103,A,A,D,nan,I+T_perp
+mv_105,A,A,C,nan,I+T_perp
+mv_106,A,A,C,nan,I+T_perp
+mv_107,A,A,C,nan,I+T_perp
+mv_108,A,A,C,nan,I+T_perp
+mv_110,A,A,C,nan,I+T_perp
+mv_111,A,A,C,nan,I+T_perp
+mv_112,A,A,C,nan,I+T_perp
+mv_113,A,A,C,nan,I+T_perp
+mv_115,D,D,B,nan,I+T_perp
+mv_116,D,D,B,nan,I+T_perp
+mv_117,D,D,B,nan,I+T_perp
+mv_118,D,D,B,nan,I+T_perp
+mv_120,A,A,D,nan,I+T_perp
+mv_121,A,A,D,nan,I+T_perp
+mv_122,A,A,D,nan,I+T_perp
+mv_123,A,A,D,nan,I+T_perp
+mv_125,A,A,C,nan,I+T_perp
+mv_126,A,A,C,nan,I+T_perp
+mv_127,A,A,C,nan,I+T_perp
+mv_128,A,A,C,nan,I+T_perp
+mv_130,C,C,A,nan,I+T_perp
+mv_131,C,C,A,nan,I+T_perp
+mv_132,C,C,A,nan,I+T_perp
+mv_133,B,B,A,nan,I+T_perp
+mv_135,B,B,B,nan,I+T_perp
+mv_136,B,B,B,nan,I+T_perp
+mv_137,B,B,B,nan,I+T_perp
+mv_138,B,B,B,nan,I+T_perp
+mv_140,D,D,C,nan,I+T_perp
+mv_141,D,D,C,nan,I+T_perp
+mv_142,D,D,C,nan,I+T_perp
+mv_143,D,D,C,nan,I+T_perp
+mv_145,A,A,C,nan,I+T_perp
+mv_146,A,A,C,nan,I+T_perp
+mv_147,A,A,C,nan,I+T_perp
+mv_148,A,A,C,nan,I+T_perp
+mv_150,A,A,B,nan,I+T_perp
+mv_151,A,A,B,nan,I+T_perp
+mv_152,A,A,B,nan,I+T_perp
+mv_153,B,B,B,nan,I+T_perp
+mv_155,B,B,C,nan,I+T_perp
+mv_156,B,B,C,nan,I+T_perp
+mv_157,B,B,C,nan,I+T_perp
+mv_158,B,B,C,nan,I+T_perp
+mv_160,C:46°,C,C,nan,I+T_perp
+mv_161,A,A,C,nan,I+T_perp
+mv_162,A,A,C,nan,I+T_perp
+mv_163,A,A,C,nan,I+T_perp
+mv_165,D,D,C,nan,I+T_perp
+mv_166,D,D,C,nan,I+T_perp
+mv_167,A,A,C,nan,I+T_perp
+mv_168,A,A,C,nan,I+T_perp
+mv_170,A,A,C,nan,I+T_perp
+mv_171,A,A,C,nan,I+T_perp
+mv_172,A,A,C,nan,I+T_perp
+mv_173,A,A,C,nan,I+T_perp
+mv_175,D,D,A,nan,I+T_perp
+mv_176,C:.40°,C,A,nan,I+T_perp
+mv_177,D,D,A,nan,I+T_perp
+mv_178,D,D,A,nan,I+T_perp
+mv_180,A,A,A,nan,I+T_perp
+mv_181,A,A,A,nan,I+T_perp
+mv_182,A,A,A,nan,I+T_perp
+mv_183,A,A,A,nan,I+T_perp
+mv_185,C: 70°,C,A,nan,I+T_perp
+mv_186,C: 70°,C,A,nan,I+T_perp
+mv_187,C,C,A,nan,I+T_perp
+mv_188,C,C,A,nan,I+T_perp
+mv_190,D,D,B,nan,I+T_perp
+mv_191,D,D,B,nan,I+T_perp
+mv_192,D,D,B,nan,I+T_perp
+mv_193,A,A,B,nan,I+T_perp
+mv_195,A,A,A,nan,I+T_perp
+mv_196,A,A,A,nan,I+T_perp
+mv_197,A,A,A,nan,I+T_perp
+mv_198,A,A,A,nan,I+T_perp
+mv_200,D,D,D,nan,I+T_perp
+mv_201,D,D,D,nan,I+T_perp
+mv_202,D,D,D,nan,I+T_perp
+mv_203,D,D,D,nan,I+T_perp
+mv_205,B,B,B,nan,I+T_perp
+mv_206,B,B,B,nan,I+T_perp
+mv_207,A,A,B,nan,I+T_perp
+mv_208,C,C,B,nan,I+T_perp
+mv_210,C,C,A,nan,I+T_perp
+mv_211,C,C,A,nan,I+T_perp
+mv_212,D,D,A,nan,I+T_perp
+mv_213,A,A,A,nan,I+T_perp
+mv_215,A,A,A,nan,I+T_perp
+mv_216,A,A,A,nan,I+T_perp
+mv_217,A,A,A,nan,I+T_perp
+mv_218,A,A,A,nan,I+T_perp
+mv_220,A,A,B,nan,I+T_perp
+mv_221,A,A,B,nan,I+T_perp
+mv_222,A,A,B,nan,I+T_perp
+mv_223,A,A,B,nan,I+T_perp
+mv_225,C,C,D,nan,I+T_perp
+mv_226,C,C,D,nan,I+T_perp
+mv_227,C,C,D,nan,I+T_perp
+mv_228,C,C,D,nan,I+T_perp
+mv_230,B,B,B,nan,I+T_perp
+mv_231,B,B,B,nan,I+T_perp
+mv_232,B,B,B,nan,I+T_perp
+mv_233,B,B,B,nan,I+T_perp
+mv_235,C:100°,C,D,nan,I+T_perp
+mv_236,C,C,D,nan,I+T_perp
+mv_237,C,C,D,nan,I+T_perp
+mv_238,C,C,D,nan,I+T_perp
+mv_240,B,B,D,nan,I+T_perp
+mv_241,B,B,D,nan,I+T_perp
+mv_242,B,B,D,nan,I+T_perp
+mv_243,A,A,D,nan,I+T_perp
+mv_245,C,C,B,nan,I+T_perp
+mv_246,C,C,B,nan,I+T_perp
+mv_247,C,C,B,nan,I+T_perp
+mv_248,C,C,B,nan,I+T_perp
+mv_250,D,D,C,nan,I+T_perp
+mv_251,D,D,C,nan,I+T_perp
+mv_252,B,B,C,nan,I+T_perp
+mv_253,B,B,C,nan,I+T_perp
+mv_255,A,A,D,nan,I+T_perp
+mv_256,A,A,D,nan,I+T_perp
+mv_257,A,A,D,nan,I+T_perp
+mv_258,B,B,D,nan,I+T_perp
+mv_260,A,A,A,nan,I+T_perp
+mv_261,A,A,A,nan,I+T_perp
+mv_262,A,A,A,nan,I+T_perp
+mv_263,A,A,A,nan,I+T_perp
+mv_265,A,A,A,nan,I+T_perp
+mv_266,A,A,A,nan,I+T_perp
+mv_267,A,A,A,nan,I+T_perp
+mv_268,A,A,A,nan,I+T_perp
+mv_270,C,C,B,nan,I+T_perp
+mv_271,C,C,B,nan,I+T_perp
+mv_272,C,C,B,nan,I+T_perp
+mv_273,A,A,B,nan,I+T_perp
+mv_275,B,B,C,nan,I+T_perp
+mv_276,B,B,C,nan,I+T_perp
+mv_277,B,B,C,nan,I+T_perp
+mv_278,B,B,C,nan,I+T_perp
+mv_280,B,B,B,nan,I+T_perp
+mv_281,B,B,B,nan,I+T_perp
+mv_282,B,B,B,nan,I+T_perp
+mv_283,B,B,B,nan,I+T_perp
+mv_285,D,D,B,nan,I+T_perp
+mv_286,D,D,B,nan,I+T_perp
+mv_287,D,D,B,nan,I+T_perp
+mv_288,D,D,B,nan,I+T_perp
+mv_290,D,D,A,nan,I+T_perp
+mv_291,D,D,A,nan,I+T_perp
+mv_292,D,D,A,nan,I+T_perp
+mv_293,B,B,A,nan,I+T_perp
+mv_295,A,A,B,nan,I+T_perp
+mv_296,A,A,B,nan,I+T_perp
+mv_297,None,None,B,nan,I+T_perp
+mv_298,B,B,B,nan,I+T_perp
+mv_300,A,A,B,nan,I+T_perp
+mv_301,A,A,B,nan,I+T_perp
+mv_302,A,A,B,nan,I+T_perp
+mv_303,A,A,B,nan,I+T_perp
+mv_305,D,D,B,nan,I+T_perp
+mv_306,B,B,B,nan,I+T_perp
+mv_307,B,B,B,nan,I+T_perp
+mv_308,B,B,B,nan,I+T_perp
+mv_310,B,B,A,nan,I+T_perp
+mv_311,A,A,A,nan,I+T_perp
+mv_312,A,A,A,nan,I+T_perp
+mv_313,A,A,A,nan,I+T_perp
+mv_315,D,D,A,nan,I+T_perp
+mv_316,D,D,A,nan,I+T_perp
+mv_317,D,D,A,nan,I+T_perp
+mv_318,D,D,A,nan,I+T_perp
+mv_320,A,A,D,nan,I+T_perp
+mv_321,A,A,D,nan,I+T_perp
+mv_322,C,C,D,nan,I+T_perp
+mv_323,A,A,D,nan,I+T_perp
+mv_325,C,C,B,nan,I+T_perp
+mv_326,C,C,B,nan,I+T_perp
+mv_327,C,C,B,nan,I+T_perp
+mv_328,B,B,B,nan,I+T_perp
+mv_330,A,A,B,nan,I+T_perp
+mv_331,A,A,B,nan,I+T_perp
+mv_332,A,A,B,nan,I+T_perp
+mv_333,A,A,B,nan,I+T_perp
+mv_335,D,D,C,nan,I+T_perp
+mv_336,D,D,C,nan,I+T_perp
+mv_337,D,D,C,nan,I+T_perp
+mv_338,D,D,C,nan,I+T_perp
+mv_340,B,B,B,nan,I+T_perp
+mv_341,B,B,B,nan,I+T_perp
+mv_342,A,A,B,nan,I+T_perp
+mv_343,A,A,B,nan,I+T_perp
+mv_345,A,A,C,nan,I+T_perp
+mv_346,A,A,C,nan,I+T_perp
+mv_347,D,D,C,nan,I+T_perp
+mv_348,A,A,C,nan,I+T_perp
+mv_350,A,A,C,nan,I+T_perp
+mv_351,A,A,C,nan,I+T_perp
+mv_352,A,A,C,nan,I+T_perp
+mv_353,A,A,C,nan,I+T_perp
+mv_355,D,D,B,nan,I+T_perp
+mv_356,D,D,B,nan,I+T_perp
+mv_357,D,D,B,nan,I+T_perp
+mv_358,D,D,B,nan,I+T_perp
+mv_360,C,C,A,nan,I+T_perp
+mv_361,C,C,A,nan,I+T_perp
+mv_362,A,A,A,nan,I+T_perp
+mv_363,C,C,A,nan,I+T_perp
+mv_365,A,A,B,nan,I+T_perp
+mv_366,A,A,B,nan,I+T_perp
+mv_367,A,A,B,nan,I+T_perp
+mv_368,A,A,B,nan,I+T_perp
+mv_370,A,A,B,nan,I+T_perp
+mv_371,A,A,B,nan,I+T_perp
+mv_372,A,A,B,nan,I+T_perp
+mv_373,A,A,B,nan,I+T_perp
+mv_375,C,C,A,nan,I+T_perp
+mv_376,A,A,A,nan,I+T_perp
+mv_377,A,A,A,nan,I+T_perp
+mv_378,A,A,A,nan,I+T_perp
+mv_380,A,A,C,nan,I+T_perp
+mv_381,A,A,C,nan,I+T_perp
+mv_382,A,A,C,nan,I+T_perp
+mv_383,A,A,C,nan,I+T_perp
+mv_385,A,A,B,nan,I+T_perp
+mv_386,A,A,B,nan,I+T_perp
+mv_387,None,None,B,nan,I+T_perp
+mv_388,A,A,B,nan,I+T_perp
+mv_390,B,B,D,nan,I+T_perp
+mv_391,B,B,D,nan,I+T_perp
+mv_392,B,B,D,nan,I+T_perp
+mv_393,B,B,D,nan,I+T_perp
+mv_395,D,D,C,nan,I+T_perp
+mv_396,D,D,C,nan,I+T_perp
+mv_397,D,D,C,nan,I+T_perp
+mv_398,D,D,C,nan,I+T_perp
+mv_400,A,A,D,nan,I+T_perp
+mv_401,A,A,D,nan,I+T_perp
+mv_402,A,A,D,nan,I+T_perp
+mv_403,B,B,D,nan,I+T_perp
+mv_405,A,A,C,nan,I+T_perp
+mv_406,A,A,C,nan,I+T_perp
+mv_407,A,A,C,nan,I+T_perp
+mv_408,A,A,C,nan,I+T_perp
+mv_410,D,D,A,nan,I+T_perp
+mv_411,D,D,A,nan,I+T_perp
+mv_412,D,D,A,nan,I+T_perp
+mv_413,D,D,A,nan,I+T_perp
+mv_415,A,A,C,nan,I+T_perp
+mv_416,A,A,C,nan,I+T_perp
+mv_417,A,A,C,nan,I+T_perp
+mv_418,A,A,C,nan,I+T_perp
+mv_420,D,D,D,nan,I+T_perp
+mv_421,D,D,D,nan,I+T_perp
+mv_422,D,D,D,nan,I+T_perp
+mv_423,D,D,D,nan,I+T_perp
+mv_425,B,B,B,nan,I+T_perp
+mv_426,B,B,B,nan,I+T_perp
+mv_427,B,B,B,nan,I+T_perp
+mv_428,B,B,B,nan,I+T_perp
+mv_430,D,D,A,nan,I+T_perp
+mv_431,D,D,A,nan,I+T_perp
+mv_432,D,D,A,nan,I+T_perp
+mv_433,D,D,A,nan,I+T_perp
+mv_435,A,A,A,nan,I+T_perp
+mv_436,B,B,A,nan,I+T_perp
+mv_437,B,B,A,nan,I+T_perp
+mv_438,A,A,A,nan,I+T_perp
+mv_440,B,B,D,nan,I+T_perp
+mv_441,B,B,D,nan,I+T_perp
+mv_442,B,B,D,nan,I+T_perp
+mv_443,B,B,D,nan,I+T_perp
+mv_445,A,A,C,nan,I+T_perp
+mv_446,A,A,C,nan,I+T_perp
+mv_447,A,A,C,nan,I+T_perp
+mv_448,A,A,C,nan,I+T_perp
+mv_450,C,C,B,nan,I+T_perp
+mv_451,C,C,B,nan,I+T_perp
+mv_452,C,C,B,nan,I+T_perp
+mv_453,C,C,B,nan,I+T_perp
+mv_455,A,A,B,nan,I+T_perp
+mv_456,A,A,B,nan,I+T_perp
+mv_457,A,A,B,nan,I+T_perp
+mv_458,D,D,B,nan,I+T_perp
+mv_460,A,A,A,nan,I+T_perp
+mv_461,A,A,A,nan,I+T_perp
+mv_462,A,A,A,nan,I+T_perp
+mv_463,A,A,A,nan,I+T_perp
+mv_465,C,C,A,nan,I+T_perp
+mv_466,B,B,A,nan,I+T_perp
+mv_467,B,B,A,nan,I+T_perp
+mv_468,B,B,A,nan,I+T_perp
+mv_470,B,B,C,nan,I+T_perp
+mv_471,A,A,C,nan,I+T_perp
+mv_472,A,A,C,nan,I+T_perp
+mv_473,C,C,C,nan,I+T_perp
+mv_475,A,A,C,nan,I+T_perp
+mv_476,A,A,C,nan,I+T_perp
+mv_477,A,A,C,nan,I+T_perp
+mv_478,B,B,C,nan,I+T_perp
+mv_480,B,B,C,nan,I+T_perp
+mv_481,B,B,C,nan,I+T_perp
+mv_482,None,None,C,nan,I+T_perp
+mv_483,B,B,C,nan,I+T_perp
+mv_485,A,A,B,nan,I+T_perp
+mv_486,A,A,B,nan,I+T_perp
+mv_487,A,A,B,nan,I+T_perp
+mv_488,A,A,B,nan,I+T_perp
+mv_490,A,A,C,nan,I+T_perp
+mv_491,A,A,C,nan,I+T_perp
+mv_492,A,A,C,nan,I+T_perp
+mv_493,A,A,C,nan,I+T_perp
+mv_495,A,A,D,nan,I+T_perp
+mv_496,A,A,D,nan,I+T_perp
+mv_497,A,A,D,nan,I+T_perp
+mv_498,A,A,D,nan,I+T_perp
+mv_500,C:27°,C,C,nan,I+T_perp
+mv_501,C,C,C,nan,I+T_perp
+mv_502,C,C,C,nan,I+T_perp
+mv_503,C:27°,C,C,nan,I+T_perp
+mv_505,B: \frac{20}{3},B,C,nan,I+T_perp
+mv_506,B: \frac{20}{3},B,C,nan,I+T_perp
+mv_507,B: \frac{20}{3},B,C,nan,I+T_perp
+mv_508,B: \frac{20}{3},B,C,nan,I+T_perp
+mv_510,D,D,A,nan,I+T_perp
+mv_511,D,D,A,nan,I+T_perp
+mv_512,D,D,A,nan,I+T_perp
+mv_513,D,D,A,nan,I+T_perp
+mv_515,B,B,A,nan,I+T_perp
+mv_516,B,B,A,nan,I+T_perp
+mv_517,C:5√{2},C,A,nan,I+T_perp
+mv_518,C,C,A,nan,I+T_perp
+mv_520,C:16°,C,B,nan,I+T_perp
+mv_521,C,C,B,nan,I+T_perp
+mv_522,C,C,B,nan,I+T_perp
+mv_523,C:16°,C,B,nan,I+T_perp
+mv_525,D,D,B,nan,I+T_perp
+mv_526,C,C,B,nan,I+T_perp
+mv_527,C,C,B,nan,I+T_perp
+mv_528,C,C,B,nan,I+T_perp
+mv_530,B,B,C,nan,I+T_perp
+mv_531,None,None,C,nan,I+T_perp
+mv_532,None,None,C,nan,I+T_perp
+mv_533,B,B,C,nan,I+T_perp
+mv_535,D,D,D,nan,I+T_perp
+mv_536,D,D,D,nan,I+T_perp
+mv_537,D,D,D,nan,I+T_perp
+mv_538,A,A,D,nan,I+T_perp
+mv_540,A,A,B,nan,I+T_perp
+mv_541,A,A,B,nan,I+T_perp
+mv_542,A,A,B,nan,I+T_perp
+mv_543,A,A,B,nan,I+T_perp
+mv_545,D,D,B,nan,I+T_perp
+mv_546,D,D,B,nan,I+T_perp
+mv_547,D,D,B,nan,I+T_perp
+mv_548,D,D,B,nan,I+T_perp
+mv_550,C:27°,C,C,nan,I+T_perp
+mv_551,C:27°,C,C,nan,I+T_perp
+mv_552,C,C,C,nan,I+T_perp
+mv_553,C,C,C,nan,I+T_perp
+mv_555,A,A,A,nan,I+T_perp
+mv_556,A,A,A,nan,I+T_perp
+mv_557,A,A,A,nan,I+T_perp
+mv_558,A,A,A,nan,I+T_perp
+mv_560,C,C,A,nan,I+T_perp
+mv_561,C,C,A,nan,I+T_perp
+mv_562,C,C,A,nan,I+T_perp
+mv_563,C,C,A,nan,I+T_perp
+mv_565,B:πcm²,B,C,nan,I+T_perp
+mv_566,B,B,C,nan,I+T_perp
+mv_567,B,B,C,nan,I+T_perp
+mv_568,B:πcm²,B,C,nan,I+T_perp
+mv_570,A,A,C,nan,I+T_perp
+mv_571,A,A,C,nan,I+T_perp
+mv_572,A,A,C,nan,I+T_perp
+mv_573,A,A,C,nan,I+T_perp
+mv_575,D,D,B,nan,I+T_perp
+mv_576,D,D,B,nan,I+T_perp
+mv_577,D,D,B,nan,I+T_perp
+mv_578,D,D,B,nan,I+T_perp
+mv_580,None,None,B,nan,I+T_perp
+mv_581,B,B,B,nan,I+T_perp
+mv_582,B,B,B,nan,I+T_perp
+mv_583,B,B,B,nan,I+T_perp
+mv_585,A,A,C,nan,I+T_perp
+mv_586,A,A,C,nan,I+T_perp
+mv_587,A,A,C,nan,I+T_perp
+mv_588,A,A,C,nan,I+T_perp
+mv_590,A,A,A,nan,I+T_perp
+mv_591,C,C,A,nan,I+T_perp
+mv_592,C,C,A,nan,I+T_perp
+mv_593,A,A,A,nan,I+T_perp
+mv_595,C,C,B,nan,I+T_perp
+mv_596,C,C,B,nan,I+T_perp
+mv_597,C,C,B,nan,I+T_perp
+mv_598,C,C,B,nan,I+T_perp
+mv_600,B:70πcm^{2},B,C,nan,I+T_perp
+mv_601,B,B,C,nan,I+T_perp
+mv_602,B,B,C,nan,I+T_perp
+mv_603,C,C,C,nan,I+T_perp
+mv_605,A,A,D,nan,I+T_perp
+mv_606,A,A,D,nan,I+T_perp
+mv_607,A,A,D,nan,I+T_perp
+mv_608,A,A,D,nan,I+T_perp
+mv_610,A,A,B,nan,I+T_perp
+mv_611,A,A,B,nan,I+T_perp
+mv_612,A,A,B,nan,I+T_perp
+mv_613,A,A,B,nan,I+T_perp
+mv_615,A,A,B,nan,I+T_perp
+mv_616,A,A,B,nan,I+T_perp
+mv_617,A,A,B,nan,I+T_perp
+mv_618,A,A,B,nan,I+T_perp
+mv_620,B,B,C,nan,I+T_perp
+mv_621,B,B,C,nan,I+T_perp
+mv_622,B,B,C,nan,I+T_perp
+mv_623,B,B,C,nan,I+T_perp
+mv_625,A,A,A,nan,I+T_perp
+mv_626,A,A,A,nan,I+T_perp
+mv_627,A,A,A,nan,I+T_perp
+mv_628,A,A,A,nan,I+T_perp
+mv_630,A,A,C,nan,I+T_perp
+mv_631,D,D,C,nan,I+T_perp
+mv_632,D,D,C,nan,I+T_perp
+mv_633,B,B,C,nan,I+T_perp
+mv_635,D,D,B,nan,I+T_perp
+mv_636,D,D,B,nan,I+T_perp
+mv_637,D,D,B,nan,I+T_perp
+mv_638,D,D,B,nan,I+T_perp
+mv_640,C,C,C,nan,I+T_perp
+mv_641,C,C,C,nan,I+T_perp
+mv_642,C,C,C,nan,I+T_perp
+mv_643,A,A,C,nan,I+T_perp
+mv_645,B,B,B,nan,I+T_perp
+mv_646,B,B,B,nan,I+T_perp
+mv_647,B,B,B,nan,I+T_perp
+mv_648,B,B,B,nan,I+T_perp
+mv_650,B:2√{10},B,D,nan,I+T_perp
+mv_651,B:2√{10},B,D,nan,I+T_perp
+mv_652,B:2√{10},B,D,nan,I+T_perp
+mv_653,B,B,D,nan,I+T_perp
+mv_655,B:9.6米,B,D,nan,I+T_perp
+mv_656,A,A,D,nan,I+T_perp
+mv_657,A,A,D,nan,I+T_perp
+mv_658,B,B,D,nan,I+T_perp
+mv_660,A,A,B,nan,I+T_perp
+mv_661,C,C,B,nan,I+T_perp
+mv_662,C,C,B,nan,I+T_perp
+mv_663,B,B,B,nan,I+T_perp
+mv_665,D,D,B,nan,I+T_perp
+mv_666,D,D,B,nan,I+T_perp
+mv_667,D,D,B,nan,I+T_perp
+mv_668,D,D,B,nan,I+T_perp
+mv_670,C,C,C,nan,I+T_perp
+mv_671,C,C,C,nan,I+T_perp
+mv_672,C,C,C,nan,I+T_perp
+mv_673,C,C,C,nan,I+T_perp
+mv_675,B,B,A,nan,I+T_perp
+mv_676,B,B,A,nan,I+T_perp
+mv_677,B,B,A,nan,I+T_perp
+mv_678,B,B,A,nan,I+T_perp
+mv_680,C,C,A,nan,I+T_perp
+mv_681,B,B,A,nan,I+T_perp
+mv_682,B,B,A,nan,I+T_perp
+mv_683,B,B,A,nan,I+T_perp
+mv_685,A,A,C,nan,I+T_perp
+mv_686,A,A,C,nan,I+T_perp
+mv_687,A,A,C,nan,I+T_perp
+mv_688,A,A,C,nan,I+T_perp
+mv_690,D,D,D,nan,I+T_perp
+mv_691,D,D,D,nan,I+T_perp
+mv_692,D,D,D,nan,I+T_perp
+mv_693,A,A,D,nan,I+T_perp
+mv_695,A,A,A,nan,I+T_perp
+mv_696,A,A,A,nan,I+T_perp
+mv_697,A,A,A,nan,I+T_perp
+mv_698,A,A,A,nan,I+T_perp
+mv_700,D,D,A,nan,I+T_perp
+mv_701,D,D,A,nan,I+T_perp
+mv_702,D,D,A,nan,I+T_perp
+mv_703,C,C,A,nan,I+T_perp
+mv_705,A,A,A,nan,I+T_perp
+mv_706,A,A,A,nan,I+T_perp
+mv_707,A,A,A,nan,I+T_perp
+mv_708,A,A,A,nan,I+T_perp
+mv_710,A,A,A,nan,I+T_perp
+mv_711,A,A,A,nan,I+T_perp
+mv_712,A,A,A,nan,I+T_perp
+mv_713,A,A,A,nan,I+T_perp
+mv_715,A,A,D,nan,I+T_perp
+mv_716,A,A,D,nan,I+T_perp
+mv_717,A,A,D,nan,I+T_perp
+mv_718,A,A,D,nan,I+T_perp
+mv_720,A,A,B,nan,I+T_perp
+mv_721,A,A,B,nan,I+T_perp
+mv_722,A,A,B,nan,I+T_perp
+mv_723,A,A,B,nan,I+T_perp
+mv_725,A,A,B,nan,I+T_perp
+mv_726,A,A,B,nan,I+T_perp
+mv_727,A,A,B,nan,I+T_perp
+mv_728,A,A,B,nan,I+T_perp
+mv_730,A,A,D,nan,I+T_perp
+mv_731,A,A,D,nan,I+T_perp
+mv_732,A,A,D,nan,I+T_perp
+mv_733,C,C,D,nan,I+T_perp
+mv_735,C,C,A,nan,I+T_perp
+mv_736,C,C,A,nan,I+T_perp
+mv_737,C,C,A,nan,I+T_perp
+mv_738,A,A,A,nan,I+T_perp
+mv_740,C,C,A,nan,I+T_perp
+mv_741,C,C,A,nan,I+T_perp
+mv_742,C,C,A,nan,I+T_perp
+mv_743,C,C,A,nan,I+T_perp
+mv_745,A,A,C,nan,I+T_perp
+mv_746,A,A,C,nan,I+T_perp
+mv_747,A,A,C,nan,I+T_perp
+mv_748,A,A,C,nan,I+T_perp
+mv_750,A,A,B,nan,I+T_perp
+mv_751,A,A,B,nan,I+T_perp
+mv_752,A,A,B,nan,I+T_perp
+mv_753,A,A,B,nan,I+T_perp
+mv_755,None,None,B,nan,I+T_perp
+mv_756,D,D,B,nan,I+T_perp
+mv_757,D,D,B,nan,I+T_perp
+mv_758,A,A,B,nan,I+T_perp
+mv_760,C:1.86m,C,A,nan,I+T_perp
+mv_761,C:1.86m,C,A,nan,I+T_perp
+mv_762,C:1.86m,C,A,nan,I+T_perp
+mv_763,C,C,A,nan,I+T_perp
+mv_765,A,A,C,nan,I+T_perp
+mv_766,A,A,C,nan,I+T_perp
+mv_767,A,A,C,nan,I+T_perp
+mv_768,A,A,C,nan,I+T_perp
+mv_770,A,A,C,nan,I+T_perp
+mv_771,A,A,C,nan,I+T_perp
+mv_772,A,A,C,nan,I+T_perp
+mv_773,C,C,C,nan,I+T_perp
+mv_775,None,None,B,nan,I+T_perp
+mv_776,D,D,B,nan,I+T_perp
+mv_777,D,D,B,nan,I+T_perp
+mv_778,D,D,B,nan,I+T_perp
+mv_780,A,A,A,nan,I+T_perp
+mv_781,B,B,A,nan,I+T_perp
+mv_782,B,B,A,nan,I+T_perp
+mv_783,B,B,A,nan,I+T_perp
+mv_785,A,A,C,nan,I+T_perp
+mv_786,B,B,C,nan,I+T_perp
+mv_787,B,B,C,nan,I+T_perp
+mv_788,A,A,C,nan,I+T_perp
+mv_790,A,A,A,nan,I+T_perp
+mv_791,A,A,A,nan,I+T_perp
+mv_792,A,A,A,nan,I+T_perp
+mv_793,A,A,A,nan,I+T_perp
+mv_795,None,None,D,nan,I+T_perp
+mv_796,B,B,D,nan,I+T_perp
+mv_797,B,B,D,nan,I+T_perp
+mv_798,B,B,D,nan,I+T_perp
+mv_800,C,C,B,nan,I+T_perp
+mv_801,C,C,B,nan,I+T_perp
+mv_802,C,C,B,nan,I+T_perp
+mv_803,C,C,B,nan,I+T_perp
+mv_805,A,A,C,nan,I+T_perp
+mv_806,A,A,C,nan,I+T_perp
+mv_807,A,A,C,nan,I+T_perp
+mv_808,A,A,C,nan,I+T_perp
+mv_810,C,C,B,nan,I+T_perp
+mv_811,B,B,B,nan,I+T_perp
+mv_812,B,B,B,nan,I+T_perp
+mv_813,B,B,B,nan,I+T_perp
+mv_815,C:\frac{3}{5},C,C,nan,I+T_perp
+mv_816,C:\frac{3}{5},C,C,nan,I+T_perp
+mv_817,C:\frac{3}{5},C,C,nan,I+T_perp
+mv_818,C,C,C,nan,I+T_perp
+mv_820,A,A,C,nan,I+T_perp
+mv_821,D,D,C,nan,I+T_perp
+mv_822,D,D,C,nan,I+T_perp
+mv_823,A,A,C,nan,I+T_perp
+mv_825,A,A,B,nan,I+T_perp
+mv_826,A,A,B,nan,I+T_perp
+mv_827,A,A,B,nan,I+T_perp
+mv_828,D,D,B,nan,I+T_perp
+mv_830,C,C,B,nan,I+T_perp
+mv_831,C,C,B,nan,I+T_perp
+mv_832,C,C,B,nan,I+T_perp
+mv_833,C,C,B,nan,I+T_perp
+mv_835,None,None,B,nan,I+T_perp
+mv_836,None,None,B,nan,I+T_perp
+mv_837,None,None,B,nan,I+T_perp
+mv_838,A,A,B,nan,I+T_perp
+mv_840,D,D,A,nan,I+T_perp
+mv_841,D,D,A,nan,I+T_perp
+mv_842,D,D,A,nan,I+T_perp
+mv_843,A,A,A,nan,I+T_perp
+mv_845,B,B,D,nan,I+T_perp
+mv_846,B,B,D,nan,I+T_perp
+mv_847,B,B,D,nan,I+T_perp
+mv_848,B,B,D,nan,I+T_perp
+mv_850,C,C,D,nan,I+T_perp
+mv_851,C,C,D,nan,I+T_perp
+mv_852,C,C,D,nan,I+T_perp
+mv_853,C,C,D,nan,I+T_perp
+mv_855,B,B,B,nan,I+T_perp
+mv_856,B,B,B,nan,I+T_perp
+mv_857,B,B,B,nan,I+T_perp
+mv_858,C,C,B,nan,I+T_perp
+mv_860,A,A,C,nan,I+T_perp
+mv_861,A,A,C,nan,I+T_perp
+mv_862,A,A,C,nan,I+T_perp
+mv_863,A,A,C,nan,I+T_perp
+mv_865,D,D,D,nan,I+T_perp
+mv_866,D,D,D,nan,I+T_perp
+mv_867,D,D,D,nan,I+T_perp
+mv_868,A,A,D,nan,I+T_perp
+mv_870,A,A,C,nan,I+T_perp
+mv_871,A,A,C,nan,I+T_perp
+mv_872,A,A,C,nan,I+T_perp
+mv_873,A,A,C,nan,I+T_perp
+mv_875,B,B,C,nan,I+T_perp
+mv_876,B,B,C,nan,I+T_perp
+mv_877,B,B,C,nan,I+T_perp
+mv_878,B,B,C,nan,I+T_perp
+mv_880,B,B,A,nan,I+T_perp
+mv_881,B,B,A,nan,I+T_perp
+mv_882,B,B,A,nan,I+T_perp
+mv_883,A,A,A,nan,I+T_perp
+mv_885,B,B,C,nan,I+T_perp
+mv_886,B,B,C,nan,I+T_perp
+mv_887,B,B,C,nan,I+T_perp
+mv_888,A,A,C,nan,I+T_perp
+mv_890,B: 5√{3},B,D,nan,I+T_perp
+mv_891,B: 5√{3},B,D,nan,I+T_perp
+mv_892,B: \frac{5√{3}}{2},B,D,nan,I+T_perp
+mv_893,B: \frac{5√{3}}{2},B,D,nan,I+T_perp
+mv_895,B,B,B,nan,I+T_perp
+mv_896,B,B,B,nan,I+T_perp
+mv_897,B,B,B,nan,I+T_perp
+mv_898,B,B,B,nan,I+T_perp
+mv_900,D,D,C,nan,I+T_perp
+mv_901,B:9,B,C,nan,I+T_perp
+mv_902,B:9,B,C,nan,I+T_perp
+mv_903,D,D,C,nan,I+T_perp
+mv_905,B,B,D,nan,I+T_perp
+mv_906,B,B,D,nan,I+T_perp
+mv_907,B,B,D,nan,I+T_perp
+mv_908,B,B,D,nan,I+T_perp
+mv_910,B,B,D,nan,I+T_perp
+mv_911,A,A,D,nan,I+T_perp
+mv_912,A,A,D,nan,I+T_perp
+mv_913,B,B,D,nan,I+T_perp
+mv_915,D,D,D,nan,I+T_perp
+mv_916,D,D,D,nan,I+T_perp
+mv_917,D,D,D,nan,I+T_perp
+mv_918,D:2√{3},D,D,nan,I+T_perp
+mv_920,D,D,B,nan,I+T_perp
+mv_921,D,D,B,nan,I+T_perp
+mv_922,D,D,B,nan,I+T_perp
+mv_923,C,C,B,nan,I+T_perp
+mv_925,D,D,B,nan,I+T_perp
+mv_926,D,D,B,nan,I+T_perp
+mv_927,B,B,B,nan,I+T_perp
+mv_928,B,B,B,nan,I+T_perp
+mv_930,A,A,B,nan,I+T_perp
+mv_931,A,A,B,nan,I+T_perp
+mv_932,A,A,B,nan,I+T_perp
+mv_933,A,A,B,nan,I+T_perp
+mv_935,B,B,C,nan,I+T_perp
+mv_936,B,B,C,nan,I+T_perp
+mv_937,B,B,C,nan,I+T_perp
+mv_938,B,B,C,nan,I+T_perp
+mv_940,D,D,B,nan,I+T_perp
+mv_941,D,D,B,nan,I+T_perp
+mv_942,D,D,B,nan,I+T_perp
+mv_943,B,B,B,nan,I+T_perp
+mv_945,D,D,A,nan,I+T_perp
+mv_946,D,D,A,nan,I+T_perp
+mv_947,D,D,A,nan,I+T_perp
+mv_948,A,A,A,nan,I+T_perp
+mv_950,A,A,D,nan,I+T_perp
+mv_951,A,A,D,nan,I+T_perp
+mv_952,C,C,D,nan,I+T_perp
+mv_953,A,A,D,nan,I+T_perp
+mv_955,B,B,B,nan,I+T_perp
+mv_956,B,B,B,nan,I+T_perp
+mv_957,B,B,B,nan,I+T_perp
+mv_958,D,D,B,nan,I+T_perp
+mv_960,D,D,C,nan,I+T_perp
+mv_961,D,D,C,nan,I+T_perp
+mv_962,A,A,C,nan,I+T_perp
+mv_963,None,None,C,nan,I+T_perp
+mv_965,C:6√{3}cm,C,D,nan,I+T_perp
+mv_966,C,C,D,nan,I+T_perp
+mv_967,C,C,D,nan,I+T_perp
+mv_968,C,C,D,nan,I+T_perp
+mv_970,A,A,B,nan,I+T_perp
+mv_971,A,A,B,nan,I+T_perp
+mv_972,A,A,B,nan,I+T_perp
+mv_973,A,A,B,nan,I+T_perp
+mv_975,B:8π平方米,B,D,nan,I+T_perp
+mv_976,B,B,D,nan,I+T_perp
+mv_977,B,B,D,nan,I+T_perp
+mv_978,B,B,D,nan,I+T_perp
+mv_980,C,C,B,nan,I+T_perp
+mv_981,C,C,B,nan,I+T_perp
+mv_982,C,C,B,nan,I+T_perp
+mv_983,A,A,B,nan,I+T_perp
+mv_985,C,C,B,nan,I+T_perp
+mv_986,C,C,B,nan,I+T_perp
+mv_987,C,C,B,nan,I+T_perp
+mv_988,C,C,B,nan,I+T_perp
+mv_990,C,C,A,nan,I+T_perp
+mv_991,C,C,A,nan,I+T_perp
+mv_992,C,C,A,nan,I+T_perp
+mv_993,B,B,A,nan,I+T_perp
+mv_995,A,A,A,nan,I+T_perp
+mv_996,A,A,A,nan,I+T_perp
+mv_997,A,A,A,nan,I+T_perp
+mv_998,B,B,A,nan,I+T_perp
+mv_1000,B,B,B,nan,I+T_perp
+mv_1001,B,B,B,nan,I+T_perp
+mv_1002,B,B,B,nan,I+T_perp
+mv_1003,B,B,B,nan,I+T_perp
+mv_1005,A,A,D,nan,I+T_perp
+mv_1006,A,A,D,nan,I+T_perp
+mv_1007,A,A,D,nan,I+T_perp
+mv_1008,A,A,D,nan,I+T_perp
+mv_1010,D,D,A,nan,I+T_perp
+mv_1011,C,C,A,nan,I+T_perp
+mv_1012,C,C,A,nan,I+T_perp
+mv_1013,C,C,A,nan,I+T_perp
+mv_1015,A,A,C,nan,I+T_perp
+mv_1016,A,A,C,nan,I+T_perp
+mv_1017,A,A,C,nan,I+T_perp
+mv_1018,B,B,C,nan,I+T_perp
+mv_1020,A,A,C,nan,I+T_perp
+mv_1021,A,A,C,nan,I+T_perp
+mv_1022,A,A,C,nan,I+T_perp
+mv_1023,A,A,C,nan,I+T_perp
+mv_1025,C:36,C,D,nan,I+T_perp
+mv_1026,C:36,C,D,nan,I+T_perp
+mv_1027,C,C,D,nan,I+T_perp
+mv_1028,C:36,C,D,nan,I+T_perp
+mv_1030,A,A,B,nan,I+T_perp
+mv_1031,A,A,B,nan,I+T_perp
+mv_1032,A,A,B,nan,I+T_perp
+mv_1033,A,A,B,nan,I+T_perp
+mv_1035,B,B,A,nan,I+T_perp
+mv_1036,B,B,A,nan,I+T_perp
+mv_1037,B,B,A,nan,I+T_perp
+mv_1038,B,B,A,nan,I+T_perp
+mv_1040,B,B,B,nan,I+T_perp
+mv_1041,B,B,B,nan,I+T_perp
+mv_1042,B,B,B,nan,I+T_perp
+mv_1043,B,B,B,nan,I+T_perp
+mv_1045,A:12,A,B,nan,I+T_perp
+mv_1046,A:12,A,B,nan,I+T_perp
+mv_1047,A:12,A,B,nan,I+T_perp
+mv_1048,A:12,A,B,nan,I+T_perp
+mv_1050,C,C,A,nan,I+T_perp
+mv_1051,C,C,A,nan,I+T_perp
+mv_1052,C,C,A,nan,I+T_perp
+mv_1053,A,A,A,nan,I+T_perp
+mv_1055,D,D,B,nan,I+T_perp
+mv_1056,D,D,B,nan,I+T_perp
+mv_1057,D,D,B,nan,I+T_perp
+mv_1058,D,D,B,nan,I+T_perp
+mv_1060,A,A,C,nan,I+T_perp
+mv_1061,A,A,C,nan,I+T_perp
+mv_1062,A,A,C,nan,I+T_perp
+mv_1063,A,A,C,nan,I+T_perp
+mv_1065,A,A,D,nan,I+T_perp
+mv_1066,A,A,D,nan,I+T_perp
+mv_1067,A,A,D,nan,I+T_perp
+mv_1068,A,A,D,nan,I+T_perp
+mv_1070,A,A,B,nan,I+T_perp
+mv_1071,A,A,B,nan,I+T_perp
+mv_1072,A,A,B,nan,I+T_perp
+mv_1073,A,A,B,nan,I+T_perp
+mv_1075,B,B,D,nan,I+T_perp
+mv_1076,B,B,D,nan,I+T_perp
+mv_1077,B,B,D,nan,I+T_perp
+mv_1078,B,B,D,nan,I+T_perp
+mv_1080,A,A,C,nan,I+T_perp
+mv_1081,C,C,C,nan,I+T_perp
+mv_1082,A,A,C,nan,I+T_perp
+mv_1083,C,C,C,nan,I+T_perp
+mv_1085,A,A,B,nan,I+T_perp
+mv_1086,D,D,B,nan,I+T_perp
+mv_1087,D,D,B,nan,I+T_perp
+mv_1088,A,A,B,nan,I+T_perp
+mv_1090,A,A,C,nan,I+T_perp
+mv_1091,A,A,C,nan,I+T_perp
+mv_1092,B,B,C,nan,I+T_perp
+mv_1093,A,A,C,nan,I+T_perp
+mv_1095,A,A,A,nan,I+T_perp
+mv_1096,A,A,A,nan,I+T_perp
+mv_1097,A,A,A,nan,I+T_perp
+mv_1098,A,A,A,nan,I+T_perp
+mv_1100,B,B,B,nan,I+T_perp
+mv_1101,B,B,B,nan,I+T_perp
+mv_1102,B,B,B,nan,I+T_perp
+mv_1103,B,B,B,nan,I+T_perp
+mv_1105,A,A,C,nan,I+T_perp
+mv_1106,A,A,C,nan,I+T_perp
+mv_1107,A,A,C,nan,I+T_perp
+mv_1108,A,A,C,nan,I+T_perp
+mv_1110,B,B,A,nan,I+T_perp
+mv_1111,A,A,A,nan,I+T_perp
+mv_1112,A,A,A,nan,I+T_perp
+mv_1113,D,D,A,nan,I+T_perp
+mv_1115,C,C,B,nan,I+T_perp
+mv_1116,C,C,B,nan,I+T_perp
+mv_1117,C,C,B,nan,I+T_perp
+mv_1118,C,C,B,nan,I+T_perp
+mv_1120,B,B,D,nan,I+T_perp
+mv_1121,B,B,D,nan,I+T_perp
+mv_1122,A,A,D,nan,I+T_perp
+mv_1123,B,B,D,nan,I+T_perp
+mv_1125,A,A,C,nan,I+T_perp
+mv_1126,B,B,C,nan,I+T_perp
+mv_1127,B,B,C,nan,I+T_perp
+mv_1128,B,B,C,nan,I+T_perp
+mv_1130,C,C,D,nan,I+T_perp
+mv_1131,D,D,D,nan,I+T_perp
+mv_1132,D,D,D,nan,I+T_perp
+mv_1133,D,D,D,nan,I+T_perp
+mv_1135,D,D,C,nan,I+T_perp
+mv_1136,D,D,C,nan,I+T_perp
+mv_1137,D,D,C,nan,I+T_perp
+mv_1138,D,D,C,nan,I+T_perp
+mv_1140,A,A,C,nan,I+T_perp
+mv_1141,A,A,C,nan,I+T_perp
+mv_1142,B,B,C,nan,I+T_perp
+mv_1143,A,A,C,nan,I+T_perp
+mv_1145,A,A,D,nan,I+T_perp
+mv_1146,A,A,D,nan,I+T_perp
+mv_1147,A,A,D,nan,I+T_perp
+mv_1148,A,A,D,nan,I+T_perp
+mv_1150,D,D,B,nan,I+T_perp
+mv_1151,D,D,B,nan,I+T_perp
+mv_1152,D,D,B,nan,I+T_perp
+mv_1153,D,D,B,nan,I+T_perp
+mv_1155,A,A,B,nan,I+T_perp
+mv_1156,A,A,B,nan,I+T_perp
+mv_1157,B,B,B,nan,I+T_perp
+mv_1158,A,A,B,nan,I+T_perp
+mv_1160,B,B,A,nan,I+T_perp
+mv_1161,B,B,A,nan,I+T_perp
+mv_1162,D,D,A,nan,I+T_perp
+mv_1163,B,B,A,nan,I+T_perp
+mv_1165,B,B,C,nan,I+T_perp
+mv_1166,A,A,C,nan,I+T_perp
+mv_1167,A,A,C,nan,I+T_perp
+mv_1168,A,A,C,nan,I+T_perp
+mv_1170,B:110,B,B,nan,I+T_perp
+mv_1171,B:110,B,B,nan,I+T_perp
+mv_1172,B,B,B,nan,I+T_perp
+mv_1173,B,B,B,nan,I+T_perp
+mv_1175,A,A,C,nan,I+T_perp
+mv_1176,A,A,C,nan,I+T_perp
+mv_1177,A,A,C,nan,I+T_perp
+mv_1178,A,A,C,nan,I+T_perp
+mv_1180,C,C,C,nan,I+T_perp
+mv_1181,C,C,C,nan,I+T_perp
+mv_1182,C,C,C,nan,I+T_perp
+mv_1183,A,A,C,nan,I+T_perp
+mv_1185,B,B,B,nan,I+T_perp
+mv_1186,A,A,B,nan,I+T_perp
+mv_1187,A,A,B,nan,I+T_perp
+mv_1188,D,D,B,nan,I+T_perp
+mv_1190,A,A,B,nan,I+T_perp
+mv_1191,A,A,B,nan,I+T_perp
+mv_1192,B,B,B,nan,I+T_perp
+mv_1193,A,A,B,nan,I+T_perp
+mv_1195,D,D,A,nan,I+T_perp
+mv_1196,D,D,A,nan,I+T_perp
+mv_1197,D,D,A,nan,I+T_perp
+mv_1198,D,D,A,nan,I+T_perp
+mv_1200,A,A,D,nan,I+T_perp
+mv_1201,A,A,D,nan,I+T_perp
+mv_1202,A,A,D,nan,I+T_perp
+mv_1203,C,C,D,nan,I+T_perp
+mv_1205,A,A,C,nan,I+T_perp
+mv_1206,A,A,C,nan,I+T_perp
+mv_1207,A,A,C,nan,I+T_perp
+mv_1208,A,A,C,nan,I+T_perp
+mv_1210,B,B,D,nan,I+T_perp
+mv_1211,B,B,D,nan,I+T_perp
+mv_1212,B,B,D,nan,I+T_perp
+mv_1213,B,B,D,nan,I+T_perp
+mv_1215,C,C,B,nan,I+T_perp
+mv_1216,C,C,B,nan,I+T_perp
+mv_1217,D,D,B,nan,I+T_perp
+mv_1218,C,C,B,nan,I+T_perp
+mv_1220,B,B,A,nan,I+T_perp
+mv_1221,B,B,A,nan,I+T_perp
+mv_1222,B,B,A,nan,I+T_perp
+mv_1223,D,D,A,nan,I+T_perp
+mv_1225,A,A,B,nan,I+T_perp
+mv_1226,A,A,B,nan,I+T_perp
+mv_1227,A,A,B,nan,I+T_perp
+mv_1228,A,A,B,nan,I+T_perp
+mv_1230,D,D,B,nan,I+T_perp
+mv_1231,B:44,B,B,nan,I+T_perp
+mv_1232,B:44,B,B,nan,I+T_perp
+mv_1233,A,A,B,nan,I+T_perp
+mv_1235,D,D,C,nan,I+T_perp
+mv_1236,D,D,C,nan,I+T_perp
+mv_1237,D,D,C,nan,I+T_perp
+mv_1238,D,D,C,nan,I+T_perp
+mv_1240,A,A,D,nan,I+T_perp
+mv_1241,A,A,D,nan,I+T_perp
+mv_1242,A,A,D,nan,I+T_perp
+mv_1243,D,D,D,nan,I+T_perp
+mv_1245,B,B,D,nan,I+T_perp
+mv_1246,B,B,D,nan,I+T_perp
+mv_1247,D,D,D,nan,I+T_perp
+mv_1248,A,A,D,nan,I+T_perp
+mv_1250,A,A,A,nan,I+T_perp
+mv_1251,C,C,A,nan,I+T_perp
+mv_1252,C,C,A,nan,I+T_perp
+mv_1253,C,C,A,nan,I+T_perp
+mv_1255,C:9,C,B,nan,I+T_perp
+mv_1256,C,C,B,nan,I+T_perp
+mv_1257,C,C,B,nan,I+T_perp
+mv_1258,B,B,B,nan,I+T_perp
+mv_1260,B,B,C,nan,I+T_perp
+mv_1261,B,B,C,nan,I+T_perp
+mv_1262,B,B,C,nan,I+T_perp
+mv_1263,B,B,C,nan,I+T_perp
+mv_1265,B,B,D,nan,I+T_perp
+mv_1266,B,B,D,nan,I+T_perp
+mv_1267,B,B,D,nan,I+T_perp
+mv_1268,B,B,D,nan,I+T_perp
+mv_1270,B,B,B,nan,I+T_perp
+mv_1271,B,B,B,nan,I+T_perp
+mv_1272,B,B,B,nan,I+T_perp
+mv_1273,B,B,B,nan,I+T_perp
+mv_1275,A,A,A,nan,I+T_perp
+mv_1276,A,A,A,nan,I+T_perp
+mv_1277,A,A,A,nan,I+T_perp
+mv_1278,A,A,A,nan,I+T_perp
+mv_1280,A:10,A,C,nan,I+T_perp
+mv_1281,A:10,A,C,nan,I+T_perp
+mv_1282,A:10,A,C,nan,I+T_perp
+mv_1283,B,B,C,nan,I+T_perp
+mv_1285,A,A,B,nan,I+T_perp
+mv_1286,A,A,B,nan,I+T_perp
+mv_1287,A,A,B,nan,I+T_perp
+mv_1288,A,A,B,nan,I+T_perp
+mv_1290,B,B,C,nan,I+T_perp
+mv_1291,A,A,C,nan,I+T_perp
+mv_1292,A,A,C,nan,I+T_perp
+mv_1293,A,A,C,nan,I+T_perp
+mv_1295,C,C,B,nan,I+T_perp
+mv_1296,B,B,B,nan,I+T_perp
+mv_1297,B,B,B,nan,I+T_perp
+mv_1298,B,B,B,nan,I+T_perp
+mv_1300,C,C,B,nan,I+T_perp
+mv_1301,C,C,B,nan,I+T_perp
+mv_1302,C,C,B,nan,I+T_perp
+mv_1303,A,A,B,nan,I+T_perp
+mv_1305,C,C,C,nan,I+T_perp
+mv_1306,C,C,C,nan,I+T_perp
+mv_1307,C,C,C,nan,I+T_perp
+mv_1308,C,C,C,nan,I+T_perp
+mv_1310,C,C,B,nan,I+T_perp
+mv_1311,C,C,B,nan,I+T_perp
+mv_1312,C,C,B,nan,I+T_perp
+mv_1313,C,C,B,nan,I+T_perp
+mv_1315,D,D,C,nan,I+T_perp
+mv_1316,C,C,C,nan,I+T_perp
+mv_1317,A,A,C,nan,I+T_perp
+mv_1318,D,D,C,nan,I+T_perp
+mv_1320,B,B,B,nan,I+T_perp
+mv_1321,B,B,B,nan,I+T_perp
+mv_1322,B,B,B,nan,I+T_perp
+mv_1323,B,B,B,nan,I+T_perp
+mv_1325,B,B,D,nan,I+T_perp
+mv_1326,B,B,D,nan,I+T_perp
+mv_1327,B,B,D,nan,I+T_perp
+mv_1328,B,B,D,nan,I+T_perp
+mv_1330,D,D,C,nan,I+T_perp
+mv_1331,B,B,C,nan,I+T_perp
+mv_1332,B,B,C,nan,I+T_perp
+mv_1333,B,B,C,nan,I+T_perp
+mv_1335,C,C,A,nan,I+T_perp
+mv_1336,C,C,A,nan,I+T_perp
+mv_1337,C,C,A,nan,I+T_perp
+mv_1338,C,C,A,nan,I+T_perp
+mv_1340,B,B,C,nan,I+T_perp
+mv_1341,B,B,C,nan,I+T_perp
+mv_1342,B,B,C,nan,I+T_perp
+mv_1343,B,B,C,nan,I+T_perp
+mv_1345,A,A,C,nan,I+T_perp
+mv_1346,C,C,C,nan,I+T_perp
+mv_1347,C,C,C,nan,I+T_perp
+mv_1348,C,C,C,nan,I+T_perp
+mv_1350,A,A,B,nan,I+T_perp
+mv_1351,C,C,B,nan,I+T_perp
+mv_1352,C,C,B,nan,I+T_perp
+mv_1353,C,C,B,nan,I+T_perp
+mv_1355,A,A,A,nan,I+T_perp
+mv_1356,A,A,A,nan,I+T_perp
+mv_1357,A,A,A,nan,I+T_perp
+mv_1358,D,D,A,nan,I+T_perp
+mv_1360,B,B,B,nan,I+T_perp
+mv_1361,A,A,B,nan,I+T_perp
+mv_1362,A,A,B,nan,I+T_perp
+mv_1363,A,A,B,nan,I+T_perp
+mv_1365,A,A,C,nan,I+T_perp
+mv_1366,A,A,C,nan,I+T_perp
+mv_1367,A,A,C,nan,I+T_perp
+mv_1368,A,A,C,nan,I+T_perp
+mv_1370,A,A,C,nan,I+T_perp
+mv_1371,C,C,C,nan,I+T_perp
+mv_1372,D,D,C,nan,I+T_perp
+mv_1373,A,A,C,nan,I+T_perp
+mv_1375,D,D,C,nan,I+T_perp
+mv_1376,D,D,C,nan,I+T_perp
+mv_1377,D,D,C,nan,I+T_perp
+mv_1378,A,A,C,nan,I+T_perp
+mv_1380,B,B,C,nan,I+T_perp
+mv_1381,B,B,C,nan,I+T_perp
+mv_1382,B,B,C,nan,I+T_perp
+mv_1383,B,B,C,nan,I+T_perp
+mv_1385,D,D,A,nan,I+T_perp
+mv_1386,D,D,A,nan,I+T_perp
+mv_1387,D,D,A,nan,I+T_perp
+mv_1388,D,D,A,nan,I+T_perp
+mv_1390,A,A,A,nan,I+T_perp
+mv_1391,A,A,A,nan,I+T_perp
+mv_1392,A,A,A,nan,I+T_perp
+mv_1393,A,A,A,nan,I+T_perp
+mv_1395,A,A,B,nan,I+T_perp
+mv_1396,A,A,B,nan,I+T_perp
+mv_1397,A,A,B,nan,I+T_perp
+mv_1398,A,A,B,nan,I+T_perp
+mv_1400,A,A,A,nan,I+T_perp
+mv_1401,A,A,A,nan,I+T_perp
+mv_1402,A,A,A,nan,I+T_perp
+mv_1403,A,A,A,nan,I+T_perp
+mv_1405,B,B,B,nan,I+T_perp
+mv_1406,A,A,B,nan,I+T_perp
+mv_1407,A,A,B,nan,I+T_perp
+mv_1408,A,A,B,nan,I+T_perp
+mv_1410,A,A,C,nan,I+T_perp
+mv_1411,D,D,C,nan,I+T_perp
+mv_1412,D,D,C,nan,I+T_perp
+mv_1413,D,D,C,nan,I+T_perp
+mv_1415,B,B,B,nan,I+T_perp
+mv_1416,B,B,B,nan,I+T_perp
+mv_1417,B,B,B,nan,I+T_perp
+mv_1418,B,B,B,nan,I+T_perp
+mv_1420,B,B,C,nan,I+T_perp
+mv_1421,B,B,C,nan,I+T_perp
+mv_1422,B,B,C,nan,I+T_perp
+mv_1423,B,B,C,nan,I+T_perp
+mv_1425,A,A,D,nan,I+T_perp
+mv_1426,A,A,D,nan,I+T_perp
+mv_1427,A,A,D,nan,I+T_perp
+mv_1428,A,A,D,nan,I+T_perp
+mv_1430,B,B,D,nan,I+T_perp
+mv_1431,C,C,D,nan,I+T_perp
+mv_1432,C,C,D,nan,I+T_perp
+mv_1433,C,C,D,nan,I+T_perp
+mv_1435,A,A,A,nan,I+T_perp
+mv_1436,A,A,A,nan,I+T_perp
+mv_1437,A,A,A,nan,I+T_perp
+mv_1438,A,A,A,nan,I+T_perp
+mv_1440,D,D,B,nan,I+T_perp
+mv_1441,D,D,B,nan,I+T_perp
+mv_1442,D,D,B,nan,I+T_perp
+mv_1443,A,A,B,nan,I+T_perp
+mv_1445,D,D,A,nan,I+T_perp
+mv_1446,B,B,A,nan,I+T_perp
+mv_1447,B,B,A,nan,I+T_perp
+mv_1448,B,B,A,nan,I+T_perp
+mv_1450,A,A,D,nan,I+T_perp
+mv_1451,A,A,D,nan,I+T_perp
+mv_1452,A,A,D,nan,I+T_perp
+mv_1453,A,A,D,nan,I+T_perp
+mv_1455,A,A,D,nan,I+T_perp
+mv_1456,A,A,D,nan,I+T_perp
+mv_1457,A,A,D,nan,I+T_perp
+mv_1458,A,A,D,nan,I+T_perp
+mv_1460,B,B,C,nan,I+T_perp
+mv_1461,B,B,C,nan,I+T_perp
+mv_1462,B,B,C,nan,I+T_perp
+mv_1463,B,B,C,nan,I+T_perp
+mv_1465,B,B,A,nan,I+T_perp
+mv_1466,B,B,A,nan,I+T_perp
+mv_1467,B,B,A,nan,I+T_perp
+mv_1468,B,B,A,nan,I+T_perp
+mv_1470,B,B,A,nan,I+T_perp
+mv_1471,C,C,A,nan,I+T_perp
+mv_1472,C,C,A,nan,I+T_perp
+mv_1473,C,C,A,nan,I+T_perp
+mv_1475,A,A,B,nan,I+T_perp
+mv_1476,D,D,B,nan,I+T_perp
+mv_1477,A,A,B,nan,I+T_perp
+mv_1478,D,D,B,nan,I+T_perp
+mv_1480,D:123,D,B,nan,I+T_perp
+mv_1481,A,A,B,nan,I+T_perp
+mv_1482,A,A,B,nan,I+T_perp
+mv_1483,D,D,B,nan,I+T_perp
+mv_1485,A,A,A,nan,I+T_perp
+mv_1486,A,A,A,nan,I+T_perp
+mv_1487,A,A,A,nan,I+T_perp
+mv_1488,A,A,A,nan,I+T_perp
+mv_1490,A,A,C,nan,I+T_perp
+mv_1491,A,A,C,nan,I+T_perp
+mv_1492,A,A,C,nan,I+T_perp
+mv_1493,A,A,C,nan,I+T_perp
+mv_1495,B:2 \sqrt { 11 },B,B,nan,I+T_perp
+mv_1496,B,B,B,nan,I+T_perp
+mv_1497,B,B,B,nan,I+T_perp
+mv_1498,B,B,B,nan,I+T_perp
+mv_1500,A,A,A,nan,I+T_perp
+mv_1501,A:5.8,A,A,nan,I+T_perp
+mv_1502,A:5.8,A,A,nan,I+T_perp
+mv_1503,C,C,A,nan,I+T_perp
+mv_1505,B,B,A,nan,I+T_perp
+mv_1506,B,B,A,nan,I+T_perp
+mv_1507,B,B,A,nan,I+T_perp
+mv_1508,B,B,A,nan,I+T_perp
+mv_1510,C,C,B,nan,I+T_perp
+mv_1511,A,A,B,nan,I+T_perp
+mv_1512,A,A,B,nan,I+T_perp
+mv_1513,A,A,B,nan,I+T_perp
+mv_1515,A,A,C,nan,I+T_perp
+mv_1516,B,B,C,nan,I+T_perp
+mv_1517,B,B,C,nan,I+T_perp
+mv_1518,B,B,C,nan,I+T_perp
+mv_1520,D,D,D,nan,I+T_perp
+mv_1521,A,A,D,nan,I+T_perp
+mv_1522,A,A,D,nan,I+T_perp
+mv_1523,A,A,D,nan,I+T_perp
+mv_1525,A,A,A,nan,I+T_perp
+mv_1526,A,A,A,nan,I+T_perp
+mv_1527,A,A,A,nan,I+T_perp
+mv_1528,B,B,A,nan,I+T_perp
+mv_1530,C,C,B,nan,I+T_perp
+mv_1531,D,D,B,nan,I+T_perp
+mv_1532,D,D,B,nan,I+T_perp
+mv_1533,D,D,B,nan,I+T_perp
+mv_1535,C,C,A,nan,I+T_perp
+mv_1536,A,A,A,nan,I+T_perp
+mv_1537,B,B,A,nan,I+T_perp
+mv_1538,A,A,A,nan,I+T_perp
+mv_1540,A,A,C,nan,I+T_perp
+mv_1541,C,C,C,nan,I+T_perp
+mv_1542,C,C,C,nan,I+T_perp
+mv_1543,C,C,C,nan,I+T_perp
+mv_1545,A,A,B,nan,I+T_perp
+mv_1546,B,B,B,nan,I+T_perp
+mv_1547,B,B,B,nan,I+T_perp
+mv_1548,B,B,B,nan,I+T_perp
+mv_1550,B:104,B,D,nan,I+T_perp
+mv_1551,B,B,D,nan,I+T_perp
+mv_1552,B:104,B,D,nan,I+T_perp
+mv_1553,B,B,D,nan,I+T_perp
+mv_1555,A,A,B,nan,I+T_perp
+mv_1556,A,A,B,nan,I+T_perp
+mv_1557,A,A,B,nan,I+T_perp
+mv_1558,A,A,B,nan,I+T_perp
+mv_1560,A,A,B,nan,I+T_perp
+mv_1561,A,A,B,nan,I+T_perp
+mv_1562,A,A,B,nan,I+T_perp
+mv_1563,A,A,B,nan,I+T_perp
+mv_1565,B,B,C,nan,I+T_perp
+mv_1566,B,B,C,nan,I+T_perp
+mv_1567,B,B,C,nan,I+T_perp
+mv_1568,D,D,C,nan,I+T_perp
+mv_1570,A,A,D,nan,I+T_perp
+mv_1571,A,A,D,nan,I+T_perp
+mv_1572,A,A,D,nan,I+T_perp
+mv_1573,A,A,D,nan,I+T_perp
+mv_1575,A,A,C,nan,I+T_perp
+mv_1576,A,A,C,nan,I+T_perp
+mv_1577,A,A,C,nan,I+T_perp
+mv_1578,A,A,C,nan,I+T_perp
+mv_1580,A,A,B,nan,I+T_perp
+mv_1581,A,A,B,nan,I+T_perp
+mv_1582,A,A,B,nan,I+T_perp
+mv_1583,A,A,B,nan,I+T_perp
+mv_1585,B,B,C,nan,I+T_perp
+mv_1586,A,A,C,nan,I+T_perp
+mv_1587,A,A,C,nan,I+T_perp
+mv_1588,A,A,C,nan,I+T_perp
+mv_1590,A,A,A,nan,I+T_perp
+mv_1591,A,A,A,nan,I+T_perp
+mv_1592,A,A,A,nan,I+T_perp
+mv_1593,A,A,A,nan,I+T_perp
+mv_1595,D,D,C,nan,I+T_perp
+mv_1596,A,A,C,nan,I+T_perp
+mv_1597,A,A,C,nan,I+T_perp
+mv_1598,A,A,C,nan,I+T_perp
+mv_1600,C:48,C,C,nan,I+T_perp
+mv_1601,C:48,C,C,nan,I+T_perp
+mv_1602,C,C,C,nan,I+T_perp
+mv_1603,D,D,C,nan,I+T_perp
+mv_1605,A,A,C,nan,I+T_perp
+mv_1606,A,A,C,nan,I+T_perp
+mv_1607,A,A,C,nan,I+T_perp
+mv_1608,A,A,C,nan,I+T_perp
+mv_1610,C,C,D,nan,I+T_perp
+mv_1611,C,C,D,nan,I+T_perp
+mv_1612,C,C,D,nan,I+T_perp
+mv_1613,C,C,D,nan,I+T_perp
+mv_1615,A,A,C,nan,I+T_perp
+mv_1616,A,A,C,nan,I+T_perp
+mv_1617,A,A,C,nan,I+T_perp
+mv_1618,A,A,C,nan,I+T_perp
+mv_1620,B,B,B,nan,I+T_perp
+mv_1621,B,B,B,nan,I+T_perp
+mv_1622,B,B,B,nan,I+T_perp
+mv_1623,B,B,B,nan,I+T_perp
+mv_1625,A,A,A,nan,I+T_perp
+mv_1626,C,C,A,nan,I+T_perp
+mv_1627,C,C,A,nan,I+T_perp
+mv_1628,C,C,A,nan,I+T_perp
+mv_1630,14.16,14.16,11.8,14.16,I+T_perp
+mv_1631,14.16,14.16,11.8,14.16,I+T_perp
+mv_1632,14.16,14.16,11.8,14.16,I+T_perp
+mv_1633,14.16,14.16,11.8,14.16,I+T_perp
+mv_1635,26.76,26.76,22.3,26.76,I+T_perp
+mv_1636,26.76,26.76,22.3,26.76,I+T_perp
+mv_1637,26.76,26.76,22.3,26.76,I+T_perp
+mv_1638,26.76,26.76,22.3,26.76,I+T_perp
+mv_1640,916,916,2191.7 metres,nan,I+T_perp
+mv_1641,145.96,145.96,2191.7 metres,nan,I+T_perp
+mv_1642,145.96,145.96,2191.7 metres,nan,I+T_perp
+mv_1643,1456.9,1456.9,2191.7 metres,nan,I+T_perp
+mv_1645,191,191,S 23.5 ^\circ W,nan,I+T_perp
+mv_1646,199,199,S 23.5 ^\circ W,nan,I+T_perp
+mv_1647,199,199,S 23.5 ^\circ W,nan,I+T_perp
+mv_1648,190,190,S 23.5 ^\circ W,nan,I+T_perp
+mv_1650,45,45,315^\circT,nan,I+T_perp
+mv_1651,45,45,315^\circT,nan,I+T_perp
+mv_1652,45,45,315^\circT,nan,I+T_perp
+mv_1653,45,45,315^\circT,nan,I+T_perp
+mv_1655,50,50,230 ^\circ T,nan,I+T_perp
+mv_1656,50,50,230 ^\circ T,nan,I+T_perp
+mv_1657,50,50,230 ^\circ T,nan,I+T_perp
+mv_1658,50,50,230 ^\circ T,nan,I+T_perp
+mv_1660,37°,37°,217 ^\circ T,nan,I+T_perp
+mv_1661,None,None,217 ^\circ T,nan,I+T_perp
+mv_1662,None,None,217 ^\circ T,nan,I+T_perp
+mv_1663,None,None,217 ^\circ T,nan,I+T_perp
+mv_1665,28°,28°,118掳T,nan,I+T_perp
+mv_1666,None,None,118掳T,nan,I+T_perp
+mv_1667,None,None,118掳T,nan,I+T_perp
+mv_1668,None,None,118掳T,nan,I+T_perp
+mv_1670,32°,32°,212°T,nan,I+T_perp
+mv_1671,None,None,212°T,nan,I+T_perp
+mv_1672,None,None,212°T,nan,I+T_perp
+mv_1673,None,None,212°T,nan,I+T_perp
+mv_1675,31,31,329° T,nan,I+T_perp
+mv_1676,None,None,329° T,nan,I+T_perp
+mv_1677,None,None,329° T,nan,I+T_perp
+mv_1678,None,None,329° T,nan,I+T_perp
+mv_1680,48,48,270 ^\circ T,nan,I+T_perp
+mv_1681,370,370,270 ^\circ T,nan,I+T_perp
+mv_1682,370,370,270 ^\circ T,nan,I+T_perp
+mv_1683,370,370,270 ^\circ T,nan,I+T_perp
+mv_1685,49,49,319 ^\circ T,nan,I+T_perp
+mv_1686,390,390,319 ^\circ T,nan,I+T_perp
+mv_1687,390,390,319 ^\circ T,nan,I+T_perp
+mv_1688,390,390,319 ^\circ T,nan,I+T_perp
+mv_1690,D,D,090^\circ T,nan,I+T_perp
+mv_1691,D,D,090^\circ T,nan,I+T_perp
+mv_1692,40,40,090^\circ T,nan,I+T_perp
+mv_1693,D,D,090^\circ T,nan,I+T_perp
+mv_1695,D,D,053 ^\circ T,nan,I+T_perp
+mv_1696,D,D,053 ^\circ T,nan,I+T_perp
+mv_1697,None,None,053 ^\circ T,nan,I+T_perp
+mv_1698,A,A,053 ^\circ T,nan,I+T_perp
+mv_1700,42,42,132 ^\circT,nan,I+T_perp
+mv_1701,45,45,132 ^\circT,nan,I+T_perp
+mv_1702,45,45,132 ^\circT,nan,I+T_perp
+mv_1703,45,45,132 ^\circT,nan,I+T_perp
+mv_1705,49°,49°,221 ^\circ T,nan,I+T_perp
+mv_1706,None,None,221 ^\circ T,nan,I+T_perp
+mv_1707,None,None,221 ^\circ T,nan,I+T_perp
+mv_1708,40,40,221 ^\circ T,nan,I+T_perp
+mv_1710,3.2,3.2,62^\circ,nan,I+T_perp
+mv_1711,3.2,3.2,62^\circ,nan,I+T_perp
+mv_1712,3.2,3.2,62^\circ,nan,I+T_perp
+mv_1713,0,0,62^\circ,nan,I+T_perp
+mv_1715,42,42,53.6^\circ,nan,I+T_perp
+mv_1716,42,42,53.6^\circ,nan,I+T_perp
+mv_1717,42,42,53.6^\circ,nan,I+T_perp
+mv_1718,42,42,53.6^\circ,nan,I+T_perp
+mv_1720,108.12,108.12,90.1,108.12,I+T_perp
+mv_1721,108.12,108.12,90.1,108.12,I+T_perp
+mv_1722,108.12,108.12,90.1,108.12,I+T_perp
+mv_1723,108.12,108.12,90.1,108.12,I+T_perp
+mv_1725,44.68,44.68,37.23,44.68,I+T_perp
+mv_1726,25,25,37.23,44.68,I+T_perp
+mv_1727,25,25,37.23,44.68,I+T_perp
+mv_1728,25,25,37.23,44.68,I+T_perp
+mv_1730,23,23,19,23.0,I+T_perp
+mv_1731,23,23,19,23.0,I+T_perp
+mv_1732,23,23,19,23.0,I+T_perp
+mv_1733,23,23,19,23.0,I+T_perp
+mv_1735,342,342,285,342.0,I+T_perp
+mv_1736,342,342,285,342.0,I+T_perp
+mv_1737,342,342,285,342.0,I+T_perp
+mv_1738,342,342,285,342.0,I+T_perp
+mv_1740,63.76,63.76,53.13,63.76,I+T_perp
+mv_1741,63.76,63.76,53.13,63.76,I+T_perp
+mv_1742,63.76,63.76,53.13,63.76,I+T_perp
+mv_1743,63.76,63.76,53.13,63.76,I+T_perp
+mv_1745,2026,2026,1688,2026.0,I+T_perp
+mv_1746,2026,2026,1688,2026.0,I+T_perp
+mv_1747,2026,2026,1688,2026.0,I+T_perp
+mv_1748,2026,2026,1688,2026.0,I+T_perp
+mv_1750,100,100,4.4 m,nan,I+T_perp
+mv_1751,10.8,10.8,4.4 m,nan,I+T_perp
+mv_1752,10.8,10.8,4.4 m,nan,I+T_perp
+mv_1753,25m,25m,4.4 m,nan,I+T_perp
+mv_1755,1000,1000,675 m,nan,I+T_perp
+mv_1756,10,10,675 m,nan,I+T_perp
+mv_1757,10,10,675 m,nan,I+T_perp
+mv_1758,10,10,675 m,nan,I+T_perp
+mv_1760,34,34,28,34.0,I+T_perp
+mv_1761,34,34,28,34.0,I+T_perp
+mv_1762,34,34,28,34.0,I+T_perp
+mv_1763,34,34,28,34.0,I+T_perp
+mv_1765,54.38,54.38,45.32,54.38,I+T_perp
+mv_1766,54.38,54.38,45.32,54.38,I+T_perp
+mv_1767,54.38,54.38,45.32,54.38,I+T_perp
+mv_1768,54.38,54.38,45.32,54.38,I+T_perp
+mv_1770,111.97,111.97,93.31,111.97,I+T_perp
+mv_1771,111.97,111.97,93.31,111.97,I+T_perp
+mv_1772,111.97,111.97,93.31,111.97,I+T_perp
+mv_1773,111.97,111.97,93.31,111.97,I+T_perp
+mv_1775,21.66,21.66,18.05,21.66,I+T_perp
+mv_1776,21.66,21.66,18.05,21.66,I+T_perp
+mv_1777,21.66,21.66,18.05,21.66,I+T_perp
+mv_1778,21.66,21.66,18.05,21.66,I+T_perp
+mv_1780,35,35,35掳,nan,I+T_perp
+mv_1781,35,35,35掳,nan,I+T_perp
+mv_1782,35,35,35掳,nan,I+T_perp
+mv_1783,35,35,35掳,nan,I+T_perp
+mv_1785,29.52,29.52,24.6,29.52,I+T_perp
+mv_1786,29.52,29.52,24.6,29.52,I+T_perp
+mv_1787,29.52,29.52,24.6,29.52,I+T_perp
+mv_1788,29.52,29.52,24.6,29.52,I+T_perp
+mv_1790,61.32,61.32,51.1,61.32,I+T_perp
+mv_1791,61.32,61.32,51.1,61.32,I+T_perp
+mv_1792,61.32,61.32,51.1,61.32,I+T_perp
+mv_1793,61.32,61.32,51.1,61.32,I+T_perp
+mv_1795,7.56,7.56,6.3,7.56,I+T_perp
+mv_1796,7.56,7.56,6.3,7.56,I+T_perp
+mv_1797,7.56,7.56,6.3,7.56,I+T_perp
+mv_1798,7.56,7.56,6.3,7.56,I+T_perp
+mv_1800,11,11,9,11.0,I+T_perp
+mv_1801,11,11,9,11.0,I+T_perp
+mv_1802,11,11,9,11.0,I+T_perp
+mv_1803,11,11,9,11.0,I+T_perp
+mv_1805,275,275,229,275.0,I+T_perp
+mv_1806,275,275,229,275.0,I+T_perp
+mv_1807,275,275,229,275.0,I+T_perp
+mv_1808,275,275,229,275.0,I+T_perp
+mv_1810,25.92,25.92,21.6,25.92,I+T_perp
+mv_1811,25.92,25.92,21.6,25.92,I+T_perp
+mv_1812,25.92,25.92,21.6,25.92,I+T_perp
+mv_1813,25.92,25.92,21.6,25.92,I+T_perp
+mv_1815,89.82,89.82,74.85,89.82,I+T_perp
+mv_1816,89.82,89.82,74.85,89.82,I+T_perp
+mv_1817,89.82,89.82,74.85,89.82,I+T_perp
+mv_1818,89.82,89.82,74.85,89.82,I+T_perp
+mv_1820,28.68,28.68,23.9,28.68,I+T_perp
+mv_1821,28.68,28.68,23.9,28.68,I+T_perp
+mv_1822,28.68,28.68,23.9,28.68,I+T_perp
+mv_1823,28.68,28.68,23.9,28.68,I+T_perp
+mv_1825,34,34,4.6 m,nan,I+T_perp
+mv_1826,27m,27m,4.6 m,nan,I+T_perp
+mv_1827,27m,27m,4.6 m,nan,I+T_perp
+mv_1828,27m,27m,4.6 m,nan,I+T_perp
+mv_1830,5.28,5.28,4.4,5.28,I+T_perp
+mv_1831,5.28,5.28,4.4,5.28,I+T_perp
+mv_1832,5.28,5.28,4.4,5.28,I+T_perp
+mv_1833,5.28,5.28,4.4,5.28,I+T_perp
+mv_1835,932,932,777,932.0,I+T_perp
+mv_1836,932,932,777,932.0,I+T_perp
+mv_1837,932,932,777,932.0,I+T_perp
+mv_1838,932,932,777,932.0,I+T_perp
+mv_1840,3.0,3.0,1,3.0,I+T_perp
+mv_1841,3.0,3.0,1,3.0,I+T_perp
+mv_1842,3.0,3.0,1,3.0,I+T_perp
+mv_1843,3.0,3.0,1,3.0,I+T_perp
+mv_1845,45,45,45^\circ,nan,I+T_perp
+mv_1846,45,45,45^\circ,nan,I+T_perp
+mv_1847,45,45,45^\circ,nan,I+T_perp
+mv_1848,45,45,45^\circ,nan,I+T_perp
+mv_1850,26,26,22,26.0,I+T_perp
+mv_1851,26,26,22,26.0,I+T_perp
+mv_1852,26,26,22,26.0,I+T_perp
+mv_1853,26,26,22,26.0,I+T_perp
+mv_1855,120,120,60^\circ,nan,I+T_perp
+mv_1856,120,120,60^\circ,nan,I+T_perp
+mv_1857,120,120,60^\circ,nan,I+T_perp
+mv_1858,120,120,60^\circ,nan,I+T_perp
+mv_1860,20,20,17,20.0,I+T_perp
+mv_1861,20,20,17,20.0,I+T_perp
+mv_1862,20,20,17,20.0,I+T_perp
+mv_1863,20,20,17,20.0,I+T_perp
+mv_1865,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1866,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1867,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1868,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1870,x,x,4\sqrt{6},nan,I+T_perp
+mv_1871,45,45,4\sqrt{6},nan,I+T_perp
+mv_1872,45,45,4\sqrt{6},nan,I+T_perp
+mv_1873,45,45,4\sqrt{6},nan,I+T_perp
+mv_1875,4\sqrt{3},4,4\sqrt{3},nan,I+T_perp
+mv_1876,45,45,4\sqrt{3},nan,I+T_perp
+mv_1877,45,45,4\sqrt{3},nan,I+T_perp
+mv_1878,45,45,4\sqrt{3},nan,I+T_perp
+mv_1880,60,60,\frac{9\sqrt{3}}{2},nan,I+T_perp
+mv_1881,9,9,\frac{9\sqrt{3}}{2},nan,I+T_perp
+mv_1882,9,9,\frac{9\sqrt{3}}{2},nan,I+T_perp
+mv_1883,9,9,\frac{9\sqrt{3}}{2},nan,I+T_perp
+mv_1885,8,8,4\sqrt{5},nan,I+T_perp
+mv_1886,8,8,4\sqrt{5},nan,I+T_perp
+mv_1887,8,8,4\sqrt{5},nan,I+T_perp
+mv_1888,8,8,4\sqrt{5},nan,I+T_perp
+mv_1890,0.5,0.5,4+4\sqrt{3},nan,I+T_perp
+mv_1891,1,1,4+4\sqrt{3},nan,I+T_perp
+mv_1892,1,1,4+4\sqrt{3},nan,I+T_perp
+mv_1893,1,1,4+4\sqrt{3},nan,I+T_perp
+mv_1895,3.0,3.0,1,3.0,I+T_perp
+mv_1896,3.0,3.0,1,3.0,I+T_perp
+mv_1897,3.0,3.0,1,3.0,I+T_perp
+mv_1898,3.0,3.0,1,3.0,I+T_perp
+mv_1900,26,26,22,26.0,I+T_perp
+mv_1901,26,26,22,26.0,I+T_perp
+mv_1902,26,26,22,26.0,I+T_perp
+mv_1903,26,26,22,26.0,I+T_perp
+mv_1905,12,12,60^\circ,nan,I+T_perp
+mv_1906,12,12,60^\circ,nan,I+T_perp
+mv_1907,12,12,60^\circ,nan,I+T_perp
+mv_1908,12,12,60^\circ,nan,I+T_perp
+mv_1910,4.0,4.0,2,4.0,I+T_perp
+mv_1911,4.0,4.0,2,4.0,I+T_perp
+mv_1912,4.0,4.0,2,4.0,I+T_perp
+mv_1913,4.0,4.0,2,4.0,I+T_perp
+mv_1915,20,20,17,20.0,I+T_perp
+mv_1916,20,20,17,20.0,I+T_perp
+mv_1917,20,20,17,20.0,I+T_perp
+mv_1918,20,20,17,20.0,I+T_perp
+mv_1920,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1921,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1922,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1923,30,30,\frac{\sqrt{30}}{2},nan,I+T_perp
+mv_1925,45,45,4\sqrt{6},nan,I+T_perp
+mv_1926,45,45,4\sqrt{6},nan,I+T_perp
+mv_1927,45,45,4\sqrt{6},nan,I+T_perp
+mv_1928,45,45,4\sqrt{6},nan,I+T_perp
+mv_1930,20.72,20.72,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_perp
+mv_1931,8.0,8.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_perp
+mv_1932,8.0,8.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_perp
+mv_1933,8.0,8.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_perp
+mv_1935,51.43,51.43,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_perp
+mv_1936,18 cm,18 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_perp
+mv_1937,18 cm,18 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_perp
+mv_1938,18 cm,18 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_perp
+mv_1940,11.3 cm,11.3 cm,$C=40.84 \mathrm{~cm}$,nan,I+T_perp
+mv_1941,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_perp
+mv_1942,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_perp
+mv_1943,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_perp
+mv_1945,44,44,$$r=7.00$$,nan,I+T_perp
+mv_1946,44 cm,44 cm,$$r=7.00$$,nan,I+T_perp
+mv_1947,44 cm,44 cm,$$r=7.00$$,nan,I+T_perp
+mv_1948,44 cm,44 cm,$$r=7.00$$,nan,I+T_perp
+mv_1950,42,42,$D=13.37$,nan,I+T_perp
+mv_1951,42,42,$D=13.37$,nan,I+T_perp
+mv_1952,42,42,$D=13.37$,nan,I+T_perp
+mv_1953,42,42,$D=13.37$,nan,I+T_perp
+mv_1955,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_perp
+mv_1956,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_perp
+mv_1957,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_perp
+mv_1958,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_perp
+mv_1960,0.0,0.0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1961,0,0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1962,0,0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1963,0,0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1965,0.00,0.00,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1966,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1967,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1968,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1970,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1971,0,0,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1972,0,0,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1973,0,0,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1975,11.0,11.0,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1976,None,None,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1977,None,None,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1978,None,None,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1980,7853.43,7853.43,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1981,50 cm,50 cm,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1982,50 cm,50 cm,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1983,50 cm,50 cm,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_1985,0,0,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1986,None,None,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1987,None,None,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1988,None,None,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_1990,0,0,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_1991,None,None,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_1992,None,None,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_1993,None,None,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_1995,11.0,11.0,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_perp
+mv_1996,None,None,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_perp
+mv_1997,None,None,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_perp
+mv_1998,None,None,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2000,0,0,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2001,0,0,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2002,0,0,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2003,0,0,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2005,52.72 cm,52.72 cm,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2006,None,None,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2007,None,None,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2008,None,None,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2010,2/3 pi r^2,2,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2011,13mm,13m,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2012,13mm,13m,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2013,13mm,13m,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2015,0.00,0.00,7298.6737 \mathrm{~mm}^{2},nan,I+T_perp
+mv_2016,0.0,0.0,7298.6737 \mathrm{~mm}^{2},nan,I+T_perp
+mv_2017,0.0,0.0,7298.6737 \mathrm{~mm}^{2},nan,I+T_perp
+mv_2018,0.0,0.0,7298.6737 \mathrm{~mm}^{2},nan,I+T_perp
+mv_2020,0.00,0.00,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2021,0.0,0.0,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2022,0.0,0.0,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2023,0.0,0.0,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2025,123.4,123.4,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2026,12.3,12.3,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2027,12.3,12.3,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2028,12.3,12.3,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2030,20.8,20.8,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_perp
+mv_2031,20.0,20.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_perp
+mv_2032,20.0,20.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_perp
+mv_2033,20.0,20.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_perp
+mv_2035,10.0,10.0,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_perp
+mv_2036,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_perp
+mv_2037,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_perp
+mv_2038,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_perp
+mv_2040,16.8,16.8,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_perp
+mv_2041,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_perp
+mv_2042,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_perp
+mv_2043,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_perp
+mv_2045,237.4,237.4,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_perp
+mv_2046,80.23,80.23,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_perp
+mv_2047,80.23,80.23,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_perp
+mv_2048,80.23,80.23,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_perp
+mv_2050,10.0,10.0,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_perp
+mv_2051,3.23,3.23,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_perp
+mv_2052,3.23,3.23,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_perp
+mv_2053,3.23,3.23,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_perp
+mv_2055,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2056,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2057,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2058,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_2060,27.0,27.0,$r=24.4$,nan,I+T_perp
+mv_2061,140.28,140.28,$r=24.4$,nan,I+T_perp
+mv_2062,140.28,140.28,$r=24.4$,nan,I+T_perp
+mv_2063,140.28,140.28,$r=24.4$,nan,I+T_perp
+mv_2065,0.00,0.00,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2066,0.52,0.52,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2067,0.52,0.52,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2068,0.52,0.52,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_perp
+mv_2070,0.0,0.0,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2071,0.0,0.0,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2072,0.0,0.0,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2073,0.0,0.0,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_2075,0.0,0.0,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2076,0.0,0.0,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2077,0.0,0.0,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2078,None,None,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_perp
+mv_2080,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_perp
+mv_2081,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_perp
+mv_2082,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_perp
+mv_2083,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_perp
+mv_2085,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_perp
+mv_2086,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_perp
+mv_2087,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_perp
+mv_2088,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_perp
+mv_2090,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_perp
+mv_2091,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_perp
+mv_2092,7,7,Perimeter $=28 \mathrm{~mm}$,nan,I+T_perp
+mv_2093,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_perp
+mv_2095,10 cm,10 cm,$5=s$,nan,I+T_perp
+mv_2096,10 cm,10 cm,$5=s$,nan,I+T_perp
+mv_2097,10 cm,10 cm,$5=s$,nan,I+T_perp
+mv_2098,10 cm,10 cm,$5=s$,nan,I+T_perp
+mv_2100,115,115,96,115.0,I+T_perp
+mv_2101,115,115,96,115.0,I+T_perp
+mv_2102,115,115,96,115.0,I+T_perp
+mv_2103,115,115,96,115.0,I+T_perp
+mv_2105,43,43,36,43.0,I+T_perp
+mv_2106,43,43,36,43.0,I+T_perp
+mv_2107,43,43,36,43.0,I+T_perp
+mv_2108,43,43,36,43.0,I+T_perp
+mv_2110,10170 km,10170,3799 km,nan,I+T_perp
+mv_2111,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,3799 km,nan,I+T_perp
+mv_2112,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,3799 km,nan,I+T_perp
+mv_2113,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,3799 km,nan,I+T_perp
+mv_2115,12.0,12.0,60.21 \mathrm{m}^2,nan,I+T_perp
+mv_2116,0.0,0.0,60.21 \mathrm{m}^2,nan,I+T_perp
+mv_2117,0.0,0.0,60.21 \mathrm{m}^2,nan,I+T_perp
+mv_2118,0.0,0.0,60.21 \mathrm{m}^2,nan,I+T_perp
+mv_2120,0.0,0.0,1389.32 \mathrm{m}^2,nan,I+T_perp
+mv_2121,0.0,0.0,1389.32 \mathrm{m}^2,nan,I+T_perp
+mv_2122,0.0,0.0,1389.32 \mathrm{m}^2,nan,I+T_perp
+mv_2123,0.0,0.0,1389.32 \mathrm{m}^2,nan,I+T_perp
+mv_2125,875,875,729,875.0,I+T_perp
+mv_2126,875,875,729,875.0,I+T_perp
+mv_2127,875,875,729,875.0,I+T_perp
+mv_2128,875,875,729,875.0,I+T_perp
+mv_2130,None,None,N 34° W,nan,I+T_perp
+mv_2131,None,None,N 34° W,nan,I+T_perp
+mv_2132,None,None,N 34° W,nan,I+T_perp
+mv_2133,None,None,N 34° W,nan,I+T_perp
+mv_2135,14π,14,\frac{1225\pi }{2} \text { units }^2,nan,I+T_perp
+mv_2136,14π,14,\frac{1225\pi }{2} \text { units }^2,nan,I+T_perp
+mv_2137,14\pi,14,\frac{1225\pi }{2} \text { units }^2,nan,I+T_perp
+mv_2138,14π,14,\frac{1225\pi }{2} \text { units }^2,nan,I+T_perp
+mv_2140,B,B,False,nan,I+T_perp
+mv_2141,B,B,False,nan,I+T_perp
+mv_2142,B,B,False,nan,I+T_perp
+mv_2143,B,B,False,nan,I+T_perp
+mv_2145,B,B,False,nan,I+T_perp
+mv_2146,B,B,False,nan,I+T_perp
+mv_2147,B,B,False,nan,I+T_perp
+mv_2148,B,B,False,nan,I+T_perp
+mv_2150,11,11,$h=15$,nan,I+T_perp
+mv_2151,12,12,$h=15$,nan,I+T_perp
+mv_2152,12,12,$h=15$,nan,I+T_perp
+mv_2153,12,12,$h=15$,nan,I+T_perp
+mv_2155,9.9,9.9,8.246,9.9,I+T_perp
+mv_2156,9.9,9.9,8.246,9.9,I+T_perp
+mv_2157,9.9,9.9,8.246,9.9,I+T_perp
+mv_2158,9.9,9.9,8.246,9.9,I+T_perp
+mv_2160,None,None,"(2,-2)",nan,I+T_perp
+mv_2161,1,1,"(2,-2)",nan,I+T_perp
+mv_2162,1,1,"(2,-2)",nan,I+T_perp
+mv_2163,1,1,"(2,-2)",nan,I+T_perp
+mv_2165,None,None,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_perp
+mv_2166,None,None,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_perp
+mv_2167,None,None,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_perp
+mv_2168,None,None,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_perp
+mv_2170,None,None,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_perp
+mv_2171,None,None,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_perp
+mv_2172,None,None,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_perp
+mv_2173,None,None,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_perp
+mv_2175,None,None,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_perp
+mv_2176,None,None,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_perp
+mv_2177,None,None,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_perp
+mv_2178,None,None,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_perp
+mv_2180,None,None,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_perp
+mv_2181,None,None,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_perp
+mv_2182,None,None,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_perp
+mv_2183,None,None,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_perp
+mv_2185,y = -3 - 5√2x,-3,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_perp
+mv_2186,None,None,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_perp
+mv_2187,None,None,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_perp
+mv_2188,None,None,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_perp
+mv_2190,0.5,0.5,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_perp
+mv_2191,None,None,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_perp
+mv_2192,None,None,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_perp
+mv_2193,None,None,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_perp
+mv_2195,D,D,"C
+D",nan,I+T_perp
+mv_2196,"A:$\tan (\pi+\theta)$
+B:$\tan \left(\frac{\pi}{2}-\theta\right)$",A,"C
+D",nan,I+T_perp
+mv_2197,"A:$\tan (\pi+\theta)$
+B:$\tan \left(\frac{\pi}{2}-\theta\right)$",A,"C
+D",nan,I+T_perp
+mv_2198,"A:$\tan (\pi+\theta)$
+B:$\tan \left(\frac{\pi}{2}-\theta\right)$",A,"C
+D",nan,I+T_perp
+mv_2200,0,0,$\frac{4}{5}$,nan,I+T_perp
+mv_2201,0,0,$\frac{4}{5}$,nan,I+T_perp
+mv_2202,0,0,$\frac{4}{5}$,nan,I+T_perp
+mv_2203,0,0,$\frac{4}{5}$,nan,I+T_perp
+mv_2205,0,0,$\frac{4}{3}$,nan,I+T_perp
+mv_2206,0,0,$\frac{4}{3}$,nan,I+T_perp
+mv_2207,0,0,$\frac{4}{3}$,nan,I+T_perp
+mv_2208,1/2,1,$\frac{4}{3}$,nan,I+T_perp
+mv_2210,0.52,0.52,$-\frac{21}{29}$,nan,I+T_perp
+mv_2211,0.52,0.52,$-\frac{21}{29}$,nan,I+T_perp
+mv_2212,0.52,0.52,$-\frac{21}{29}$,nan,I+T_perp
+mv_2213,0,0,$-\frac{21}{29}$,nan,I+T_perp
+mv_2215,0,0,$-\frac{20}{21}$,nan,I+T_perp
+mv_2216,0,0,$-\frac{20}{21}$,nan,I+T_perp
+mv_2217,0,0,$-\frac{20}{21}$,nan,I+T_perp
+mv_2218,1/2,1,$-\frac{20}{21}$,nan,I+T_perp
+mv_2220,0.36,0.36,$\frac{20}{29}$,nan,I+T_perp
+mv_2221,0.41,0.41,$\frac{20}{29}$,nan,I+T_perp
+mv_2222,0.41,0.41,$\frac{20}{29}$,nan,I+T_perp
+mv_2223,0,0,$\frac{20}{29}$,nan,I+T_perp
+mv_2225,0.59,0.59,$-\frac{21}{29}$,nan,I+T_perp
+mv_2226,0.53,0.53,$-\frac{21}{29}$,nan,I+T_perp
+mv_2227,0.53,0.53,$-\frac{21}{29}$,nan,I+T_perp
+mv_2228,0,0,$-\frac{21}{29}$,nan,I+T_perp
+mv_2230,0.58,0.58,$\frac{20}{29}$,nan,I+T_perp
+mv_2231,0.59,0.59,$\frac{20}{29}$,nan,I+T_perp
+mv_2232,0.59,0.59,$\frac{20}{29}$,nan,I+T_perp
+mv_2233,0,0,$\frac{20}{29}$,nan,I+T_perp
+mv_2235,0.59,0.59,$-\frac{21}{20}$,nan,I+T_perp
+mv_2236,0.52,0.52,$-\frac{21}{20}$,nan,I+T_perp
+mv_2237,0.52,0.52,$-\frac{21}{20}$,nan,I+T_perp
+mv_2238,22/39,22,$-\frac{21}{20}$,nan,I+T_perp
+mv_2240,None,None,A,nan,I+T_perp
+mv_2241,B,B,A,nan,I+T_perp
+mv_2242,B,B,A,nan,I+T_perp
+mv_2243,B,B,A,nan,I+T_perp
+mv_2245,y = 2.5 x + 0,2.5,y=-2 x+5,nan,I+T_perp
+mv_2246,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_perp
+mv_2247,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_perp
+mv_2248,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_perp
+mv_2250,y = -x + 3,3,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2251,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2252,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2253,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2255,y = 3x + 1,3,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_2256,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_2257,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_2258,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_2260,None,None,"(0,0)",nan,I+T_perp
+mv_2261,None,None,"(0,0)",nan,I+T_perp
+mv_2262,None,None,"(0,0)",nan,I+T_perp
+mv_2263,None,None,"(0,0)",nan,I+T_perp
+mv_2265,4.0,4.0,2,4.0,I+T_perp
+mv_2266,4.0,4.0,2,4.0,I+T_perp
+mv_2267,4.0,4.0,2,4.0,I+T_perp
+mv_2268,4.0,4.0,2,4.0,I+T_perp
+mv_2270,10,10,8,10.0,I+T_perp
+mv_2271,10,10,8,10.0,I+T_perp
+mv_2272,10,10,8,10.0,I+T_perp
+mv_2273,10,10,8,10.0,I+T_perp
+mv_2275,None,None,$x^{2}+y^{2}=49$,nan,I+T_perp
+mv_2276,None,None,$x^{2}+y^{2}=49$,nan,I+T_perp
+mv_2277,None,None,$x^{2}+y^{2}=49$,nan,I+T_perp
+mv_2278,None,None,$x^{2}+y^{2}=49$,nan,I+T_perp
+mv_2280,x^2 + y^2 = 10,2,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_perp
+mv_2281,None,None,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_perp
+mv_2282,None,None,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_perp
+mv_2283,None,None,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_perp
+mv_2285,None,None,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_perp
+mv_2286,None,None,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_perp
+mv_2287,None,None,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_perp
+mv_2288,None,None,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_perp
+mv_2290,1,1,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_perp
+mv_2291,None,None,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_perp
+mv_2292,None,None,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_perp
+mv_2293,None,None,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_perp
+mv_2295,"(0.38, 0.55)",0.38,"(-3,-3)",nan,I+T_perp
+mv_2296,"(0.38, 0.55, 0.5, 0.71)",0.38,"(-3,-3)",nan,I+T_perp
+mv_2297,"(0.38, 0.55, 0.5, 0.71)",0.38,"(-3,-3)",nan,I+T_perp
+mv_2298,"(0.38, 0.55, 0.5, 0.71)",0.38,"(-3,-3)",nan,I+T_perp
+mv_2300,4,4,3,4.0,I+T_perp
+mv_2301,4,4,3,4.0,I+T_perp
+mv_2302,4,4,3,4.0,I+T_perp
+mv_2303,4,4,3,4.0,I+T_perp
+mv_2305,7,7,6,7.0,I+T_perp
+mv_2306,7,7,6,7.0,I+T_perp
+mv_2307,7,7,6,7.0,I+T_perp
+mv_2308,7,7,6,7.0,I+T_perp
+mv_2310,"(0.38, 0.52)",0.38,"(-3,-3)",nan,I+T_perp
+mv_2311,None,None,"(-3,-3)",nan,I+T_perp
+mv_2312,None,None,"(-3,-3)",nan,I+T_perp
+mv_2313,None,None,"(-3,-3)",nan,I+T_perp
+mv_2315,4,4,3,4.0,I+T_perp
+mv_2316,4,4,3,4.0,I+T_perp
+mv_2317,4,4,3,4.0,I+T_perp
+mv_2318,4,4,3,4.0,I+T_perp
+mv_2320,None,None,(x+3)^2+(y+3)^2=9,nan,I+T_perp
+mv_2321,None,None,(x+3)^2+(y+3)^2=9,nan,I+T_perp
+mv_2322,None,None,(x+3)^2+(y+3)^2=9,nan,I+T_perp
+mv_2323,None,None,(x+3)^2+(y+3)^2=9,nan,I+T_perp
+mv_2325,D,D,A,nan,I+T_perp
+mv_2326,D,D,A,nan,I+T_perp
+mv_2327,D,D,A,nan,I+T_perp
+mv_2328,D,D,A,nan,I+T_perp
+mv_2330,None,None,x^2+(y+4)^2=4^2,nan,I+T_perp
+mv_2331,None,None,x^2+(y+4)^2=4^2,nan,I+T_perp
+mv_2332,None,None,x^2+(y+4)^2=4^2,nan,I+T_perp
+mv_2333,None,None,x^2+(y+4)^2=4^2,nan,I+T_perp
+mv_2335,None,None,"(1,3)",nan,I+T_perp
+mv_2336,None,None,"(1,3)",nan,I+T_perp
+mv_2337,None,None,"(1,3)",nan,I+T_perp
+mv_2338,None,None,"(1,3)",nan,I+T_perp
+mv_2340,None,None,"(0,0)",nan,I+T_perp
+mv_2341,None,None,"(0,0)",nan,I+T_perp
+mv_2342,None,None,"(0,0)",nan,I+T_perp
+mv_2343,None,None,"(0,0)",nan,I+T_perp
+mv_2345,8,8,7,8.0,I+T_perp
+mv_2346,8,8,7,8.0,I+T_perp
+mv_2347,8,8,7,8.0,I+T_perp
+mv_2348,8,8,7,8.0,I+T_perp
+mv_2350,None,None,y=\sqrt{49-x^2},nan,I+T_perp
+mv_2351,None,None,y=\sqrt{49-x^2},nan,I+T_perp
+mv_2352,None,None,y=\sqrt{49-x^2},nan,I+T_perp
+mv_2353,None,None,y=\sqrt{49-x^2},nan,I+T_perp
+mv_2355,None,None,"(0,0)",nan,I+T_perp
+mv_2356,None,None,"(0,0)",nan,I+T_perp
+mv_2357,None,None,"(0,0)",nan,I+T_perp
+mv_2358,None,None,"(0,0)",nan,I+T_perp
+mv_2360,"(20,10)",20,"Center $=(20,10)$",nan,I+T_perp
+mv_2361,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_2362,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_2363,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_2365,None,None,"(-2,1]",nan,I+T_perp
+mv_2366,None,None,"(-2,1]",nan,I+T_perp
+mv_2367,None,None,"(-2,1]",nan,I+T_perp
+mv_2368,None,None,"(-2,1]",nan,I+T_perp
+mv_2370,4,4,"(-\infty, 4]",nan,I+T_perp
+mv_2371,4,4,"(-\infty, 4]",nan,I+T_perp
+mv_2372,4,4,"(-\infty, 4]",nan,I+T_perp
+mv_2373,4,4,"(-\infty, 4]",nan,I+T_perp
+mv_2375,B,B,B,nan,I+T_perp
+mv_2376,B,B,B,nan,I+T_perp
+mv_2377,B,B,B,nan,I+T_perp
+mv_2378,B,B,B,nan,I+T_perp
+mv_2380,B,B,A,nan,I+T_perp
+mv_2381,B,B,A,nan,I+T_perp
+mv_2382,B,B,A,nan,I+T_perp
+mv_2383,B,B,A,nan,I+T_perp
+mv_2385,B,B,B,nan,I+T_perp
+mv_2386,B,B,B,nan,I+T_perp
+mv_2387,B,B,B,nan,I+T_perp
+mv_2388,B,B,B,nan,I+T_perp
+mv_2390,B,B,A,nan,I+T_perp
+mv_2391,B,B,A,nan,I+T_perp
+mv_2392,B,B,A,nan,I+T_perp
+mv_2393,B,B,A,nan,I+T_perp
+mv_2395,B,B,B,nan,I+T_perp
+mv_2396,B,B,B,nan,I+T_perp
+mv_2397,B,B,B,nan,I+T_perp
+mv_2398,B,B,B,nan,I+T_perp
+mv_2400,None,None,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_perp
+mv_2401,None,None,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_perp
+mv_2402,None,None,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_perp
+mv_2403,None,None,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_perp
+mv_2405,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (2,8] and range: [6,8)",nan,I+T_perp
+mv_2406,None,None,"domain: (2,8] and range: [6,8)",nan,I+T_perp
+mv_2407,None,None,"domain: (2,8] and range: [6,8)",nan,I+T_perp
+mv_2408,None,None,"domain: (2,8] and range: [6,8)",nan,I+T_perp
+mv_2410,"[0.0, -4, 4, 0]",0.0,"domain: [-4,4] and range: [0,2]",nan,I+T_perp
+mv_2411,None,None,"domain: [-4,4] and range: [0,2]",nan,I+T_perp
+mv_2412,None,None,"domain: [-4,4] and range: [0,2]",nan,I+T_perp
+mv_2413,None,None,"domain: [-4,4] and range: [0,2]",nan,I+T_perp
+mv_2415,"[0.0, -5, 1, 3]",0.0,"domain: [-5,3) and range: [0,2]",nan,I+T_perp
+mv_2416,None,None,"domain: [-5,3) and range: [0,2]",nan,I+T_perp
+mv_2417,None,None,"domain: [-5,3) and range: [0,2]",nan,I+T_perp
+mv_2418,None,None,"domain: [-5,3) and range: [0,2]",nan,I+T_perp
+mv_2420,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_perp
+mv_2421,None,None,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_perp
+mv_2422,None,None,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_perp
+mv_2423,None,None,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_perp
+mv_2425,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_perp
+mv_2426,None,None,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_perp
+mv_2427,None,None,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_perp
+mv_2428,None,None,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_perp
+mv_2430,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_perp
+mv_2431,None,None,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_perp
+mv_2432,None,None,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_perp
+mv_2433,None,None,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_perp
+mv_2435,None,None,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_perp
+mv_2436,None,None,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_perp
+mv_2437,None,None,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_perp
+mv_2438,None,None,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_perp
+mv_2440,None,None,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_perp
+mv_2441,None,None,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_perp
+mv_2442,None,None,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_perp
+mv_2443,None,None,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_perp
+mv_2445,None,None,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_perp
+mv_2446,None,None,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_perp
+mv_2447,None,None,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_perp
+mv_2448,None,None,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_perp
+mv_2450,None,None,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_perp
+mv_2451,None,None,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_perp
+mv_2452,None,None,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_perp
+mv_2453,None,None,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_perp
+mv_2455,B,B,A,nan,I+T_perp
+mv_2456,B,B,A,nan,I+T_perp
+mv_2457,B,B,A,nan,I+T_perp
+mv_2458,B,B,A,nan,I+T_perp
+mv_2460,None,None,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_perp
+mv_2461,None,None,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_perp
+mv_2462,None,None,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_perp
+mv_2463,None,None,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_perp
+mv_2465,None,None,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_perp
+mv_2466,None,None,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_perp
+mv_2467,None,None,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_perp
+mv_2468,None,None,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_perp
+mv_2470,None,None,f(x)=-(x+1)^2+2,nan,I+T_perp
+mv_2471,None,None,f(x)=-(x+1)^2+2,nan,I+T_perp
+mv_2472,None,None,f(x)=-(x+1)^2+2,nan,I+T_perp
+mv_2473,None,None,f(x)=-(x+1)^2+2,nan,I+T_perp
+mv_2475,B,B,B,nan,I+T_perp
+mv_2476,B,B,B,nan,I+T_perp
+mv_2477,B,B,B,nan,I+T_perp
+mv_2478,B,B,B,nan,I+T_perp
+mv_2480,None,None,$-\frac{3}{2}x+3$,nan,I+T_perp
+mv_2481,None,None,$-\frac{3}{2}x+3$,nan,I+T_perp
+mv_2482,None,None,$-\frac{3}{2}x+3$,nan,I+T_perp
+mv_2483,None,None,$-\frac{3}{2}x+3$,nan,I+T_perp
+mv_2485,B,B,A,nan,I+T_perp
+mv_2486,B,B,A,nan,I+T_perp
+mv_2487,B,B,A,nan,I+T_perp
+mv_2488,B,B,A,nan,I+T_perp
+mv_2490,B,B,A,nan,I+T_perp
+mv_2491,B,B,A,nan,I+T_perp
+mv_2492,B,B,A,nan,I+T_perp
+mv_2493,B,B,A,nan,I+T_perp
+mv_2495,None,None,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_perp
+mv_2496,None,None,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_perp
+mv_2497,None,None,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_perp
+mv_2498,None,None,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_perp
+mv_2500,None,None,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_perp
+mv_2501,None,None,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_perp
+mv_2502,None,None,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_perp
+mv_2503,None,None,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_perp
+mv_2505,None,None,"(-1.8,10)",nan,I+T_perp
+mv_2506,None,None,"(-1.8,10)",nan,I+T_perp
+mv_2507,None,None,"(-1.8,10)",nan,I+T_perp
+mv_2508,None,None,"(-1.8,10)",nan,I+T_perp
+mv_2510,None,None,f(x)=|x-3|,nan,I+T_perp
+mv_2511,None,None,f(x)=|x-3|,nan,I+T_perp
+mv_2512,None,None,f(x)=|x-3|,nan,I+T_perp
+mv_2513,None,None,f(x)=|x-3|,nan,I+T_perp
+mv_2515,None,None,even,nan,I+T_perp
+mv_2516,None,None,even,nan,I+T_perp
+mv_2517,None,None,even,nan,I+T_perp
+mv_2518,None,None,even,nan,I+T_perp
+mv_2520,None,None,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_perp
+mv_2521,None,None,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_perp
+mv_2522,None,None,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_perp
+mv_2523,None,None,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_perp
+mv_2525,None,None,f(x)=-3|x-3|+3,nan,I+T_perp
+mv_2526,None,None,f(x)=-3|x-3|+3,nan,I+T_perp
+mv_2527,None,None,f(x)=-3|x-3|+3,nan,I+T_perp
+mv_2528,None,None,f(x)=-3|x-3|+3,nan,I+T_perp
+mv_2530,B,B,B,nan,I+T_perp
+mv_2531,None,None,B,nan,I+T_perp
+mv_2532,None,None,B,nan,I+T_perp
+mv_2533,None,None,B,nan,I+T_perp
+mv_2535,None,None,slope =-4,nan,I+T_perp
+mv_2536,None,None,slope =-4,nan,I+T_perp
+mv_2537,None,None,slope =-4,nan,I+T_perp
+mv_2538,None,None,slope =-4,nan,I+T_perp
+mv_2540,None,None,$y \leq 5$,nan,I+T_perp
+mv_2541,None,None,$y \leq 5$,nan,I+T_perp
+mv_2542,None,None,$y \leq 5$,nan,I+T_perp
+mv_2543,None,None,$y \leq 5$,nan,I+T_perp
+mv_2545,None,None,$y \geq-2 x-6$,nan,I+T_perp
+mv_2546,None,None,$y \geq-2 x-6$,nan,I+T_perp
+mv_2547,None,None,$y \geq-2 x-6$,nan,I+T_perp
+mv_2548,None,None,$y \geq-2 x-6$,nan,I+T_perp
+mv_2550,None,None,$y<2 x+6$,nan,I+T_perp
+mv_2551,None,None,$y<2 x+6$,nan,I+T_perp
+mv_2552,None,None,$y<2 x+6$,nan,I+T_perp
+mv_2553,None,None,$y<2 x+6$,nan,I+T_perp
+mv_2555,None,None,$y>-3 x$,nan,I+T_perp
+mv_2556,None,None,$y>-3 x$,nan,I+T_perp
+mv_2557,None,None,$y>-3 x$,nan,I+T_perp
+mv_2558,None,None,$y>-3 x$,nan,I+T_perp
+mv_2560,None,None,$y \leq 2 x+3$,nan,I+T_perp
+mv_2561,None,None,$y \leq 2 x+3$,nan,I+T_perp
+mv_2562,None,None,$y \leq 2 x+3$,nan,I+T_perp
+mv_2563,None,None,$y \leq 2 x+3$,nan,I+T_perp
+mv_2565,None,None,Slope $=\frac{1}{5}$,nan,I+T_perp
+mv_2566,None,None,Slope $=\frac{1}{5}$,nan,I+T_perp
+mv_2567,None,None,Slope $=\frac{1}{5}$,nan,I+T_perp
+mv_2568,None,None,Slope $=\frac{1}{5}$,nan,I+T_perp
+mv_2570,0,0,Slope $=-\frac{1}{2}$,nan,I+T_perp
+mv_2571,None,None,Slope $=-\frac{1}{2}$,nan,I+T_perp
+mv_2572,None,None,Slope $=-\frac{1}{2}$,nan,I+T_perp
+mv_2573,None,None,Slope $=-\frac{1}{2}$,nan,I+T_perp
+mv_2575,B,B,B,nan,I+T_perp
+mv_2576,B,B,B,nan,I+T_perp
+mv_2577,D,D,B,nan,I+T_perp
+mv_2578,D,D,B,nan,I+T_perp
+mv_2580,C,C,(C),nan,I+T_perp
+mv_2581,C,C,(C),nan,I+T_perp
+mv_2582,C,C,(C),nan,I+T_perp
+mv_2583,C,C,(C),nan,I+T_perp
+mv_2585,C,C,(C),nan,I+T_perp
+mv_2586,A. $x \geq 0$,A,(C),nan,I+T_perp
+mv_2587,A. $x \geq 0$,A,(C),nan,I+T_perp
+mv_2588,C,C,(C),nan,I+T_perp
+mv_2590,5,5,4,5.0,I+T_perp
+mv_2591,5,5,4,5.0,I+T_perp
+mv_2592,5,5,4,5.0,I+T_perp
+mv_2593,5,5,4,5.0,I+T_perp
+mv_2595,8,8,7,8.0,I+T_perp
+mv_2596,8,8,7,8.0,I+T_perp
+mv_2597,8,8,7,8.0,I+T_perp
+mv_2598,8,8,7,8.0,I+T_perp
+mv_2600,A,A,(B),nan,I+T_perp
+mv_2601,A,A,(B),nan,I+T_perp
+mv_2602,A,A,(B),nan,I+T_perp
+mv_2603,A,A,(B),nan,I+T_perp
+mv_2605,6,6,5,6.0,I+T_perp
+mv_2606,6,6,5,6.0,I+T_perp
+mv_2607,6,6,5,6.0,I+T_perp
+mv_2608,6,6,5,6.0,I+T_perp
+mv_2610,None,None,(B),nan,I+T_perp
+mv_2611,None,None,(B),nan,I+T_perp
+mv_2612,None,None,(B),nan,I+T_perp
+mv_2613,None,None,(B),nan,I+T_perp
+mv_2615,E,E,E,nan,I+T_perp
+mv_2616,E,E,E,nan,I+T_perp
+mv_2617,E,E,E,nan,I+T_perp
+mv_2618,E,E,E,nan,I+T_perp
+mv_2620,None,None,F,nan,I+T_perp
+mv_2621,None,None,F,nan,I+T_perp
+mv_2622,None,None,F,nan,I+T_perp
+mv_2623,None,None,F,nan,I+T_perp
+mv_2625,A,A,F,nan,I+T_perp
+mv_2626,None,None,F,nan,I+T_perp
+mv_2627,None,None,F,nan,I+T_perp
+mv_2628,None,None,F,nan,I+T_perp
+mv_2630,A,A,D,nan,I+T_perp
+mv_2631,A,A,D,nan,I+T_perp
+mv_2632,A,A,D,nan,I+T_perp
+mv_2633,A,A,D,nan,I+T_perp
+mv_2635,None,None,E,nan,I+T_perp
+mv_2636,None,None,E,nan,I+T_perp
+mv_2637,None,None,E,nan,I+T_perp
+mv_2638,None,None,E,nan,I+T_perp
+mv_2640,1.2,1.2,0.2,1.2,I+T_perp
+mv_2641,1.2,1.2,0.2,1.2,I+T_perp
+mv_2642,1.2,1.2,0.2,1.2,I+T_perp
+mv_2643,1.2,1.2,0.2,1.2,I+T_perp
+mv_2645,-6.42,-6.42,-5.35,-6.42,I+T_perp
+mv_2646,-6.42,-6.42,-5.35,-6.42,I+T_perp
+mv_2647,-6.42,-6.42,-5.35,-6.42,I+T_perp
+mv_2648,-6.42,-6.42,-5.35,-6.42,I+T_perp
+mv_2650,4.0,4.0,2,4.0,I+T_perp
+mv_2651,4.0,4.0,2,4.0,I+T_perp
+mv_2652,4.0,4.0,2,4.0,I+T_perp
+mv_2653,4.0,4.0,2,4.0,I+T_perp
+mv_2655,9.24,9.24,7.7,9.24,I+T_perp
+mv_2656,9.24,9.24,7.7,9.24,I+T_perp
+mv_2657,9.24,9.24,7.7,9.24,I+T_perp
+mv_2658,9.24,9.24,7.7,9.24,I+T_perp
+mv_2660,1.8,1.8,1.5,1.8,I+T_perp
+mv_2661,1.8,1.8,1.5,1.8,I+T_perp
+mv_2662,1.8,1.8,1.5,1.8,I+T_perp
+mv_2663,1.8,1.8,1.5,1.8,I+T_perp
+mv_2665,3.78,3.78,3.15,3.78,I+T_perp
+mv_2666,3.78,3.78,3.15,3.78,I+T_perp
+mv_2667,3.78,3.78,3.15,3.78,I+T_perp
+mv_2668,3.78,3.78,3.15,3.78,I+T_perp
+mv_2670,5.52,5.52,4.6,5.52,I+T_perp
+mv_2671,5.52,5.52,4.6,5.52,I+T_perp
+mv_2672,5.52,5.52,4.6,5.52,I+T_perp
+mv_2673,5.52,5.52,4.6,5.52,I+T_perp
+mv_2675,6.36,6.36,5.3,6.36,I+T_perp
+mv_2676,6.36,6.36,5.3,6.36,I+T_perp
+mv_2677,6.36,6.36,5.3,6.36,I+T_perp
+mv_2678,6.36,6.36,5.3,6.36,I+T_perp
+mv_2680,2π,2,\pi,nan,I+T_perp
+mv_2681,None,None,\pi,nan,I+T_perp
+mv_2682,None,None,\pi,nan,I+T_perp
+mv_2683,None,None,\pi,nan,I+T_perp
+mv_2685,10,10,{8}{5} \pi,nan,I+T_perp
+mv_2686,None,None,{8}{5} \pi,nan,I+T_perp
+mv_2687,None,None,{8}{5} \pi,nan,I+T_perp
+mv_2688,None,None,{8}{5} \pi,nan,I+T_perp
+mv_2690,2π,2,4 \pi,nan,I+T_perp
+mv_2691,None,None,4 \pi,nan,I+T_perp
+mv_2692,None,None,4 \pi,nan,I+T_perp
+mv_2693,None,None,4 \pi,nan,I+T_perp
+mv_2695,17,17,14,17.0,I+T_perp
+mv_2696,17,17,14,17.0,I+T_perp
+mv_2697,17,17,14,17.0,I+T_perp
+mv_2698,17,17,14,17.0,I+T_perp
+mv_2700,4,4,3,4.0,I+T_perp
+mv_2701,4,4,3,4.0,I+T_perp
+mv_2702,4,4,3,4.0,I+T_perp
+mv_2703,4,4,3,4.0,I+T_perp
+mv_2705,7.8,7.8,6.5,7.8,I+T_perp
+mv_2706,7.8,7.8,6.5,7.8,I+T_perp
+mv_2707,7.8,7.8,6.5,7.8,I+T_perp
+mv_2708,7.8,7.8,6.5,7.8,I+T_perp
+mv_2710,None,None,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_perp
+mv_2711,None,None,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_perp
+mv_2712,None,None,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_perp
+mv_2713,None,None,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_perp
+mv_2715,B,B,C,nan,I+T_perp
+mv_2716,B,B,C,nan,I+T_perp
+mv_2717,B,B,C,nan,I+T_perp
+mv_2718,B,B,C,nan,I+T_perp
+mv_2720,B,B,B,nan,I+T_perp
+mv_2721,B,B,B,nan,I+T_perp
+mv_2722,B,B,B,nan,I+T_perp
+mv_2723,B,B,B,nan,I+T_perp
+mv_2725,None,None,A,nan,I+T_perp
+mv_2726,None,None,A,nan,I+T_perp
+mv_2727,None,None,A,nan,I+T_perp
+mv_2728,None,None,A,nan,I+T_perp
+mv_2730,None,None,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_perp
+mv_2731,None,None,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_perp
+mv_2732,None,None,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_perp
+mv_2733,None,None,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_perp
+mv_2735,A,A,A,nan,I+T_perp
+mv_2736,A,A,A,nan,I+T_perp
+mv_2737,B,B,A,nan,I+T_perp
+mv_2738,A,A,A,nan,I+T_perp
+mv_2740,15,15,12.5,15.0,I+T_perp
+mv_2741,15,15,12.5,15.0,I+T_perp
+mv_2742,15,15,12.5,15.0,I+T_perp
+mv_2743,15,15,12.5,15.0,I+T_perp
+mv_2745,A,A,B,nan,I+T_perp
+mv_2746,A,A,B,nan,I+T_perp
+mv_2747,A,A,B,nan,I+T_perp
+mv_2748,A,A,B,nan,I+T_perp
+mv_2750,E,E,B,nan,I+T_perp
+mv_2751,E,E,B,nan,I+T_perp
+mv_2752,E,E,B,nan,I+T_perp
+mv_2753,E,E,B,nan,I+T_perp
+mv_2755,E,E,E,nan,I+T_perp
+mv_2756,E,E,E,nan,I+T_perp
+mv_2757,E,E,E,nan,I+T_perp
+mv_2758,E,E,E,nan,I+T_perp
+mv_2760,None,None,D,nan,I+T_perp
+mv_2761,None,None,D,nan,I+T_perp
+mv_2762,None,None,D,nan,I+T_perp
+mv_2763,None,None,D,nan,I+T_perp
+mv_2765,None,None,B,nan,I+T_perp
+mv_2766,None,None,B,nan,I+T_perp
+mv_2767,None,None,B,nan,I+T_perp
+mv_2768,None,None,B,nan,I+T_perp
+mv_2770,B,B,"A
+C",nan,I+T_perp
+mv_2771,C:$\cos (\pi-\theta)$,C,"A
+C",nan,I+T_perp
+mv_2772,C:$\cos (\pi-\theta)$,C,"A
+C",nan,I+T_perp
+mv_2773,C:$\cos (\pi-\theta)$,C,"A
+C",nan,I+T_perp
+mv_2775,4.9,4.9,"-4.9
+-4.9",nan,I+T_perp
+mv_2776,0.0,0.0,"-4.9
+-4.9",nan,I+T_perp
+mv_2777,0.0,0.0,"-4.9
+-4.9",nan,I+T_perp
+mv_2778,0.0,0.0,"-4.9
+-4.9",nan,I+T_perp
+mv_2780,1.0,1.0,-1,1.0,I+T_perp
+mv_2781,1.0,1.0,-1,1.0,I+T_perp
+mv_2782,1.0,1.0,-1,1.0,I+T_perp
+mv_2783,1.0,1.0,-1,1.0,I+T_perp
+mv_2785,A,A,C,nan,I+T_perp
+mv_2786,A,A,C,nan,I+T_perp
+mv_2787,A,A,C,nan,I+T_perp
+mv_2788,A,A,C,nan,I+T_perp
+mv_2790,A,A,A,nan,I+T_perp
+mv_2791,A,A,A,nan,I+T_perp
+mv_2792,A,A,A,nan,I+T_perp
+mv_2793,A,A,A,nan,I+T_perp
+mv_2795,None,None,B,nan,I+T_perp
+mv_2796,None,None,B,nan,I+T_perp
+mv_2797,None,None,B,nan,I+T_perp
+mv_2798,None,None,B,nan,I+T_perp
+mv_2800,C,C,C,nan,I+T_perp
+mv_2801,C,C,C,nan,I+T_perp
+mv_2802,C,C,C,nan,I+T_perp
+mv_2803,C,C,C,nan,I+T_perp
+mv_2805,C,C,B,nan,I+T_perp
+mv_2806,C,C,B,nan,I+T_perp
+mv_2807,C,C,B,nan,I+T_perp
+mv_2808,C,C,B,nan,I+T_perp
+mv_2810,C,C,B,nan,I+T_perp
+mv_2811,C,C,B,nan,I+T_perp
+mv_2812,C,C,B,nan,I+T_perp
+mv_2813,C,C,B,nan,I+T_perp
+mv_2815,B,B,B,nan,I+T_perp
+mv_2816,B,B,B,nan,I+T_perp
+mv_2817,B,B,B,nan,I+T_perp
+mv_2818,B,B,B,nan,I+T_perp
+mv_2820,C,C,B,nan,I+T_perp
+mv_2821,C,C,B,nan,I+T_perp
+mv_2822,C,C,B,nan,I+T_perp
+mv_2823,C,C,B,nan,I+T_perp
+mv_2825,B,B,A,nan,I+T_perp
+mv_2826,B,B,A,nan,I+T_perp
+mv_2827,B,B,A,nan,I+T_perp
+mv_2828,B,B,A,nan,I+T_perp
+mv_2830,D,D,C,nan,I+T_perp
+mv_2831,D,D,C,nan,I+T_perp
+mv_2832,D,D,C,nan,I+T_perp
+mv_2833,D,D,C,nan,I+T_perp
+mv_2835,g(x) = x^2 + 1,2,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_perp
+mv_2836,None,None,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_perp
+mv_2837,None,None,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_perp
+mv_2838,None,None,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_perp
+mv_2840,g(x) = x^2 + 3,2,g(x)=x^2-3,nan,I+T_perp
+mv_2841,None,None,g(x)=x^2-3,nan,I+T_perp
+mv_2842,None,None,g(x)=x^2-3,nan,I+T_perp
+mv_2843,None,None,g(x)=x^2-3,nan,I+T_perp
+mv_2845,g(x) = x^2,2,0.75 x^2,nan,I+T_perp
+mv_2846,None,None,0.75 x^2,nan,I+T_perp
+mv_2847,None,None,0.75 x^2,nan,I+T_perp
+mv_2848,None,None,0.75 x^2,nan,I+T_perp
+mv_2850,None,None,g(x)=-x^2,nan,I+T_perp
+mv_2851,None,None,g(x)=-x^2,nan,I+T_perp
+mv_2852,None,None,g(x)=-x^2,nan,I+T_perp
+mv_2853,None,None,g(x)=-x^2,nan,I+T_perp
+mv_2855,B,B,C,nan,I+T_perp
+mv_2856,B,B,C,nan,I+T_perp
+mv_2857,B,B,C,nan,I+T_perp
+mv_2858,B,B,C,nan,I+T_perp
+mv_2860,None,None,g(x)=(x+2)^2+1,nan,I+T_perp
+mv_2861,None,None,g(x)=(x+2)^2+1,nan,I+T_perp
+mv_2862,None,None,g(x)=(x+2)^2+1,nan,I+T_perp
+mv_2863,None,None,g(x)=(x+2)^2+1,nan,I+T_perp
+mv_2865,B,B,D,nan,I+T_perp
+mv_2866,B,B,D,nan,I+T_perp
+mv_2867,B,B,D,nan,I+T_perp
+mv_2868,B,B,D,nan,I+T_perp
+mv_2870,C,C,C,nan,I+T_perp
+mv_2871,C,C,C,nan,I+T_perp
+mv_2872,C,C,C,nan,I+T_perp
+mv_2873,C,C,C,nan,I+T_perp
+mv_2875,B,B,A,nan,I+T_perp
+mv_2876,None,None,A,nan,I+T_perp
+mv_2877,None,None,A,nan,I+T_perp
+mv_2878,None,None,A,nan,I+T_perp
+mv_2880,D,D,A,nan,I+T_perp
+mv_2881,A,A,A,nan,I+T_perp
+mv_2882,D,D,A,nan,I+T_perp
+mv_2883,A,A,A,nan,I+T_perp
+mv_2885,3000,3000,2500,3000.0,I+T_perp
+mv_2886,3000,3000,2500,3000.0,I+T_perp
+mv_2887,3000,3000,2500,3000.0,I+T_perp
+mv_2888,3000,3000,2500,3000.0,I+T_perp
+mv_2890,A:$Q=(0.85)^{t}$,A,C,nan,I+T_perp
+mv_2891,C:$Q=(0.87)^{t}$,C,C,nan,I+T_perp
+mv_2892,C:$Q=(0.87)^{t}$,C,C,nan,I+T_perp
+mv_2893,C:$Q=(0.87)^{t}$,C,C,nan,I+T_perp
+mv_2895,15,15,$13 \%$,nan,I+T_perp
+mv_2896,0,0,$13 \%$,nan,I+T_perp
+mv_2897,0,0,$13 \%$,nan,I+T_perp
+mv_2898,0,0,$13 \%$,nan,I+T_perp
+mv_2900,B,B,A,nan,I+T_perp
+mv_2901,B,B,A,nan,I+T_perp
+mv_2902,B,B,A,nan,I+T_perp
+mv_2903,B,B,A,nan,I+T_perp
+mv_2905,B,B,A,nan,I+T_perp
+mv_2906,B,B,A,nan,I+T_perp
+mv_2907,B,B,A,nan,I+T_perp
+mv_2908,B,B,A,nan,I+T_perp
+mv_2910,B,B,A,nan,I+T_perp
+mv_2911,B,B,A,nan,I+T_perp
+mv_2912,B,B,A,nan,I+T_perp
+mv_2913,B,B,A,nan,I+T_perp
+mv_2915,B,B,B,nan,I+T_perp
+mv_2916,B,B,B,nan,I+T_perp
+mv_2917,B,B,B,nan,I+T_perp
+mv_2918,B,B,B,nan,I+T_perp
+mv_2920,B,B,A,nan,I+T_perp
+mv_2921,B,B,A,nan,I+T_perp
+mv_2922,B,B,A,nan,I+T_perp
+mv_2923,B,B,A,nan,I+T_perp
+mv_2925,B,B,A,nan,I+T_perp
+mv_2926,B,B,A,nan,I+T_perp
+mv_2927,B,B,A,nan,I+T_perp
+mv_2928,B,B,A,nan,I+T_perp
+mv_2930,B,B,B,nan,I+T_perp
+mv_2931,B,B,B,nan,I+T_perp
+mv_2932,B,B,B,nan,I+T_perp
+mv_2933,B,B,B,nan,I+T_perp
+mv_2935,None,None,$g(x)=\ln x+4$,nan,I+T_perp
+mv_2936,None,None,$g(x)=\ln x+4$,nan,I+T_perp
+mv_2937,None,None,$g(x)=\ln x+4$,nan,I+T_perp
+mv_2938,None,None,$g(x)=\ln x+4$,nan,I+T_perp
+mv_2940,A,A,A,nan,I+T_perp
+mv_2941,A,A,A,nan,I+T_perp
+mv_2942,A,A,A,nan,I+T_perp
+mv_2943,A,A,A,nan,I+T_perp
+mv_2945,B,B,D,nan,I+T_perp
+mv_2946,B,B,D,nan,I+T_perp
+mv_2947,B,B,D,nan,I+T_perp
+mv_2948,B,B,D,nan,I+T_perp
+mv_2950,0.0,0.0,-2,0.0,I+T_perp
+mv_2951,0.0,0.0,-2,0.0,I+T_perp
+mv_2952,0.0,0.0,-2,0.0,I+T_perp
+mv_2953,0.0,0.0,-2,0.0,I+T_perp
+mv_2955,1,1,=\frac{7}{4},nan,I+T_perp
+mv_2956,None,None,=\frac{7}{4},nan,I+T_perp
+mv_2957,None,None,=\frac{7}{4},nan,I+T_perp
+mv_2958,None,None,=\frac{7}{4},nan,I+T_perp
+mv_2960,None,None,$x=0$,nan,I+T_perp
+mv_2961,None,None,$x=0$,nan,I+T_perp
+mv_2962,None,None,$x=0$,nan,I+T_perp
+mv_2963,None,None,$x=0$,nan,I+T_perp
+mv_2965,A,A,B,nan,I+T_perp
+mv_2966,A,A,B,nan,I+T_perp
+mv_2967,A,A,B,nan,I+T_perp
+mv_2968,A,A,B,nan,I+T_perp
+mv_2970,y = 5x + 10,5,$y=x-5$,nan,I+T_perp
+mv_2971,y = 0.5 x + 0.5,0.5,$y=x-5$,nan,I+T_perp
+mv_2972,y = 0.5 x + 0.5,0.5,$y=x-5$,nan,I+T_perp
+mv_2973,y = 0.5 x + 0.5,0.5,$y=x-5$,nan,I+T_perp
+mv_2975,y = -x + 3,3,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2976,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2977,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2978,None,None,$y+3=\frac{3}{4}(x-2)$,nan,I+T_perp
+mv_2980,B,B,D,nan,I+T_perp
+mv_2981,A,A,D,nan,I+T_perp
+mv_2982,A,A,D,nan,I+T_perp
+mv_2983,A,A,D,nan,I+T_perp
+mv_2985,B,B,A,nan,I+T_perp
+mv_2986,B,B,A,nan,I+T_perp
+mv_2987,B,B,A,nan,I+T_perp
+mv_2988,B,B,A,nan,I+T_perp
+mv_2990,None,None,$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_perp
+mv_2991,None,None,$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_perp
+mv_2992,y2 = x^3,2,$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_perp
+mv_2993,None,None,$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_perp
+mv_2995,A,A,$72 x-2 x^3$,nan,I+T_perp
+mv_2996,12,12,$72 x-2 x^3$,nan,I+T_perp
+mv_2997,None,None,$72 x-2 x^3$,nan,I+T_perp
+mv_2998,None,None,$72 x-2 x^3$,nan,I+T_perp
+mv_3000,y = 3x + 1,3,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_3001,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_3002,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_3003,None,None,$y-3=\frac{2}{3}(x-8)$,nan,I+T_perp
+mv_3005,None,None,"$[-5,-3) \cup(-3,5]$",nan,I+T_perp
+mv_3006,None,None,"$[-5,-3) \cup(-3,5]$",nan,I+T_perp
+mv_3007,None,None,"$[-5,-3) \cup(-3,5]$",nan,I+T_perp
+mv_3008,None,None,"$[-5,-3) \cup(-3,5]$",nan,I+T_perp
+mv_3010,B,B,B,nan,I+T_perp
+mv_3011,B,B,B,nan,I+T_perp
+mv_3012,B,B,B,nan,I+T_perp
+mv_3013,B,B,B,nan,I+T_perp
+mv_3015,0,0,$10km / h$,nan,I+T_perp
+mv_3016,0,0,$10km / h$,nan,I+T_perp
+mv_3017,0,0,$10km / h$,nan,I+T_perp
+mv_3018,0,0,$10km / h$,nan,I+T_perp
+mv_3020,1.92,1.92,1.6,1.92,I+T_perp
+mv_3021,1.92,1.92,1.6,1.92,I+T_perp
+mv_3022,1.92,1.92,1.6,1.92,I+T_perp
+mv_3023,1.92,1.92,1.6,1.92,I+T_perp
+mv_3025,None,None,$\frac{9}{10}$,nan,I+T_perp
+mv_3026,None,None,$\frac{9}{10}$,nan,I+T_perp
+mv_3027,None,None,$\frac{9}{10}$,nan,I+T_perp
+mv_3028,None,None,$\frac{9}{10}$,nan,I+T_perp
+mv_3030,D,D,A,nan,I+T_perp
+mv_3031,None,None,A,nan,I+T_perp
+mv_3032,None,None,A,nan,I+T_perp
+mv_3033,None,None,A,nan,I+T_perp
+mv_3035,1.5,1.5,$\frac{1}{2000}$,nan,I+T_perp
+mv_3036,None,None,$\frac{1}{2000}$,nan,I+T_perp
+mv_3037,None,None,$\frac{1}{2000}$,nan,I+T_perp
+mv_3038,None,None,$\frac{1}{2000}$,nan,I+T_perp
+mv_3040,C,C,C,nan,I+T_perp
+mv_3041,None,None,C,nan,I+T_perp
+mv_3042,None,None,C,nan,I+T_perp
+mv_3043,None,None,C,nan,I+T_perp
+mv_3045,1,1,0,1.0,I+T_perp
+mv_3046,1,1,0,1.0,I+T_perp
+mv_3047,1,1,0,1.0,I+T_perp
+mv_3048,1,1,0,1.0,I+T_perp
+mv_3050,None,None,B,nan,I+T_perp
+mv_3051,None,None,B,nan,I+T_perp
+mv_3052,None,None,B,nan,I+T_perp
+mv_3053,None,None,B,nan,I+T_perp
+mv_3055,A,A,B,nan,I+T_perp
+mv_3056,A,A,B,nan,I+T_perp
+mv_3057,A,A,B,nan,I+T_perp
+mv_3058,A,A,B,nan,I+T_perp
+mv_3060,D,D,D,nan,I+T_perp
+mv_3061,D,D,D,nan,I+T_perp
+mv_3062,D,D,D,nan,I+T_perp
+mv_3063,D,D,D,nan,I+T_perp
+mv_3065,A,A,D,nan,I+T_perp
+mv_3066,A,A,D,nan,I+T_perp
+mv_3067,A,A,D,nan,I+T_perp
+mv_3068,A,A,D,nan,I+T_perp
+mv_3070,D,D,A,nan,I+T_perp
+mv_3071,D,D,A,nan,I+T_perp
+mv_3072,D,D,A,nan,I+T_perp
+mv_3073,D,D,A,nan,I+T_perp
+mv_3075,D,D,A,nan,I+T_perp
+mv_3076,D,D,A,nan,I+T_perp
+mv_3077,D,D,A,nan,I+T_perp
+mv_3078,D,D,A,nan,I+T_perp
+mv_3080,D,D,B,nan,I+T_perp
+mv_3081,D,D,B,nan,I+T_perp
+mv_3082,D,D,B,nan,I+T_perp
+mv_3083,D,D,B,nan,I+T_perp
+mv_3085,A,A,B,nan,I+T_perp
+mv_3086,A,A,B,nan,I+T_perp
+mv_3087,A,A,B,nan,I+T_perp
+mv_3088,A,A,B,nan,I+T_perp
+mv_3090,10,10,8,10.0,I+T_perp
+mv_3091,10,10,8,10.0,I+T_perp
+mv_3092,10,10,8,10.0,I+T_perp
+mv_3093,10,10,8,10.0,I+T_perp
+mv_3095,B,B,B,nan,I+T_perp
+mv_3096,B,B,B,nan,I+T_perp
+mv_3097,B,B,B,nan,I+T_perp
+mv_3098,B,B,B,nan,I+T_perp
+mv_3100,None,None,B,nan,I+T_perp
+mv_3101,A,A,B,nan,I+T_perp
+mv_3102,A,A,B,nan,I+T_perp
+mv_3103,A,A,B,nan,I+T_perp
+mv_3105,A,A,C,nan,I+T_perp
+mv_3106,A,A,C,nan,I+T_perp
+mv_3107,A,A,C,nan,I+T_perp
+mv_3108,A,A,C,nan,I+T_perp
+mv_3110,108,108,90,108.0,I+T_perp
+mv_3111,108,108,90,108.0,I+T_perp
+mv_3112,108,108,90,108.0,I+T_perp
+mv_3113,108,108,90,108.0,I+T_perp
+mv_3115,None,None,y=-2 t+180,nan,I+T_perp
+mv_3116,None,None,y=-2 t+180,nan,I+T_perp
+mv_3117,None,None,y=-2 t+180,nan,I+T_perp
+mv_3118,None,None,y=-2 t+180,nan,I+T_perp
+mv_3120,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_3121,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_3122,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_3123,None,None,"Center $=(20,10)$",nan,I+T_perp
+mv_3125,None,None,"$=(4,0)$",nan,I+T_perp
+mv_3126,None,None,"$=(4,0)$",nan,I+T_perp
+mv_3127,None,None,"$=(4,0)$",nan,I+T_perp
+mv_3128,None,None,"$=(4,0)$",nan,I+T_perp
+mv_3130,None,None,"$(4,0)$",nan,I+T_perp
+mv_3131,None,None,"$(4,0)$",nan,I+T_perp
+mv_3132,None,None,"$(4,0)$",nan,I+T_perp
+mv_3133,None,None,"$(4,0)$",nan,I+T_perp
+mv_3135,"(5, 4)",5,"$(0,14)$",nan,I+T_perp
+mv_3136,"(1, 4)",1,"$(0,14)$",nan,I+T_perp
+mv_3137,"(1, 4)",1,"$(0,14)$",nan,I+T_perp
+mv_3138,10,10,"$(0,14)$",nan,I+T_perp
+mv_3140,0,0,Bugs Bunny,nan,I+T_perp
+mv_3141,0,0,Bugs Bunny,nan,I+T_perp
+mv_3142,0,0,Bugs Bunny,nan,I+T_perp
+mv_3143,0,0,Bugs Bunny,nan,I+T_perp
+mv_3145,None,None,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_perp
+mv_3146,0.49,0.49,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_perp
+mv_3147,"[0.39, 0.5, 0.5, 0.6]",0.39,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_perp
+mv_3148,1.5,1.5,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_perp
+mv_3150,None,None,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_perp
+mv_3151,1,1,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_perp
+mv_3152,"[0.3, 0.49, 0.4, 0.58]",0.3,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_perp
+mv_3153,1,1,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_perp
+mv_3155,"(0,1)",0,"\left(315^\circ ,1\right)",nan,I+T_perp
+mv_3156,"[0.46, 0.5, 0.59, 0.6]",0.46,"\left(315^\circ ,1\right)",nan,I+T_perp
+mv_3157,"[0.39, 0.5, 0.5, 0.59]",0.39,"\left(315^\circ ,1\right)",nan,I+T_perp
+mv_3158,"[0.39, 0.49, 0.58, 0.62]",0.39,"\left(315^\circ ,1\right)",nan,I+T_perp
+mv_3160,None,None,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_perp
+mv_3161,180,180,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_perp
+mv_3162,180,180,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_perp
+mv_3163,180,180,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_perp
+mv_3165,0,0,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_perp
+mv_3166,1,1,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_perp
+mv_3167,1.5,1.5,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_perp
+mv_3168,1,1,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_perp
+mv_3170,13,13,diameter $=10 \mathrm{~m}$,nan,I+T_perp
+mv_3171,12,12,diameter $=10 \mathrm{~m}$,nan,I+T_perp
+mv_3172,12,12,diameter $=10 \mathrm{~m}$,nan,I+T_perp
+mv_3173,13,13,diameter $=10 \mathrm{~m}$,nan,I+T_perp
+mv_3175,10,10,$r=5$,nan,I+T_perp
+mv_3176,10,10,$r=5$,nan,I+T_perp
+mv_3177,12,12,$r=5$,nan,I+T_perp
+mv_3178,12,12,$r=5$,nan,I+T_perp
+mv_3180,15.0,15.0,$y=21.61$,nan,I+T_perp
+mv_3181,15,15,$y=21.61$,nan,I+T_perp
+mv_3182,11.5,11.5,$y=21.61$,nan,I+T_perp
+mv_3183,11.5 cm,11.5 cm,$y=21.61$,nan,I+T_perp
+mv_3185,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3186,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3187,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3188,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3190,10.5,10.5,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_perp
+mv_3191,10.99,10.99,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_perp
+mv_3192,10.99,10.99,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_perp
+mv_3193,0.0,0.0,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_perp
+mv_3195,13,13,Weight $=63.3 \mathrm{~g}$,nan,I+T_perp
+mv_3196,13,13,Weight $=63.3 \mathrm{~g}$,nan,I+T_perp
+mv_3197,13,13,Weight $=63.3 \mathrm{~g}$,nan,I+T_perp
+mv_3198,13.5,13.5,Weight $=63.3 \mathrm{~g}$,nan,I+T_perp
+mv_3200,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3201,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3202,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3203,0,0,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3205,0.785,0.785,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3206,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3207,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3208,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3210,0.00,0.00,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3211,0.00,0.00,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3212,0.00,0.00,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3213,0.0,0.0,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3215,0.00,0.00,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3216,0.00,0.00,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3217,0.53,0.53,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3218,0.0,0.0,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3220,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3221,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3222,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3223,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3225,0.0,0.0,220.0 \mathrm{~cm}^{3},nan,I+T_perp
+mv_3226,0.00,0.00,220.0 \mathrm{~cm}^{3},nan,I+T_perp
+mv_3227,0.00,0.00,220.0 \mathrm{~cm}^{3},nan,I+T_perp
+mv_3228,0.0,0.0,220.0 \mathrm{~cm}^{3},nan,I+T_perp
+mv_3230,18.29,18.29,56.55 units $^{3}$,nan,I+T_perp
+mv_3231,0.00,0.00,56.55 units $^{3}$,nan,I+T_perp
+mv_3232,0.00,0.00,56.55 units $^{3}$,nan,I+T_perp
+mv_3233,None,None,56.55 units $^{3}$,nan,I+T_perp
+mv_3235,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3236,0,0,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3237,0,0,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3238,0,0,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3240,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3241,0,0,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3242,0,0,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3243,0,0,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3245,12.6,12.6,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3246,12 cm,12 cm,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3247,12 cm,12 cm,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3248,0,0,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3250,1.43,1.43,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3251,1.0,1.0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3252,0,0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3253,1.0,1.0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3255,1.43 x 10^-5 m^3,1.43,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_perp
+mv_3256,22.36,22.36,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_perp
+mv_3257,0,0,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_perp
+mv_3258,22.36,22.36,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_perp
+mv_3260,0.00,0.00,Volume $=452.389$ cubic units,nan,I+T_perp
+mv_3261,None,None,Volume $=452.389$ cubic units,nan,I+T_perp
+mv_3262,None,None,Volume $=452.389$ cubic units,nan,I+T_perp
+mv_3263,None,None,Volume $=452.389$ cubic units,nan,I+T_perp
+mv_3265,0.000,0.000,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3266,0.00,0.00,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3267,0,0,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3268,0.00,0.00,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3270,314.16,314.16,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3271,10.0,10.0,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3272,10.0,10.0,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3273,100,100,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3275,100000000,100000000,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3276,49.5,49.5,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3277,49.5,49.5,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3278,12.5,12.5,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3280,100000,100000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3281,100000,100000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3282,1000000,1000000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3283,1000,1000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3285,2.49 m,2.49 m,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3286,1.59 m²,1.59 m,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3287,1.59,1.59,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3288,0.0,0.0,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_perp
+mv_3290,100,100,$h=58$,nan,I+T_perp
+mv_3291,143,143,$h=58$,nan,I+T_perp
+mv_3292,100,100,$h=58$,nan,I+T_perp
+mv_3293,100,100,$h=58$,nan,I+T_perp
+mv_3295,79,79,$h=30$,nan,I+T_perp
+mv_3296,100,100,$h=30$,nan,I+T_perp
+mv_3297,100,100,$h=30$,nan,I+T_perp
+mv_3298,100,100,$h=30$,nan,I+T_perp
+mv_3300,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3301,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3302,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3303,100,100,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3305,100.0,100.0,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3306,11.0 cm,11.0 cm,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3307,11.0 cm,11.0 cm,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3308,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3310,4 \* pi \* (L - 2 \* R + R - r),4,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_perp
+mv_3311,2πr^2,2,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_perp
+mv_3312,2πr^2,2,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_perp
+mv_3313,2πr^2,2,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_perp
+mv_3315,11.02,11.02,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3316,11.09,11.09,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3317,11.09 cm²,11.09 cm,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3318,11.09,11.09,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3320,28.27,28.27,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3321,10.0,10.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3322,1.0,1.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3323,10.0,10.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3325,100.00,100.00,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3326,56.77,56.77,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3327,56.7,56.7,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3328,56.77,56.77,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3330,1.0,1.0,Area $=113.097$ units $^{2}$,nan,I+T_perp
+mv_3331,0.0,0.0,Area $=113.097$ units $^{2}$,nan,I+T_perp
+mv_3332,0.0,0.0,Area $=113.097$ units $^{2}$,nan,I+T_perp
+mv_3333,0.0,0.0,Area $=113.097$ units $^{2}$,nan,I+T_perp
+mv_3335,10.00,10.00,Surface Area $=603.186$ units $^{2}$,nan,I+T_perp
+mv_3336,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_perp
+mv_3337,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_perp
+mv_3338,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_perp
+mv_3340,4.99,4.99,Surface Area $=52647.45$ units $^{2}$,nan,I+T_perp
+mv_3341,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_perp
+mv_3342,7.47 m^2,7.47 m,Surface Area $=52647.45$ units $^{2}$,nan,I+T_perp
+mv_3343,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_perp
+mv_3345,100.0,100.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3346,100,100,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3347,100.0,100.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3348,10.0,10.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3350,100.0,100.0,Surface Area $=8128.50$ units $^{2}$,nan,I+T_perp
+mv_3351,11.33,11.33,Surface Area $=8128.50$ units $^{2}$,nan,I+T_perp
+mv_3352,100,100,Surface Area $=8128.50$ units $^{2}$,nan,I+T_perp
+mv_3353,125.0,125.0,Surface Area $=8128.50$ units $^{2}$,nan,I+T_perp
+mv_3355,10.0,10.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3356,10.89 cm²,10.89 cm,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3357,10.73 cm²,10.73 cm,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3358,10.0,10.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3360,10.55 mm,10.55 m,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3361,10.05,10.05,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3362,100.0,100.0,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3363,10.00,10.00,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_perp
+mv_3365,1.49,1.49,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3366,1.27 cm²,1.27 cm,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3367,1.43,1.43,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3368,100,100,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3370,150.0,150.0,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3371,15.0 cm²,15.0 cm,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3372,15.0 cm²,15.0 cm,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3373,15.0,15.0,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_perp
+mv_3375,12.5,12.5,S.A. $=1209.84$,nan,I+T_perp
+mv_3376,12.5,12.5,S.A. $=1209.84$,nan,I+T_perp
+mv_3377,14.2,14.2,S.A. $=1209.84$,nan,I+T_perp
+mv_3378,12.5 cm²,12.5 cm,S.A. $=1209.84$,nan,I+T_perp
+mv_3380,14.2,14.2,11.83,14.2,I+T_perp
+mv_3381,14.2,14.2,11.83,14.2,I+T_perp
+mv_3382,14.2,14.2,11.83,14.2,I+T_perp
+mv_3383,14.2,14.2,11.83,14.2,I+T_perp
+mv_3385,82.01,82.01,68.34,82.01,I+T_perp
+mv_3386,82.01,82.01,68.34,82.01,I+T_perp
+mv_3387,82.01,82.01,68.34,82.01,I+T_perp
+mv_3388,82.01,82.01,68.34,82.01,I+T_perp
+mv_3390,65.69,65.69,54.74,65.69,I+T_perp
+mv_3391,65.69,65.69,54.74,65.69,I+T_perp
+mv_3392,65.69,65.69,54.74,65.69,I+T_perp
+mv_3393,65.69,65.69,54.74,65.69,I+T_perp
+mv_3395,12.89,12.89,10.74,12.89,I+T_perp
+mv_3396,12.89,12.89,10.74,12.89,I+T_perp
+mv_3397,12.89,12.89,10.74,12.89,I+T_perp
+mv_3398,12.89,12.89,10.74,12.89,I+T_perp
+mv_3400,19.0,19.0,75.15 \mathrm{m}^2,nan,I+T_perp
+mv_3401,19.0,19.0,75.15 \mathrm{m}^2,nan,I+T_perp
+mv_3402,19.0,19.0,75.15 \mathrm{m}^2,nan,I+T_perp
+mv_3403,0.0,0.0,75.15 \mathrm{m}^2,nan,I+T_perp
+mv_3405,83.16,83.16,69.30,83.16,I+T_perp
+mv_3406,83.16,83.16,69.30,83.16,I+T_perp
+mv_3407,83.16,83.16,69.30,83.16,I+T_perp
+mv_3408,83.16,83.16,69.30,83.16,I+T_perp
+mv_3410,1/2,1,\sqrt{AB^2+BD^2+DF^2},nan,I+T_perp
+mv_3411,None,None,\sqrt{AB^2+BD^2+DF^2},nan,I+T_perp
+mv_3412,None,None,\sqrt{AB^2+BD^2+DF^2},nan,I+T_perp
+mv_3413,None,None,\sqrt{AB^2+BD^2+DF^2},nan,I+T_perp
+mv_3415,0.0,0.0,94.59 \mathrm{m}^2,nan,I+T_perp
+mv_3416,0.0,0.0,94.59 \mathrm{m}^2,nan,I+T_perp
+mv_3417,0.0,0.0,94.59 \mathrm{m}^2,nan,I+T_perp
+mv_3418,0.0,0.0,94.59 \mathrm{m}^2,nan,I+T_perp
+mv_3420,17,17,14,17.0,I+T_perp
+mv_3421,17,17,14,17.0,I+T_perp
+mv_3422,17,17,14,17.0,I+T_perp
+mv_3423,17,17,14,17.0,I+T_perp
+mv_3425,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3426,3.1415926535897932384626433600000000000000000000000000000000000,3.1415926535897932384626433600000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3427,0.0,0.0,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3428,0,0,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3430,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3431,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3432,0,0,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3433,10.0,10.0,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3435,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3436,0.00,0.00,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3437,0.0,0.0,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3438,0.0,0.0,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3440,0.00,0.00,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3441,0.00,0.00,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3442,0.0,0.0,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3443,0.0,0.0,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3445,0.00,0.00,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3446,0.00,0.00,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3447,None,None,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3448,0.00,0.00,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3450,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3451,0.00,0.00,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3452,105,105,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3453,0.0,0.0,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3455,0.00,0.00,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3456,0.0,0.0,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3457,0.0,0.0,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3458,0.0,0.0,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3460,250,250,Weight $=18.63 \mathrm{~kg}$,nan,I+T_perp
+mv_3461,250,250,Weight $=18.63 \mathrm{~kg}$,nan,I+T_perp
+mv_3462,250g,250,Weight $=18.63 \mathrm{~kg}$,nan,I+T_perp
+mv_3463,250,250,Weight $=18.63 \mathrm{~kg}$,nan,I+T_perp
+mv_3465,20,20,Weekly water intake $=15.5$ Litres,nan,I+T_perp
+mv_3466,0,0,Weekly water intake $=15.5$ Litres,nan,I+T_perp
+mv_3467,0,0,Weekly water intake $=15.5$ Litres,nan,I+T_perp
+mv_3468,0,0,Weekly water intake $=15.5$ Litres,nan,I+T_perp
+mv_3470,0.00,0.00,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3471,0.00,0.00,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3472,0.00,0.00,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3473,0.0,0.0,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3475,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3476,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3477,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3478,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3480,0.00,0.00,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3481,1000,1000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3482,1000,1000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3483,0.0,0.0,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3485,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3486,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3487,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3488,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3490,36 cm²,36 cm,216.\mathrm{cm}^2,nan,I+T_perp
+mv_3491,36 cm²,36 cm,216.\mathrm{cm}^2,nan,I+T_perp
+mv_3492,12,12,216.\mathrm{cm}^2,nan,I+T_perp
+mv_3493,64,64,216.\mathrm{cm}^2,nan,I+T_perp
+mv_3495,12,12,288 \mathrm{m}^2,nan,I+T_perp
+mv_3496,12,12,288 \mathrm{m}^2,nan,I+T_perp
+mv_3497,12,12,288 \mathrm{m}^2,nan,I+T_perp
+mv_3498,12,12,288 \mathrm{m}^2,nan,I+T_perp
+mv_3500,120,120,768 \mathrm{cm}^2,nan,I+T_perp
+mv_3501,120 cm²,120 cm,768 \mathrm{cm}^2,nan,I+T_perp
+mv_3502,122.5 cm²,122.5 cm,768 \mathrm{cm}^2,nan,I+T_perp
+mv_3503,12 cm²,12 cm,768 \mathrm{cm}^2,nan,I+T_perp
+mv_3505,120,120,528 \mathrm{cm}^2,nan,I+T_perp
+mv_3506,120 cm²,120 cm,528 \mathrm{cm}^2,nan,I+T_perp
+mv_3507,120 cm²,120 cm,528 \mathrm{cm}^2,nan,I+T_perp
+mv_3508,20 cm,20 cm,528 \mathrm{cm}^2,nan,I+T_perp
+mv_3510,100,100,338 \mathrm{cm}^2,nan,I+T_perp
+mv_3511,108,108,338 \mathrm{cm}^2,nan,I+T_perp
+mv_3512,108,108,338 \mathrm{cm}^2,nan,I+T_perp
+mv_3513,18 cm²,18 cm,338 \mathrm{cm}^2,nan,I+T_perp
+mv_3515,100,100,534 \mathrm{cm}^2,nan,I+T_perp
+mv_3516,192,192,534 \mathrm{cm}^2,nan,I+T_perp
+mv_3517,17.5 cm²,17.5 cm,534 \mathrm{cm}^2,nan,I+T_perp
+mv_3518,17 cm,17 cm,534 \mathrm{cm}^2,nan,I+T_perp
+mv_3520,13.5 cm²,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_perp
+mv_3521,13.5 cm,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_perp
+mv_3522,13.5 cm,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_perp
+mv_3523,13.5 cm²,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_perp
+mv_3525,120,120,608 \mathrm{cm}^2,nan,I+T_perp
+mv_3526,120 cm²,120 cm,608 \mathrm{cm}^2,nan,I+T_perp
+mv_3527,12 cm²,12 cm,608 \mathrm{cm}^2,nan,I+T_perp
+mv_3528,12 cm²,12 cm,608 \mathrm{cm}^2,nan,I+T_perp
+mv_3530,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_perp
+mv_3531,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_perp
+mv_3532,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_perp
+mv_3533,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_perp
+mv_3535,12,12,120 \mathrm{cm}^2,nan,I+T_perp
+mv_3536,12,12,120 \mathrm{cm}^2,nan,I+T_perp
+mv_3537,12,12,120 \mathrm{cm}^2,nan,I+T_perp
+mv_3538,12,12,120 \mathrm{cm}^2,nan,I+T_perp
+mv_3540,100,100,256.2 \mathrm{m}^2,nan,I+T_perp
+mv_3541,28.3,28.3,256.2 \mathrm{m}^2,nan,I+T_perp
+mv_3542,12.5,12.5,256.2 \mathrm{m}^2,nan,I+T_perp
+mv_3543,12.5,12.5,256.2 \mathrm{m}^2,nan,I+T_perp
+mv_3545,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_perp
+mv_3546,10.73,10.73,122.52 \mathrm{cm}^2,nan,I+T_perp
+mv_3547,10.73,10.73,122.52 \mathrm{cm}^2,nan,I+T_perp
+mv_3548,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_perp
+mv_3550,12.56 cm²,12.56 cm,91.11 \mathrm{cm}^2,nan,I+T_perp
+mv_3551,12.56 cm²,12.56 cm,91.11 \mathrm{cm}^2,nan,I+T_perp
+mv_3552,12.56 cm²,12.56 cm,91.11 \mathrm{cm}^2,nan,I+T_perp
+mv_3553,1.49,1.49,91.11 \mathrm{cm}^2,nan,I+T_perp
+mv_3555,100,100,288.6 \mathrm{m}^2,nan,I+T_perp
+mv_3556,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_perp
+mv_3557,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_perp
+mv_3558,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_perp
+mv_3560,12.09,12.09,651.82 \mathrm{cm}^2,nan,I+T_perp
+mv_3561,12.59,12.59,651.82 \mathrm{cm}^2,nan,I+T_perp
+mv_3562,13.7,13.7,651.82 \mathrm{cm}^2,nan,I+T_perp
+mv_3563,12.57,12.57,651.82 \mathrm{cm}^2,nan,I+T_perp
+mv_3565,100,100,323.10 \mathrm{m}^2,nan,I+T_perp
+mv_3566,100,100,323.10 \mathrm{m}^2,nan,I+T_perp
+mv_3567,10.0,10.0,323.10 \mathrm{m}^2,nan,I+T_perp
+mv_3568,100,100,323.10 \mathrm{m}^2,nan,I+T_perp
+mv_3570,1.0,1.0,520.55 \mathrm{cm}^2,nan,I+T_perp
+mv_3571,1.25,1.25,520.55 \mathrm{cm}^2,nan,I+T_perp
+mv_3572,1.25,1.25,520.55 \mathrm{cm}^2,nan,I+T_perp
+mv_3573,12.0,12.0,520.55 \mathrm{cm}^2,nan,I+T_perp
+mv_3575,100.0,100.0,8128.50 \text { units }^2,nan,I+T_perp
+mv_3576,100.0,100.0,8128.50 \text { units }^2,nan,I+T_perp
+mv_3577,100.0,100.0,8128.50 \text { units }^2,nan,I+T_perp
+mv_3578,1.125,1.125,8128.50 \text { units }^2,nan,I+T_perp
+mv_3580,100,100,200 \mathrm{cm}^3,nan,I+T_perp
+mv_3581,100,100,200 \mathrm{cm}^3,nan,I+T_perp
+mv_3582,0.0,0.0,200 \mathrm{cm}^3,nan,I+T_perp
+mv_3583,0,0,200 \mathrm{cm}^3,nan,I+T_perp
+mv_3585,12π,12,36\pi \mathrm{cm}^3,nan,I+T_perp
+mv_3586,108,108,36\pi \mathrm{cm}^3,nan,I+T_perp
+mv_3587,12π,12,36\pi \mathrm{cm}^3,nan,I+T_perp
+mv_3588,4π,4,36\pi \mathrm{cm}^3,nan,I+T_perp
+mv_3590,1:12,1,1:64,nan,I+T_perp
+mv_3591,1:1,1,1:64,nan,I+T_perp
+mv_3592,1:1,1,1:64,nan,I+T_perp
+mv_3593,1:1,1,1:64,nan,I+T_perp
+mv_3595,120,120,100,120.0,I+T_perp
+mv_3596,120,120,100,120.0,I+T_perp
+mv_3597,120,120,100,120.0,I+T_perp
+mv_3598,120,120,100,120.0,I+T_perp
+mv_3600,12m^3,12m,12x^2+144x+384 \mathrm{m}^3,nan,I+T_perp
+mv_3601,144,144,12x^2+144x+384 \mathrm{m}^3,nan,I+T_perp
+mv_3602,144,144,12x^2+144x+384 \mathrm{m}^3,nan,I+T_perp
+mv_3603,12 cubic meters,12,12x^2+144x+384 \mathrm{m}^3,nan,I+T_perp
+mv_3605,L = 5x + 7,5,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_perp
+mv_3606,L = 5x + 7,5,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_perp
+mv_3607,L = 5x + 7,5,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_perp
+mv_3608,L = 5x,5,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_perp
+mv_3610,None,None,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_perp
+mv_3611,None,None,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_perp
+mv_3612,None,None,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_perp
+mv_3613,0,0,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_perp
+mv_3615,x^3 + 4x^2 + 16x + 64,3,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_perp
+mv_3616,0,0,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_perp
+mv_3617,0,0,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_perp
+mv_3618,0,0,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_perp
+mv_3620,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3621,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3622,12.5,12.5,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3623,0,0,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3625,0.0,0.0,$299 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3626,0.0,0.0,$299 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3627,0.0,0.0,$299 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3628,16 cm,16 cm,$299 \mathrm{~cm}^{3}$,nan,I+T_perp
+mv_3630,100,100,$1690cm^2$,nan,I+T_perp
+mv_3631,100,100,$1690cm^2$,nan,I+T_perp
+mv_3632,100,100,$1690cm^2$,nan,I+T_perp
+mv_3633,13 cm^3,13 cm,$1690cm^2$,nan,I+T_perp
+mv_3635,144,144,$144cm^3$,nan,I+T_perp
+mv_3636,12 cm,12 cm,$144cm^3$,nan,I+T_perp
+mv_3637,12 cm,12 cm,$144cm^3$,nan,I+T_perp
+mv_3638,12 cm,12 cm,$144cm^3$,nan,I+T_perp
+mv_3640,16,16,48 \mathrm{cm}^3,nan,I+T_perp
+mv_3641,24,24,48 \mathrm{cm}^3,nan,I+T_perp
+mv_3642,2,2,48 \mathrm{cm}^3,nan,I+T_perp
+mv_3643,0,0,48 \mathrm{cm}^3,nan,I+T_perp
+mv_3645,0.0,0.0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3646,0.0,0.0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3647,0.0,0.0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3648,0,0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3650,16 cm^3,16 cm,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3651,0.0,0.0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3652,0.0,0.0,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3653,None,None,32 \mathrm{cm}^3,nan,I+T_perp
+mv_3655,270,270,270 \mathrm{cm}^3,nan,I+T_perp
+mv_3656,18,18,270 \mathrm{cm}^3,nan,I+T_perp
+mv_3657,0.0,0.0,270 \mathrm{cm}^3,nan,I+T_perp
+mv_3658,0,0,270 \mathrm{cm}^3,nan,I+T_perp
+mv_3660,14,14,399 \mathrm{cm}^3,nan,I+T_perp
+mv_3661,14,14,399 \mathrm{cm}^3,nan,I+T_perp
+mv_3662,0.0,0.0,399 \mathrm{cm}^3,nan,I+T_perp
+mv_3663,14 cm,14 cm,399 \mathrm{cm}^3,nan,I+T_perp
+mv_3665,1930.2,1930.2,1608.5,1930.2,I+T_perp
+mv_3666,1930.2,1930.2,1608.5,1930.2,I+T_perp
+mv_3667,1930.2,1930.2,1608.5,1930.2,I+T_perp
+mv_3668,1930.2,1930.2,1608.5,1930.2,I+T_perp
+mv_3670,None,None,3136 \mathrm{cm}^3,nan,I+T_perp
+mv_3671,None,None,3136 \mathrm{cm}^3,nan,I+T_perp
+mv_3672,16,16,3136 \mathrm{cm}^3,nan,I+T_perp
+mv_3673,None,None,3136 \mathrm{cm}^3,nan,I+T_perp
+mv_3675,27.29,27.29,125.3 \mathrm{cm}^3,nan,I+T_perp
+mv_3676,0.0,0.0,125.3 \mathrm{cm}^3,nan,I+T_perp
+mv_3677,0.0,0.0,125.3 \mathrm{cm}^3,nan,I+T_perp
+mv_3678,0.0,0.0,125.3 \mathrm{cm}^3,nan,I+T_perp
+mv_3680,0.0,0.0,\frac{847}{3} \mathrm{mm}^3,nan,I+T_perp
+mv_3681,11.0,11.0,\frac{847}{3} \mathrm{mm}^3,nan,I+T_perp
+mv_3682,11.000000000000000000000000000000000000000000000000000000000000,11.000000000000000000000000000000000000000000000000000000000000,\frac{847}{3} \mathrm{mm}^3,nan,I+T_perp
+mv_3683,11mm,11m,\frac{847}{3} \mathrm{mm}^3,nan,I+T_perp
+mv_3685,10.51,10.51,169.65 \mathrm{cm}^3,nan,I+T_perp
+mv_3686,1.49,1.49,169.65 \mathrm{cm}^3,nan,I+T_perp
+mv_3687,1.25,1.25,169.65 \mathrm{cm}^3,nan,I+T_perp
+mv_3688,1.25,1.25,169.65 \mathrm{cm}^3,nan,I+T_perp
+mv_3690,120,120,720 \mathrm{cm}^3,nan,I+T_perp
+mv_3691,15.5 cm,15.5 cm,720 \mathrm{cm}^3,nan,I+T_perp
+mv_3692,15.5 cm,15.5 cm,720 \mathrm{cm}^3,nan,I+T_perp
+mv_3693,None,None,720 \mathrm{cm}^3,nan,I+T_perp
+mv_3695,70,70,58,70.0,I+T_perp
+mv_3696,70,70,58,70.0,I+T_perp
+mv_3697,70,70,58,70.0,I+T_perp
+mv_3698,70,70,58,70.0,I+T_perp
+mv_3700,36,36,30,36.0,I+T_perp
+mv_3701,36,36,30,36.0,I+T_perp
+mv_3702,36,36,30,36.0,I+T_perp
+mv_3703,36,36,30,36.0,I+T_perp
+mv_3705,1200,1200,33929 \mathrm{cm}^2,nan,I+T_perp
+mv_3706,1200,1200,33929 \mathrm{cm}^2,nan,I+T_perp
+mv_3707,1200,1200,33929 \mathrm{cm}^2,nan,I+T_perp
+mv_3708,1200,1200,33929 \mathrm{cm}^2,nan,I+T_perp
+mv_3710,L = 6x + 9,6,24 units,nan,I+T_perp
+mv_3711,L = 6x + 9,6,24 units,nan,I+T_perp
+mv_3712,L = 6x + 9,6,24 units,nan,I+T_perp
+mv_3713,L = 2x,2,24 units,nan,I+T_perp
+mv_3715,4,4,3,4.0,I+T_perp
+mv_3716,4,4,3,4.0,I+T_perp
+mv_3717,4,4,3,4.0,I+T_perp
+mv_3718,4,4,3,4.0,I+T_perp
+mv_3720,17,17,14,17.0,I+T_perp
+mv_3721,17,17,14,17.0,I+T_perp
+mv_3722,17,17,14,17.0,I+T_perp
+mv_3723,17,17,14,17.0,I+T_perp
+mv_3725,18.97,18.97,15.81,18.97,I+T_perp
+mv_3726,18.97,18.97,15.81,18.97,I+T_perp
+mv_3727,18.97,18.97,15.81,18.97,I+T_perp
+mv_3728,18.97,18.97,15.81,18.97,I+T_perp
+mv_3730,7,7,\sqrt{147},nan,I+T_perp
+mv_3731,7,7,\sqrt{147},nan,I+T_perp
+mv_3732,7,7,\sqrt{147},nan,I+T_perp
+mv_3733,7,7,\sqrt{147},nan,I+T_perp
+mv_3735,28.09,28.09,23.41,28.09,I+T_perp
+mv_3736,28.09,28.09,23.41,28.09,I+T_perp
+mv_3737,28.09,28.09,23.41,28.09,I+T_perp
+mv_3738,28.09,28.09,23.41,28.09,I+T_perp
+mv_3740,1,1,\sqrt{122},nan,I+T_perp
+mv_3741,10,10,\sqrt{122},nan,I+T_perp
+mv_3742,10,10,\sqrt{122},nan,I+T_perp
+mv_3743,10,10,\sqrt{122},nan,I+T_perp
+mv_3745,16,16,$x=8 \mathrm{~cm}$,nan,I+T_perp
+mv_3746,16,16,$x=8 \mathrm{~cm}$,nan,I+T_perp
+mv_3747,10,10,$x=8 \mathrm{~cm}$,nan,I+T_perp
+mv_3748,10 cm,10 cm,$x=8 \mathrm{~cm}$,nan,I+T_perp
+mv_3750,A,A,C,nan,I+T_perp
+mv_3751,A,A,C,nan,I+T_perp
+mv_3752,A,A,C,nan,I+T_perp
+mv_3753,A,A,C,nan,I+T_perp
+mv_3755,A,A,A,nan,I+T_perp
+mv_3756,A,A,A,nan,I+T_perp
+mv_3757,A,A,A,nan,I+T_perp
+mv_3758,A,A,A,nan,I+T_perp
+mv_3760,B,B,D,nan,I+T_perp
+mv_3761,B,B,D,nan,I+T_perp
+mv_3762,B,B,D,nan,I+T_perp
+mv_3763,B,B,D,nan,I+T_perp
+mv_3765,None,None,C,nan,I+T_perp
+mv_3766,None,None,C,nan,I+T_perp
+mv_3767,None,None,C,nan,I+T_perp
+mv_3768,None,None,C,nan,I+T_perp
+mv_3770,D. \sqrt{593} (approximately 24.35),D,A,nan,I+T_perp
+mv_3771,D. \sqrt{593} (approximately 24.35),D,A,nan,I+T_perp
+mv_3772,D. \sqrt{593} (approximately 24.35),D,A,nan,I+T_perp
+mv_3773,D. \sqrt{593} (approximately 24.35),D,A,nan,I+T_perp
+mv_3775,C,C,E,nan,I+T_perp
+mv_3776,C,C,E,nan,I+T_perp
+mv_3777,C,C,E,nan,I+T_perp
+mv_3778,C,C,E,nan,I+T_perp
+mv_3780,C,C,C,nan,I+T_perp
+mv_3781,None,None,C,nan,I+T_perp
+mv_3782,None,None,C,nan,I+T_perp
+mv_3783,None,None,C,nan,I+T_perp
+mv_3785,C,C,D,nan,I+T_perp
+mv_3786,B,B,D,nan,I+T_perp
+mv_3787,C,C,D,nan,I+T_perp
+mv_3788,C,C,D,nan,I+T_perp
+mv_3790,A,A,A,nan,I+T_perp
+mv_3791,None,None,A,nan,I+T_perp
+mv_3792,None,None,A,nan,I+T_perp
+mv_3793,None,None,A,nan,I+T_perp
+mv_3795,B,B,E,nan,I+T_perp
+mv_3796,B,B,E,nan,I+T_perp
+mv_3797,B,B,E,nan,I+T_perp
+mv_3798,B,B,E,nan,I+T_perp
+mv_3800,D,D,C,nan,I+T_perp
+mv_3801,E,E,C,nan,I+T_perp
+mv_3802,E,E,C,nan,I+T_perp
+mv_3803,E,E,C,nan,I+T_perp
+mv_3805,B,B,C,nan,I+T_perp
+mv_3806,None,None,C,nan,I+T_perp
+mv_3807,None,None,C,nan,I+T_perp
+mv_3808,B,B,C,nan,I+T_perp
+mv_3810,B,B,D,nan,I+T_perp
+mv_3811,B,B,D,nan,I+T_perp
+mv_3812,B,B,D,nan,I+T_perp
+mv_3813,B,B,D,nan,I+T_perp
+mv_3815,B,B,C,nan,I+T_perp
+mv_3816,A,A,C,nan,I+T_perp
+mv_3817,A,A,C,nan,I+T_perp
+mv_3818,A,A,C,nan,I+T_perp
+mv_3820,28,28,23,28.0,I+T_perp
+mv_3821,28,28,23,28.0,I+T_perp
+mv_3822,28,28,23,28.0,I+T_perp
+mv_3823,28,28,23,28.0,I+T_perp
+mv_3825,148,148,123,148.0,I+T_perp
+mv_3826,148,148,123,148.0,I+T_perp
+mv_3827,148,148,123,148.0,I+T_perp
+mv_3828,148,148,123,148.0,I+T_perp
+mv_3830,1,1,0,1.0,I+T_perp
+mv_3831,1,1,0,1.0,I+T_perp
+mv_3832,1,1,0,1.0,I+T_perp
+mv_3833,1,1,0,1.0,I+T_perp
+mv_3835,A,A,B,nan,I+T_perp
+mv_3836,C,C,B,nan,I+T_perp
+mv_3837,C,C,B,nan,I+T_perp
+mv_3838,C,C,B,nan,I+T_perp
+mv_3840,C,C,B,nan,I+T_perp
+mv_3841,None,None,B,nan,I+T_perp
+mv_3842,None,None,B,nan,I+T_perp
+mv_3843,None,None,B,nan,I+T_perp
+mv_3845,3.0,3.0,1,3.0,I+T_perp
+mv_3846,3.0,3.0,1,3.0,I+T_perp
+mv_3847,3.0,3.0,1,3.0,I+T_perp
+mv_3848,3.0,3.0,1,3.0,I+T_perp
+mv_3850,59,59,49,59.0,I+T_perp
+mv_3851,59,59,49,59.0,I+T_perp
+mv_3852,59,59,49,59.0,I+T_perp
+mv_3853,59,59,49,59.0,I+T_perp
+mv_3855,None,None,B,nan,I+T_perp
+mv_3856,None,None,B,nan,I+T_perp
+mv_3857,None,None,B,nan,I+T_perp
+mv_3858,None,None,B,nan,I+T_perp
+mv_3860,None,None,A,nan,I+T_perp
+mv_3861,None,None,A,nan,I+T_perp
+mv_3862,None,None,A,nan,I+T_perp
+mv_3863,None,None,A,nan,I+T_perp
+mv_3865,A,A,A,nan,I+T_perp
+mv_3866,None,None,A,nan,I+T_perp
+mv_3867,None,None,A,nan,I+T_perp
+mv_3868,None,None,A,nan,I+T_perp
+mv_3870,29,29,24,29.0,I+T_perp
+mv_3871,29,29,24,29.0,I+T_perp
+mv_3872,29,29,24,29.0,I+T_perp
+mv_3873,29,29,24,29.0,I+T_perp
+mv_3875,60,60,50,60.0,I+T_perp
+mv_3876,60,60,50,60.0,I+T_perp
+mv_3877,60,60,50,60.0,I+T_perp
+mv_3878,60,60,50,60.0,I+T_perp
+mv_3880,A,A,A,nan,I+T_perp
+mv_3881,A,A,A,nan,I+T_perp
+mv_3882,A,A,A,nan,I+T_perp
+mv_3883,A,A,A,nan,I+T_perp
+mv_3885,A,A,D,nan,I+T_perp
+mv_3886,A,A,D,nan,I+T_perp
+mv_3887,A,A,D,nan,I+T_perp
+mv_3888,A,A,D,nan,I+T_perp
+mv_3890,E,E,C,nan,I+T_perp
+mv_3891,E,E,C,nan,I+T_perp
+mv_3892,E,E,C,nan,I+T_perp
+mv_3893,E,E,C,nan,I+T_perp
+mv_3895,A,A,A,nan,I+T_perp
+mv_3896,D,D,A,nan,I+T_perp
+mv_3897,A,A,A,nan,I+T_perp
+mv_3898,D,D,A,nan,I+T_perp
+mv_3900,D,D,B,nan,I+T_perp
+mv_3901,D,D,B,nan,I+T_perp
+mv_3902,D,D,B,nan,I+T_perp
+mv_3903,D,D,B,nan,I+T_perp
+mv_3905,D.4*x,D,B,nan,I+T_perp
+mv_3906,D,D,B,nan,I+T_perp
+mv_3907,D,D,B,nan,I+T_perp
+mv_3908,D.4*x,D,B,nan,I+T_perp
+mv_3910,None,None,B,nan,I+T_perp
+mv_3911,None,None,B,nan,I+T_perp
+mv_3912,None,None,B,nan,I+T_perp
+mv_3913,None,None,B,nan,I+T_perp
+mv_3915,B,B,D,nan,I+T_perp
+mv_3916,B,B,D,nan,I+T_perp
+mv_3917,B,B,D,nan,I+T_perp
+mv_3918,B,B,D,nan,I+T_perp
+mv_3920,C,C,B,nan,I+T_perp
+mv_3921,C,C,B,nan,I+T_perp
+mv_3922,C,C,B,nan,I+T_perp
+mv_3923,C,C,B,nan,I+T_perp
+mv_3925,C,C,B,nan,I+T_perp
+mv_3926,C,C,B,nan,I+T_perp
+mv_3927,C,C,B,nan,I+T_perp
+mv_3928,C,C,B,nan,I+T_perp
+mv_3930,A,A,D,nan,I+T_perp
+mv_3931,A,A,D,nan,I+T_perp
+mv_3932,A,A,D,nan,I+T_perp
+mv_3933,A,A,D,nan,I+T_perp
+mv_3935,E,E,D,nan,I+T_perp
+mv_3936,E,E,D,nan,I+T_perp
+mv_3937,E,E,D,nan,I+T_perp
+mv_3938,E,E,D,nan,I+T_perp

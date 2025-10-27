@@ -1,0 +1,3165 @@
+item_id,model_raw,model_norm,answer_gold_diagram,answer_gold_text_misleading,condition
+mv_0,A,A,D,nan,I+T_masked
+mv_1,A,A,D,nan,I+T_masked
+mv_2,A,A,D,nan,I+T_masked
+mv_3,A,A,D,nan,I+T_masked
+mv_5,A,A,C,nan,I+T_masked
+mv_6,A,A,C,nan,I+T_masked
+mv_7,A,A,C,nan,I+T_masked
+mv_8,A: 50°,A,C,nan,I+T_masked
+mv_10,A,A,A,nan,I+T_masked
+mv_11,A,A,A,nan,I+T_masked
+mv_12,A,A,A,nan,I+T_masked
+mv_13,A: 70°,A,A,nan,I+T_masked
+mv_15,C: [NUM]°,C,D,nan,I+T_masked
+mv_16,A: [NUM]°,A,D,nan,I+T_masked
+mv_17,A,A,D,nan,I+T_masked
+mv_18,A,A,D,nan,I+T_masked
+mv_20,A,A,A,nan,I+T_masked
+mv_21,B,B,A,nan,I+T_masked
+mv_22,B,B,A,nan,I+T_masked
+mv_23,A,A,A,nan,I+T_masked
+mv_25,A,A,C,nan,I+T_masked
+mv_26,A,A,C,nan,I+T_masked
+mv_27,A,A,C,nan,I+T_masked
+mv_28,A,A,C,nan,I+T_masked
+mv_30,A,A,B,nan,I+T_masked
+mv_31,A,A,B,nan,I+T_masked
+mv_32,A,A,B,nan,I+T_masked
+mv_33,A: 35°,A,B,nan,I+T_masked
+mv_35,A,A,C,nan,I+T_masked
+mv_36,A,A,C,nan,I+T_masked
+mv_37,A,A,C,nan,I+T_masked
+mv_38,B,B,C,nan,I+T_masked
+mv_40,B,B,A,nan,I+T_masked
+mv_41,A,A,A,nan,I+T_masked
+mv_42,B,B,A,nan,I+T_masked
+mv_43,B,B,A,nan,I+T_masked
+mv_45,A,A,A,nan,I+T_masked
+mv_46,A,A,A,nan,I+T_masked
+mv_47,A,A,A,nan,I+T_masked
+mv_48,A: 36°,A,A,nan,I+T_masked
+mv_50,A,A,A,nan,I+T_masked
+mv_51,A,A,A,nan,I+T_masked
+mv_52,A,A,A,nan,I+T_masked
+mv_53,A: 60°,A,A,nan,I+T_masked
+mv_55,A: [NUM]°,A,A,nan,I+T_masked
+mv_56,A: [NUM]°,A,A,nan,I+T_masked
+mv_57,A,A,A,nan,I+T_masked
+mv_58,A: 70°,A,A,nan,I+T_masked
+mv_60,A,A,C,nan,I+T_masked
+mv_61,A,A,C,nan,I+T_masked
+mv_62,A,A,C,nan,I+T_masked
+mv_63,A,A,C,nan,I+T_masked
+mv_65,A: [NUM]°,A,B,nan,I+T_masked
+mv_66,A: [NUM]°,A,B,nan,I+T_masked
+mv_67,A: [NUM]°,A,B,nan,I+T_masked
+mv_68,A: 35°,A,B,nan,I+T_masked
+mv_70,A: [NUM]°,A,D,nan,I+T_masked
+mv_71,A: [NUM]°,A,D,nan,I+T_masked
+mv_72,A,A,D,nan,I+T_masked
+mv_73,A: 70°,A,D,nan,I+T_masked
+mv_75,A,A,A,nan,I+T_masked
+mv_76,A,A,A,nan,I+T_masked
+mv_77,A,A,A,nan,I+T_masked
+mv_78,A: 50°,A,A,nan,I+T_masked
+mv_80,A,A,C,nan,I+T_masked
+mv_81,A,A,C,nan,I+T_masked
+mv_82,A,A,C,nan,I+T_masked
+mv_83,A: 123°,A,C,nan,I+T_masked
+mv_85,A,A,C,nan,I+T_masked
+mv_86,A,A,C,nan,I+T_masked
+mv_87,A,A,C,nan,I+T_masked
+mv_88,A,A,C,nan,I+T_masked
+mv_90,A,A,C,nan,I+T_masked
+mv_91,A,A,C,nan,I+T_masked
+mv_92,A,A,C,nan,I+T_masked
+mv_93,A,A,C,nan,I+T_masked
+mv_95,A[NUM]°,A,A,nan,I+T_masked
+mv_96,A,A,A,nan,I+T_masked
+mv_97,A,A,A,nan,I+T_masked
+mv_98,A: 140°,A,A,nan,I+T_masked
+mv_100,A,A,D,nan,I+T_masked
+mv_101,A,A,D,nan,I+T_masked
+mv_102,A,A,D,nan,I+T_masked
+mv_103,A,A,D,nan,I+T_masked
+mv_105,A,A,C,nan,I+T_masked
+mv_106,A,A,C,nan,I+T_masked
+mv_107,A,A,C,nan,I+T_masked
+mv_108,A,A,C,nan,I+T_masked
+mv_110,A: [NUM]°,A,C,nan,I+T_masked
+mv_111,A: [NUM]°,A,C,nan,I+T_masked
+mv_112,A,A,C,nan,I+T_masked
+mv_113,A: 65°,A,C,nan,I+T_masked
+mv_115,A: [NUM]°,A,B,nan,I+T_masked
+mv_116,A: [NUM]°,A,B,nan,I+T_masked
+mv_117,A,A,B,nan,I+T_masked
+mv_118,A,A,B,nan,I+T_masked
+mv_120,A: [NUM]°,A,D,nan,I+T_masked
+mv_121,A: [NUM]°,A,D,nan,I+T_masked
+mv_122,A,A,D,nan,I+T_masked
+mv_123,A: 50°,A,D,nan,I+T_masked
+mv_125,A,A,C,nan,I+T_masked
+mv_126,A,A,C,nan,I+T_masked
+mv_127,A,A,C,nan,I+T_masked
+mv_128,A,A,C,nan,I+T_masked
+mv_130,A,A,A,nan,I+T_masked
+mv_131,A,A,A,nan,I+T_masked
+mv_132,A,A,A,nan,I+T_masked
+mv_133,B,B,A,nan,I+T_masked
+mv_135,A,A,B,nan,I+T_masked
+mv_136,B,B,B,nan,I+T_masked
+mv_137,A,A,B,nan,I+T_masked
+mv_138,B,B,B,nan,I+T_masked
+mv_140,A,A,C,nan,I+T_masked
+mv_141,A,A,C,nan,I+T_masked
+mv_142,A,A,C,nan,I+T_masked
+mv_143,D,D,C,nan,I+T_masked
+mv_145,A,A,C,nan,I+T_masked
+mv_146,A,A,C,nan,I+T_masked
+mv_147,B,B,C,nan,I+T_masked
+mv_148,A,A,C,nan,I+T_masked
+mv_150,A: [NUM]°,A,B,nan,I+T_masked
+mv_151,A: [NUM]°,A,B,nan,I+T_masked
+mv_152,A,A,B,nan,I+T_masked
+mv_153,A: [NUM]°,A,B,nan,I+T_masked
+mv_155,A,A,C,nan,I+T_masked
+mv_156,A: [NUM]°,A,C,nan,I+T_masked
+mv_157,A,A,C,nan,I+T_masked
+mv_158,A:52,A,C,nan,I+T_masked
+mv_160,A: [NUM]°,A,C,nan,I+T_masked
+mv_161,A: [NUM]°,A,C,nan,I+T_masked
+mv_162,C: [NUM]°,C,C,nan,I+T_masked
+mv_163,A,A,C,nan,I+T_masked
+mv_165,A: [NUM]°,A,C,nan,I+T_masked
+mv_166,A,A,C,nan,I+T_masked
+mv_167,A,A,C,nan,I+T_masked
+mv_168,A,A,C,nan,I+T_masked
+mv_170,A,A,C,nan,I+T_masked
+mv_171,A,A,C,nan,I+T_masked
+mv_172,A,A,C,nan,I+T_masked
+mv_173,A,A,C,nan,I+T_masked
+mv_175,A: [NUM]°,A,A,nan,I+T_masked
+mv_176,A: [NUM]°,A,A,nan,I+T_masked
+mv_177,A: [NUM]°,A,A,nan,I+T_masked
+mv_178,A: 50°,A,A,nan,I+T_masked
+mv_180,A: [NUM]°,A,A,nan,I+T_masked
+mv_181,A: 50°,A,A,nan,I+T_masked
+mv_182,A: 50°,A,A,nan,I+T_masked
+mv_183,A: 50°,A,A,nan,I+T_masked
+mv_185,C:.[NUM]°,C,A,nan,I+T_masked
+mv_186,C:.[NUM]°,C,A,nan,I+T_masked
+mv_187,A,A,A,nan,I+T_masked
+mv_188,A: 70°,A,A,nan,I+T_masked
+mv_190,A: [NUM]°,A,B,nan,I+T_masked
+mv_191,A,A,B,nan,I+T_masked
+mv_192,A,A,B,nan,I+T_masked
+mv_193,A,A,B,nan,I+T_masked
+mv_195,C:10°,C,A,nan,I+T_masked
+mv_196,A,A,A,nan,I+T_masked
+mv_197,A,A,A,nan,I+T_masked
+mv_198,A,A,A,nan,I+T_masked
+mv_200,A,A,D,nan,I+T_masked
+mv_201,C,C,D,nan,I+T_masked
+mv_202,C,C,D,nan,I+T_masked
+mv_203,A,A,D,nan,I+T_masked
+mv_205,B,B,B,nan,I+T_masked
+mv_206,C,C,B,nan,I+T_masked
+mv_207,A,A,B,nan,I+T_masked
+mv_208,C,C,B,nan,I+T_masked
+mv_210,A,A,A,nan,I+T_masked
+mv_211,A,A,A,nan,I+T_masked
+mv_212,A,A,A,nan,I+T_masked
+mv_213,A,A,A,nan,I+T_masked
+mv_215,A,A,A,nan,I+T_masked
+mv_216,A,A,A,nan,I+T_masked
+mv_217,A,A,A,nan,I+T_masked
+mv_218,B,B,A,nan,I+T_masked
+mv_220,A,A,B,nan,I+T_masked
+mv_221,A,A,B,nan,I+T_masked
+mv_222,A: [NUM]°,A,B,nan,I+T_masked
+mv_223,A: 35°,A,B,nan,I+T_masked
+mv_225,A: [NUM]°,A,D,nan,I+T_masked
+mv_226,A,A,D,nan,I+T_masked
+mv_227,A: [NUM]°,A,D,nan,I+T_masked
+mv_228,A,A,D,nan,I+T_masked
+mv_230,A,A,B,nan,I+T_masked
+mv_231,A: [NUM]°,A,B,nan,I+T_masked
+mv_232,A,A,B,nan,I+T_masked
+mv_233,A: [NUM]°,A,B,nan,I+T_masked
+mv_235,A: [NUM]°,A,D,nan,I+T_masked
+mv_236,A,A,D,nan,I+T_masked
+mv_237,A,A,D,nan,I+T_masked
+mv_238,A,A,D,nan,I+T_masked
+mv_240,A,A,D,nan,I+T_masked
+mv_241,A,A,D,nan,I+T_masked
+mv_242,A,A,D,nan,I+T_masked
+mv_243,A:30°,A,D,nan,I+T_masked
+mv_245,A,A,B,nan,I+T_masked
+mv_246,A,A,B,nan,I+T_masked
+mv_247,A,A,B,nan,I+T_masked
+mv_248,A,A,B,nan,I+T_masked
+mv_250,A: [NUM]°,A,C,nan,I+T_masked
+mv_251,A,A,C,nan,I+T_masked
+mv_252,A,A,C,nan,I+T_masked
+mv_253,A: 45°,A,C,nan,I+T_masked
+mv_255,A,A,D,nan,I+T_masked
+mv_256,B,B,D,nan,I+T_masked
+mv_257,B,B,D,nan,I+T_masked
+mv_258,A,A,D,nan,I+T_masked
+mv_260,A,A,A,nan,I+T_masked
+mv_261,A,A,A,nan,I+T_masked
+mv_262,A,A,A,nan,I+T_masked
+mv_263,A,A,A,nan,I+T_masked
+mv_265,A: [NUM]°,A,A,nan,I+T_masked
+mv_266,A: [NUM]°,A,A,nan,I+T_masked
+mv_267,A: [NUM]°,A,A,nan,I+T_masked
+mv_268,A: 100°,A,A,nan,I+T_masked
+mv_270,A,A,B,nan,I+T_masked
+mv_271,A,A,B,nan,I+T_masked
+mv_272,A,A,B,nan,I+T_masked
+mv_273,A,A,B,nan,I+T_masked
+mv_275,A,A,C,nan,I+T_masked
+mv_276,A,A,C,nan,I+T_masked
+mv_277,A,A,C,nan,I+T_masked
+mv_278,A,A,C,nan,I+T_masked
+mv_280,A: [NUM]°,A,B,nan,I+T_masked
+mv_281,A: [NUM]°,A,B,nan,I+T_masked
+mv_282,A: [NUM]°,A,B,nan,I+T_masked
+mv_283,A,A,B,nan,I+T_masked
+mv_285,A,A,B,nan,I+T_masked
+mv_286,A,A,B,nan,I+T_masked
+mv_287,A,A,B,nan,I+T_masked
+mv_288,A,A,B,nan,I+T_masked
+mv_290,A: [NUM]°,A,A,nan,I+T_masked
+mv_291,A: [NUM]°,A,A,nan,I+T_masked
+mv_292,A,A,A,nan,I+T_masked
+mv_293,A: 80°,A,A,nan,I+T_masked
+mv_295,A,A,B,nan,I+T_masked
+mv_296,A,A,B,nan,I+T_masked
+mv_297,A,A,B,nan,I+T_masked
+mv_298,A,A,B,nan,I+T_masked
+mv_300,A,A,B,nan,I+T_masked
+mv_301,A,A,B,nan,I+T_masked
+mv_302,A,A,B,nan,I+T_masked
+mv_303,A,A,B,nan,I+T_masked
+mv_305,A,A,B,nan,I+T_masked
+mv_306,A,A,B,nan,I+T_masked
+mv_307,A,A,B,nan,I+T_masked
+mv_308,A,A,B,nan,I+T_masked
+mv_310,C,C,A,nan,I+T_masked
+mv_311,C,C,A,nan,I+T_masked
+mv_312,C,C,A,nan,I+T_masked
+mv_313,A,A,A,nan,I+T_masked
+mv_315,B,B,A,nan,I+T_masked
+mv_316,B,B,A,nan,I+T_masked
+mv_317,B,B,A,nan,I+T_masked
+mv_318,A,A,A,nan,I+T_masked
+mv_320,A,A,D,nan,I+T_masked
+mv_321,A,A,D,nan,I+T_masked
+mv_322,A,A,D,nan,I+T_masked
+mv_323,A,A,D,nan,I+T_masked
+mv_325,A: [NUM]°,A,B,nan,I+T_masked
+mv_326,A: [NUM]°,A,B,nan,I+T_masked
+mv_327,A: [NUM]°,A,B,nan,I+T_masked
+mv_328,A: 60°,A,B,nan,I+T_masked
+mv_330,A,A,B,nan,I+T_masked
+mv_331,A,A,B,nan,I+T_masked
+mv_332,A,A,B,nan,I+T_masked
+mv_333,A: 40°,A,B,nan,I+T_masked
+mv_335,A,A,C,nan,I+T_masked
+mv_336,A,A,C,nan,I+T_masked
+mv_337,A,A,C,nan,I+T_masked
+mv_338,12,12,C,nan,I+T_masked
+mv_340,A,A,B,nan,I+T_masked
+mv_341,A,A,B,nan,I+T_masked
+mv_342,A,A,B,nan,I+T_masked
+mv_343,A:40°,A,B,nan,I+T_masked
+mv_345,A,A,C,nan,I+T_masked
+mv_346,A,A,C,nan,I+T_masked
+mv_347,A,A,C,nan,I+T_masked
+mv_348,A,A,C,nan,I+T_masked
+mv_350,A: [NUM]°,A,C,nan,I+T_masked
+mv_351,A: [NUM]°,A,C,nan,I+T_masked
+mv_352,A,A,C,nan,I+T_masked
+mv_353,A: 42°,A,C,nan,I+T_masked
+mv_355,A,A,B,nan,I+T_masked
+mv_356,A,A,B,nan,I+T_masked
+mv_357,A,A,B,nan,I+T_masked
+mv_358,B,B,B,nan,I+T_masked
+mv_360,A,A,A,nan,I+T_masked
+mv_361,A,A,A,nan,I+T_masked
+mv_362,A,A,A,nan,I+T_masked
+mv_363,A: 70°,A,A,nan,I+T_masked
+mv_365,A: [NUM]°,A,B,nan,I+T_masked
+mv_366,A: [NUM]°,A,B,nan,I+T_masked
+mv_367,A,A,B,nan,I+T_masked
+mv_368,A: 1115°,A,B,nan,I+T_masked
+mv_370,A,A,B,nan,I+T_masked
+mv_371,A,A,B,nan,I+T_masked
+mv_372,A,A,B,nan,I+T_masked
+mv_373,A,A,B,nan,I+T_masked
+mv_375,B,B,A,nan,I+T_masked
+mv_376,B,B,A,nan,I+T_masked
+mv_377,A,A,A,nan,I+T_masked
+mv_378,A,A,A,nan,I+T_masked
+mv_380,A,A,C,nan,I+T_masked
+mv_381,A,A,C,nan,I+T_masked
+mv_382,A,A,C,nan,I+T_masked
+mv_383,A,A,C,nan,I+T_masked
+mv_385,A,A,B,nan,I+T_masked
+mv_386,A,A,B,nan,I+T_masked
+mv_387,A,A,B,nan,I+T_masked
+mv_388,A: 70°,A,B,nan,I+T_masked
+mv_390,A,A,D,nan,I+T_masked
+mv_391,A,A,D,nan,I+T_masked
+mv_392,A,A,D,nan,I+T_masked
+mv_393,B,B,D,nan,I+T_masked
+mv_395,B,B,C,nan,I+T_masked
+mv_396,B,B,C,nan,I+T_masked
+mv_397,B,B,C,nan,I+T_masked
+mv_398,B,B,C,nan,I+T_masked
+mv_400,A,A,D,nan,I+T_masked
+mv_401,A,A,D,nan,I+T_masked
+mv_402,A,A,D,nan,I+T_masked
+mv_403,A,A,D,nan,I+T_masked
+mv_405,A: [NUM]°,A,C,nan,I+T_masked
+mv_406,A,A,C,nan,I+T_masked
+mv_407,A,A,C,nan,I+T_masked
+mv_408,A: [60]°,A,C,nan,I+T_masked
+mv_410,A,A,A,nan,I+T_masked
+mv_411,A,A,A,nan,I+T_masked
+mv_412,A,A,A,nan,I+T_masked
+mv_413,A,A,A,nan,I+T_masked
+mv_415,B:[NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_416,B:[NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_417,A,A,C,nan,I+T_masked
+mv_418,A,A,C,nan,I+T_masked
+mv_420,A,A,D,nan,I+T_masked
+mv_421,A,A,D,nan,I+T_masked
+mv_422,A,A,D,nan,I+T_masked
+mv_423,A,A,D,nan,I+T_masked
+mv_425,D,D,B,nan,I+T_masked
+mv_426,D,D,B,nan,I+T_masked
+mv_427,A,A,B,nan,I+T_masked
+mv_428,B: [NUM]√{[NUM]},B,B,nan,I+T_masked
+mv_430,A,A,A,nan,I+T_masked
+mv_431,A,A,A,nan,I+T_masked
+mv_432,A,A,A,nan,I+T_masked
+mv_433,A,A,A,nan,I+T_masked
+mv_435,A,A,A,nan,I+T_masked
+mv_436,A,A,A,nan,I+T_masked
+mv_437,A,A,A,nan,I+T_masked
+mv_438,B,B,A,nan,I+T_masked
+mv_440,A: [NUM]°,A,D,nan,I+T_masked
+mv_441,A: [NUM]°,A,D,nan,I+T_masked
+mv_442,A: [NUM]°,A,D,nan,I+T_masked
+mv_443,A: 25°,A,D,nan,I+T_masked
+mv_445,A,A,C,nan,I+T_masked
+mv_446,A,A,C,nan,I+T_masked
+mv_447,A,A,C,nan,I+T_masked
+mv_448,A: 55°,A,C,nan,I+T_masked
+mv_450,A,A,B,nan,I+T_masked
+mv_451,A,A,B,nan,I+T_masked
+mv_452,A,A,B,nan,I+T_masked
+mv_453,A,A,B,nan,I+T_masked
+mv_455,A: [NUM]°,A,B,nan,I+T_masked
+mv_456,A,A,B,nan,I+T_masked
+mv_457,A,A,B,nan,I+T_masked
+mv_458,B,B,B,nan,I+T_masked
+mv_460,A: [NUM]°,A,A,nan,I+T_masked
+mv_461,A: [NUM]°,A,A,nan,I+T_masked
+mv_462,A: [NUM]°,A,A,nan,I+T_masked
+mv_463,A:40°,A,A,nan,I+T_masked
+mv_465,A,A,A,nan,I+T_masked
+mv_466,A,A,A,nan,I+T_masked
+mv_467,A,A,A,nan,I+T_masked
+mv_468,A,A,A,nan,I+T_masked
+mv_470,C: [NUM]°,C,C,nan,I+T_masked
+mv_471,A,A,C,nan,I+T_masked
+mv_472,A,A,C,nan,I+T_masked
+mv_473,C: 60°,C,C,nan,I+T_masked
+mv_475,A,A,C,nan,I+T_masked
+mv_476,A,A,C,nan,I+T_masked
+mv_477,A,A,C,nan,I+T_masked
+mv_478,B,B,C,nan,I+T_masked
+mv_480,A: [NUM]°,A,C,nan,I+T_masked
+mv_481,A: [NUM]°,A,C,nan,I+T_masked
+mv_482,B: [NUM]°,B,C,nan,I+T_masked
+mv_483,A: 25°,A,C,nan,I+T_masked
+mv_485,A,A,B,nan,I+T_masked
+mv_486,A,A,B,nan,I+T_masked
+mv_487,A,A,B,nan,I+T_masked
+mv_488,A: 50°,A,B,nan,I+T_masked
+mv_490,A: [NUM]°,A,C,nan,I+T_masked
+mv_491,A,A,C,nan,I+T_masked
+mv_492,A,A,C,nan,I+T_masked
+mv_493,A: 26°,A,C,nan,I+T_masked
+mv_495,A,A,D,nan,I+T_masked
+mv_496,A,A,D,nan,I+T_masked
+mv_497,A,A,D,nan,I+T_masked
+mv_498,A: 30°,A,D,nan,I+T_masked
+mv_500,A,A,C,nan,I+T_masked
+mv_501,A,A,C,nan,I+T_masked
+mv_502,A,A,C,nan,I+T_masked
+mv_503,A,A,C,nan,I+T_masked
+mv_505,B: \frac{[NUM]}{[NUM]},B,C,nan,I+T_masked
+mv_506,B,B,C,nan,I+T_masked
+mv_507,B,B,C,nan,I+T_masked
+mv_508,A: 2.5,A,C,nan,I+T_masked
+mv_510,A,A,A,nan,I+T_masked
+mv_511,A,A,A,nan,I+T_masked
+mv_512,A,A,A,nan,I+T_masked
+mv_513,B,B,A,nan,I+T_masked
+mv_515,A,A,A,nan,I+T_masked
+mv_516,A,A,A,nan,I+T_masked
+mv_517,A,A,A,nan,I+T_masked
+mv_518,B,B,A,nan,I+T_masked
+mv_520,A,A,B,nan,I+T_masked
+mv_521,A,A,B,nan,I+T_masked
+mv_522,A,A,B,nan,I+T_masked
+mv_523,A,A,B,nan,I+T_masked
+mv_525,A,A,B,nan,I+T_masked
+mv_526,A,A,B,nan,I+T_masked
+mv_527,A,A,B,nan,I+T_masked
+mv_528,C: 135°,C,B,nan,I+T_masked
+mv_530,A,A,C,nan,I+T_masked
+mv_531,A,A,C,nan,I+T_masked
+mv_532,A,A,C,nan,I+T_masked
+mv_533,A: 130°,A,C,nan,I+T_masked
+mv_535,A,A,D,nan,I+T_masked
+mv_536,C,C,D,nan,I+T_masked
+mv_537,C,C,D,nan,I+T_masked
+mv_538,A,A,D,nan,I+T_masked
+mv_540,A,A,B,nan,I+T_masked
+mv_541,A,A,B,nan,I+T_masked
+mv_542,A,A,B,nan,I+T_masked
+mv_543,B,B,B,nan,I+T_masked
+mv_545,A,A,B,nan,I+T_masked
+mv_546,A,A,B,nan,I+T_masked
+mv_547,B: [NUM]√[NUM]米,B,B,nan,I+T_masked
+mv_548,B:√[NUM]m,B,B,nan,I+T_masked
+mv_550,A,A,C,nan,I+T_masked
+mv_551,A,A,C,nan,I+T_masked
+mv_552,A,A,C,nan,I+T_masked
+mv_553,A: 72°,A,C,nan,I+T_masked
+mv_555,A,A,A,nan,I+T_masked
+mv_556,A,A,A,nan,I+T_masked
+mv_557,A,A,A,nan,I+T_masked
+mv_558,A,A,A,nan,I+T_masked
+mv_560,A,A,A,nan,I+T_masked
+mv_561,A,A,A,nan,I+T_masked
+mv_562,A,A,A,nan,I+T_masked
+mv_563,A,A,A,nan,I+T_masked
+mv_565,B,B,C,nan,I+T_masked
+mv_566,B,B,C,nan,I+T_masked
+mv_567,B,B,C,nan,I+T_masked
+mv_568,B: 900π cm²,B,C,nan,I+T_masked
+mv_570,A,A,C,nan,I+T_masked
+mv_571,A,A,C,nan,I+T_masked
+mv_572,A,A,C,nan,I+T_masked
+mv_573,A,A,C,nan,I+T_masked
+mv_575,A,A,B,nan,I+T_masked
+mv_576,A,A,B,nan,I+T_masked
+mv_577,A,A,B,nan,I+T_masked
+mv_578,A,A,B,nan,I+T_masked
+mv_580,A,A,B,nan,I+T_masked
+mv_581,A,A,B,nan,I+T_masked
+mv_582,A,A,B,nan,I+T_masked
+mv_583,A,A,B,nan,I+T_masked
+mv_585,A,A,C,nan,I+T_masked
+mv_586,A,A,C,nan,I+T_masked
+mv_587,A,A,C,nan,I+T_masked
+mv_588,A,A,C,nan,I+T_masked
+mv_590,A,A,A,nan,I+T_masked
+mv_591,A,A,A,nan,I+T_masked
+mv_592,A,A,A,nan,I+T_masked
+mv_593,A,A,A,nan,I+T_masked
+mv_595,A,A,B,nan,I+T_masked
+mv_596,A,A,B,nan,I+T_masked
+mv_597,A,A,B,nan,I+T_masked
+mv_598,A,A,B,nan,I+T_masked
+mv_600,B:[NUM]πcm^{[NUM]},B,C,nan,I+T_masked
+mv_601,B,B,C,nan,I+T_masked
+mv_602,B,B,C,nan,I+T_masked
+mv_603,B,B,C,nan,I+T_masked
+mv_605,A,A,D,nan,I+T_masked
+mv_606,C:120,C,D,nan,I+T_masked
+mv_607,C:120,C,D,nan,I+T_masked
+mv_608,C:120,C,D,nan,I+T_masked
+mv_610,A,A,B,nan,I+T_masked
+mv_611,A,A,B,nan,I+T_masked
+mv_612,A,A,B,nan,I+T_masked
+mv_613,A,A,B,nan,I+T_masked
+mv_615,A,A,B,nan,I+T_masked
+mv_616,A,A,B,nan,I+T_masked
+mv_617,A,A,B,nan,I+T_masked
+mv_618,A,A,B,nan,I+T_masked
+mv_620,A,A,C,nan,I+T_masked
+mv_621,B,B,C,nan,I+T_masked
+mv_622,B,B,C,nan,I+T_masked
+mv_623,B,B,C,nan,I+T_masked
+mv_625,A,A,A,nan,I+T_masked
+mv_626,A,A,A,nan,I+T_masked
+mv_627,A,A,A,nan,I+T_masked
+mv_628,B,B,A,nan,I+T_masked
+mv_630,A,A,C,nan,I+T_masked
+mv_631,A,A,C,nan,I+T_masked
+mv_632,A,A,C,nan,I+T_masked
+mv_633,D:120,D,C,nan,I+T_masked
+mv_635,A,A,B,nan,I+T_masked
+mv_636,A,A,B,nan,I+T_masked
+mv_637,A,A,B,nan,I+T_masked
+mv_638,A,A,B,nan,I+T_masked
+mv_640,A,A,C,nan,I+T_masked
+mv_641,A,A,C,nan,I+T_masked
+mv_642,A,A,C,nan,I+T_masked
+mv_643,A,A,C,nan,I+T_masked
+mv_645,A,A,B,nan,I+T_masked
+mv_646,A,A,B,nan,I+T_masked
+mv_647,A,A,B,nan,I+T_masked
+mv_648,A,A,B,nan,I+T_masked
+mv_650,B:[NUM]√{[NUM]},B,D,nan,I+T_masked
+mv_651,A,A,D,nan,I+T_masked
+mv_652,A,A,D,nan,I+T_masked
+mv_653,A,A,D,nan,I+T_masked
+mv_655,A,A,D,nan,I+T_masked
+mv_656,A,A,D,nan,I+T_masked
+mv_657,A,A,D,nan,I+T_masked
+mv_658,B,B,D,nan,I+T_masked
+mv_660,B,B,B,nan,I+T_masked
+mv_661,B,B,B,nan,I+T_masked
+mv_662,B,B,B,nan,I+T_masked
+mv_663,B,B,B,nan,I+T_masked
+mv_665,C:[NUM]米,C,B,nan,I+T_masked
+mv_666,A,A,B,nan,I+T_masked
+mv_667,A,A,B,nan,I+T_masked
+mv_668,B,B,B,nan,I+T_masked
+mv_670,A,A,C,nan,I+T_masked
+mv_671,A,A,C,nan,I+T_masked
+mv_672,A,A,C,nan,I+T_masked
+mv_673,A,A,C,nan,I+T_masked
+mv_675,B,B,A,nan,I+T_masked
+mv_676,B,B,A,nan,I+T_masked
+mv_677,B,B,A,nan,I+T_masked
+mv_678,B,B,A,nan,I+T_masked
+mv_680,A,A,A,nan,I+T_masked
+mv_681,A,A,A,nan,I+T_masked
+mv_682,A,A,A,nan,I+T_masked
+mv_683,B,B,A,nan,I+T_masked
+mv_685,A,A,C,nan,I+T_masked
+mv_686,A,A,C,nan,I+T_masked
+mv_687,A,A,C,nan,I+T_masked
+mv_688,A,A,C,nan,I+T_masked
+mv_690,A,A,D,nan,I+T_masked
+mv_691,A,A,D,nan,I+T_masked
+mv_692,A,A,D,nan,I+T_masked
+mv_693,A,A,D,nan,I+T_masked
+mv_695,A,A,A,nan,I+T_masked
+mv_696,A,A,A,nan,I+T_masked
+mv_697,A,A,A,nan,I+T_masked
+mv_698,A,A,A,nan,I+T_masked
+mv_700,A,A,A,nan,I+T_masked
+mv_701,A,A,A,nan,I+T_masked
+mv_702,A,A,A,nan,I+T_masked
+mv_703,A,A,A,nan,I+T_masked
+mv_705,A,A,A,nan,I+T_masked
+mv_706,A,A,A,nan,I+T_masked
+mv_707,A,A,A,nan,I+T_masked
+mv_708,A,A,A,nan,I+T_masked
+mv_710,B,B,A,nan,I+T_masked
+mv_711,B,B,A,nan,I+T_masked
+mv_712,B,B,A,nan,I+T_masked
+mv_713,B,B,A,nan,I+T_masked
+mv_715,B,B,D,nan,I+T_masked
+mv_716,A,A,D,nan,I+T_masked
+mv_717,A,A,D,nan,I+T_masked
+mv_718,C,C,D,nan,I+T_masked
+mv_720,A,A,B,nan,I+T_masked
+mv_721,A,A,B,nan,I+T_masked
+mv_722,A,A,B,nan,I+T_masked
+mv_723,A:30°,A,B,nan,I+T_masked
+mv_725,A,A,B,nan,I+T_masked
+mv_726,B,B,B,nan,I+T_masked
+mv_727,B,B,B,nan,I+T_masked
+mv_728,B,B,B,nan,I+T_masked
+mv_730,B,B,D,nan,I+T_masked
+mv_731,B,B,D,nan,I+T_masked
+mv_732,B,B,D,nan,I+T_masked
+mv_733,B,B,D,nan,I+T_masked
+mv_735,B,B,A,nan,I+T_masked
+mv_736,B,B,A,nan,I+T_masked
+mv_737,B,B,A,nan,I+T_masked
+mv_738,B,B,A,nan,I+T_masked
+mv_740,A,A,A,nan,I+T_masked
+mv_741,A,A,A,nan,I+T_masked
+mv_742,A,A,A,nan,I+T_masked
+mv_743,A,A,A,nan,I+T_masked
+mv_745,A,A,C,nan,I+T_masked
+mv_746,A,A,C,nan,I+T_masked
+mv_747,A,A,C,nan,I+T_masked
+mv_748,D,D,C,nan,I+T_masked
+mv_750,A,A,B,nan,I+T_masked
+mv_751,A,A,B,nan,I+T_masked
+mv_752,A,A,B,nan,I+T_masked
+mv_753,A,A,B,nan,I+T_masked
+mv_755,A,A,B,nan,I+T_masked
+mv_756,A,A,B,nan,I+T_masked
+mv_757,A,A,B,nan,I+T_masked
+mv_758,B,B,B,nan,I+T_masked
+mv_760,A,A,A,nan,I+T_masked
+mv_761,A,A,A,nan,I+T_masked
+mv_762,A,A,A,nan,I+T_masked
+mv_763,B,B,A,nan,I+T_masked
+mv_765,B,B,C,nan,I+T_masked
+mv_766,B,B,C,nan,I+T_masked
+mv_767,B,B,C,nan,I+T_masked
+mv_768,B,B,C,nan,I+T_masked
+mv_770,A,A,C,nan,I+T_masked
+mv_771,A,A,C,nan,I+T_masked
+mv_772,A,A,C,nan,I+T_masked
+mv_773,B,B,C,nan,I+T_masked
+mv_775,A,A,B,nan,I+T_masked
+mv_776,A,A,B,nan,I+T_masked
+mv_777,A,A,B,nan,I+T_masked
+mv_778,A,A,B,nan,I+T_masked
+mv_780,A,A,A,nan,I+T_masked
+mv_781,A,A,A,nan,I+T_masked
+mv_782,A,A,A,nan,I+T_masked
+mv_783,A,A,A,nan,I+T_masked
+mv_785,A,A,C,nan,I+T_masked
+mv_786,A,A,C,nan,I+T_masked
+mv_787,A,A,C,nan,I+T_masked
+mv_788,A,A,C,nan,I+T_masked
+mv_790,A,A,A,nan,I+T_masked
+mv_791,A,A,A,nan,I+T_masked
+mv_792,A,A,A,nan,I+T_masked
+mv_793,A,A,A,nan,I+T_masked
+mv_795,A,A,D,nan,I+T_masked
+mv_796,A,A,D,nan,I+T_masked
+mv_797,A,A,D,nan,I+T_masked
+mv_798,B,B,D,nan,I+T_masked
+mv_800,A,A,B,nan,I+T_masked
+mv_801,A,A,B,nan,I+T_masked
+mv_802,A,A,B,nan,I+T_masked
+mv_803,A,A,B,nan,I+T_masked
+mv_805,A,A,C,nan,I+T_masked
+mv_806,A,A,C,nan,I+T_masked
+mv_807,A,A,C,nan,I+T_masked
+mv_808,A: 40°,A,C,nan,I+T_masked
+mv_810,A,A,B,nan,I+T_masked
+mv_811,A,A,B,nan,I+T_masked
+mv_812,A,A,B,nan,I+T_masked
+mv_813,B,B,B,nan,I+T_masked
+mv_815,A,A,C,nan,I+T_masked
+mv_816,A,A,C,nan,I+T_masked
+mv_817,A,A,C,nan,I+T_masked
+mv_818,A,A,C,nan,I+T_masked
+mv_820,A,A,C,nan,I+T_masked
+mv_821,A,A,C,nan,I+T_masked
+mv_822,A,A,C,nan,I+T_masked
+mv_823,A,A,C,nan,I+T_masked
+mv_825,A,A,B,nan,I+T_masked
+mv_826,A,A,B,nan,I+T_masked
+mv_827,A,A,B,nan,I+T_masked
+mv_828,A,A,B,nan,I+T_masked
+mv_830,A,A,B,nan,I+T_masked
+mv_831,A,A,B,nan,I+T_masked
+mv_832,A,A,B,nan,I+T_masked
+mv_833,C,C,B,nan,I+T_masked
+mv_835,A,A,B,nan,I+T_masked
+mv_836,A,A,B,nan,I+T_masked
+mv_837,A,A,B,nan,I+T_masked
+mv_838,A,A,B,nan,I+T_masked
+mv_840,C:[NUM]√{[NUM]},C,A,nan,I+T_masked
+mv_841,C:[NUM]√{[NUM]},C,A,nan,I+T_masked
+mv_842,C:[NUM]√{[NUM]},C,A,nan,I+T_masked
+mv_843,B,B,A,nan,I+T_masked
+mv_845,A,A,D,nan,I+T_masked
+mv_846,A,A,D,nan,I+T_masked
+mv_847,A,A,D,nan,I+T_masked
+mv_848,B,B,D,nan,I+T_masked
+mv_850,B,B,D,nan,I+T_masked
+mv_851,B,B,D,nan,I+T_masked
+mv_852,B,B,D,nan,I+T_masked
+mv_853,B,B,D,nan,I+T_masked
+mv_855,A,A,B,nan,I+T_masked
+mv_856,A,A,B,nan,I+T_masked
+mv_857,A,A,B,nan,I+T_masked
+mv_858,A,A,B,nan,I+T_masked
+mv_860,A,A,C,nan,I+T_masked
+mv_861,A,A,C,nan,I+T_masked
+mv_862,A,A,C,nan,I+T_masked
+mv_863,A: 50°,A,C,nan,I+T_masked
+mv_865,A,A,D,nan,I+T_masked
+mv_866,A,A,D,nan,I+T_masked
+mv_867,A,A,D,nan,I+T_masked
+mv_868,A,A,D,nan,I+T_masked
+mv_870,A: [NUM]°,A,C,nan,I+T_masked
+mv_871,A: [NUM]°,A,C,nan,I+T_masked
+mv_872,A: [NUM]°,A,C,nan,I+T_masked
+mv_873,A: 40°,A,C,nan,I+T_masked
+mv_875,A,A,C,nan,I+T_masked
+mv_876,A,A,C,nan,I+T_masked
+mv_877,A,A,C,nan,I+T_masked
+mv_878,A,A,C,nan,I+T_masked
+mv_880,A,A,A,nan,I+T_masked
+mv_881,A,A,A,nan,I+T_masked
+mv_882,A,A,A,nan,I+T_masked
+mv_883,A,A,A,nan,I+T_masked
+mv_885,B:[NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_886,B:[NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_887,B:[NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_888,B: [NUM]√{[NUM]},B,C,nan,I+T_masked
+mv_890,B:\frac{[NUM]√{[NUM]}}{[NUM]},B,D,nan,I+T_masked
+mv_891,B:\frac{[NUM]√{[NUM]}}{[NUM]},B,D,nan,I+T_masked
+mv_892,B:\frac{[NUM]√{[NUM]}}{[NUM]},B,D,nan,I+T_masked
+mv_893,B:\frac{[NUM]√{[NUM]}}{[NUM]},B,D,nan,I+T_masked
+mv_895,A,A,B,nan,I+T_masked
+mv_896,A,A,B,nan,I+T_masked
+mv_897,A,A,B,nan,I+T_masked
+mv_898,A,A,B,nan,I+T_masked
+mv_900,A,A,C,nan,I+T_masked
+mv_901,A,A,C,nan,I+T_masked
+mv_902,A,A,C,nan,I+T_masked
+mv_903,B,B,C,nan,I+T_masked
+mv_905,A,A,D,nan,I+T_masked
+mv_906,A,A,D,nan,I+T_masked
+mv_907,A,A,D,nan,I+T_masked
+mv_908,A,A,D,nan,I+T_masked
+mv_910,A,A,D,nan,I+T_masked
+mv_911,A,A,D,nan,I+T_masked
+mv_912,A,A,D,nan,I+T_masked
+mv_913,B,B,D,nan,I+T_masked
+mv_915,B:√{[NUM]},B,D,nan,I+T_masked
+mv_916,B:√{[NUM]},B,D,nan,I+T_masked
+mv_917,B:√{[NUM]},B,D,nan,I+T_masked
+mv_918,A:30,A,D,nan,I+T_masked
+mv_920,A,A,B,nan,I+T_masked
+mv_921,A,A,B,nan,I+T_masked
+mv_922,A,A,B,nan,I+T_masked
+mv_923,A,A,B,nan,I+T_masked
+mv_925,B:√{[NUM]},B,B,nan,I+T_masked
+mv_926,B:√{[NUM]},B,B,nan,I+T_masked
+mv_927,B:√{[NUM]},B,B,nan,I+T_masked
+mv_928,C:30,C,B,nan,I+T_masked
+mv_930,A: [NUM],A,B,nan,I+T_masked
+mv_931,A,A,B,nan,I+T_masked
+mv_932,A,A,B,nan,I+T_masked
+mv_933,A:30,A,B,nan,I+T_masked
+mv_935,C: [NUM]√{[NUM]}-[NUM],C,C,nan,I+T_masked
+mv_936,C: [NUM]√{[NUM]}-[NUM],C,C,nan,I+T_masked
+mv_937,C: [NUM]√{[NUM]}-[NUM],C,C,nan,I+T_masked
+mv_938,C: [NUM]√{[NUM]}-[NUM],C,C,nan,I+T_masked
+mv_940,A,A,B,nan,I+T_masked
+mv_941,A,A,B,nan,I+T_masked
+mv_942,A,A,B,nan,I+T_masked
+mv_943,B,B,B,nan,I+T_masked
+mv_945,A,A,A,nan,I+T_masked
+mv_946,A,A,A,nan,I+T_masked
+mv_947,A,A,A,nan,I+T_masked
+mv_948,A,A,A,nan,I+T_masked
+mv_950,A,A,D,nan,I+T_masked
+mv_951,A,A,D,nan,I+T_masked
+mv_952,A,A,D,nan,I+T_masked
+mv_953,A,A,D,nan,I+T_masked
+mv_955,C:[NUM]√{[NUM]},C,B,nan,I+T_masked
+mv_956,A,A,B,nan,I+T_masked
+mv_957,C:[NUM]√{[NUM]},C,B,nan,I+T_masked
+mv_958,A,A,B,nan,I+T_masked
+mv_960,A,A,C,nan,I+T_masked
+mv_961,A,A,C,nan,I+T_masked
+mv_962,A,A,C,nan,I+T_masked
+mv_963,B,B,C,nan,I+T_masked
+mv_965,A,A,D,nan,I+T_masked
+mv_966,C,C,D,nan,I+T_masked
+mv_967,C,C,D,nan,I+T_masked
+mv_968,C,C,D,nan,I+T_masked
+mv_970,A: [NUM],A,B,nan,I+T_masked
+mv_971,A: [NUM],A,B,nan,I+T_masked
+mv_972,A,A,B,nan,I+T_masked
+mv_973,A: [NUM],A,B,nan,I+T_masked
+mv_975,B,B,D,nan,I+T_masked
+mv_976,B,B,D,nan,I+T_masked
+mv_977,B,B,D,nan,I+T_masked
+mv_978,A,A,D,nan,I+T_masked
+mv_980,A,A,B,nan,I+T_masked
+mv_981,A,A,B,nan,I+T_masked
+mv_982,A,A,B,nan,I+T_masked
+mv_983,A,A,B,nan,I+T_masked
+mv_985,A,A,B,nan,I+T_masked
+mv_986,A,A,B,nan,I+T_masked
+mv_987,A,A,B,nan,I+T_masked
+mv_988,A,A,B,nan,I+T_masked
+mv_990,A,A,A,nan,I+T_masked
+mv_991,A,A,A,nan,I+T_masked
+mv_992,A,A,A,nan,I+T_masked
+mv_993,B,B,A,nan,I+T_masked
+mv_995,A,A,A,nan,I+T_masked
+mv_996,A,A,A,nan,I+T_masked
+mv_997,A,A,A,nan,I+T_masked
+mv_998,A,A,A,nan,I+T_masked
+mv_1000,B,B,B,nan,I+T_masked
+mv_1001,B,B,B,nan,I+T_masked
+mv_1002,B,B,B,nan,I+T_masked
+mv_1003,B,B,B,nan,I+T_masked
+mv_1005,A,A,D,nan,I+T_masked
+mv_1006,A,A,D,nan,I+T_masked
+mv_1007,A:38,A,D,nan,I+T_masked
+mv_1008,A,A,D,nan,I+T_masked
+mv_1010,A,A,A,nan,I+T_masked
+mv_1011,A,A,A,nan,I+T_masked
+mv_1012,A,A,A,nan,I+T_masked
+mv_1013,A,A,A,nan,I+T_masked
+mv_1015,A,A,C,nan,I+T_masked
+mv_1016,A,A,C,nan,I+T_masked
+mv_1017,A,A,C,nan,I+T_masked
+mv_1018,A,A,C,nan,I+T_masked
+mv_1020,B,B,C,nan,I+T_masked
+mv_1021,B,B,C,nan,I+T_masked
+mv_1022,B,B,C,nan,I+T_masked
+mv_1023,B,B,C,nan,I+T_masked
+mv_1025,C D = x + [NUM],C,D,nan,I+T_masked
+mv_1026,C D = x + [NUM],C,D,nan,I+T_masked
+mv_1027,A,A,D,nan,I+T_masked
+mv_1028,C,C,D,nan,I+T_masked
+mv_1030,A,A,B,nan,I+T_masked
+mv_1031,A,A,B,nan,I+T_masked
+mv_1032,A,A,B,nan,I+T_masked
+mv_1033,A,A,B,nan,I+T_masked
+mv_1035,A,A,A,nan,I+T_masked
+mv_1036,A,A,A,nan,I+T_masked
+mv_1037,A,A,A,nan,I+T_masked
+mv_1038,A,A,A,nan,I+T_masked
+mv_1040,A,A,B,nan,I+T_masked
+mv_1041,A,A,B,nan,I+T_masked
+mv_1042,A,A,B,nan,I+T_masked
+mv_1043,A,A,B,nan,I+T_masked
+mv_1045,A: [NUM],A,B,nan,I+T_masked
+mv_1046,A: [NUM],A,B,nan,I+T_masked
+mv_1047,A,A,B,nan,I+T_masked
+mv_1048,A,A,B,nan,I+T_masked
+mv_1050,A,A,A,nan,I+T_masked
+mv_1051,A,A,A,nan,I+T_masked
+mv_1052,A,A,A,nan,I+T_masked
+mv_1053,A,A,A,nan,I+T_masked
+mv_1055,B,B,B,nan,I+T_masked
+mv_1056,B,B,B,nan,I+T_masked
+mv_1057,A,A,B,nan,I+T_masked
+mv_1058,B,B,B,nan,I+T_masked
+mv_1060,A,A,C,nan,I+T_masked
+mv_1061,A,A,C,nan,I+T_masked
+mv_1062,A,A,C,nan,I+T_masked
+mv_1063,B,B,C,nan,I+T_masked
+mv_1065,A,A,D,nan,I+T_masked
+mv_1066,40,40,D,nan,I+T_masked
+mv_1067,A,A,D,nan,I+T_masked
+mv_1068,40,40,D,nan,I+T_masked
+mv_1070,A,A,B,nan,I+T_masked
+mv_1071,B: [NUM] \pi,B,B,nan,I+T_masked
+mv_1072,A,A,B,nan,I+T_masked
+mv_1073,B: [NUM] \pi,B,B,nan,I+T_masked
+mv_1075,A,A,D,nan,I+T_masked
+mv_1076,A,A,D,nan,I+T_masked
+mv_1077,A,A,D,nan,I+T_masked
+mv_1078,A,A,D,nan,I+T_masked
+mv_1080,A,A,C,nan,I+T_masked
+mv_1081,A,A,C,nan,I+T_masked
+mv_1082,A,A,C,nan,I+T_masked
+mv_1083,A,A,C,nan,I+T_masked
+mv_1085,A,A,B,nan,I+T_masked
+mv_1086,A,A,B,nan,I+T_masked
+mv_1087,A,A,B,nan,I+T_masked
+mv_1088,A,A,B,nan,I+T_masked
+mv_1090,A,A,C,nan,I+T_masked
+mv_1091,A,A,C,nan,I+T_masked
+mv_1092,B,B,C,nan,I+T_masked
+mv_1093,A,A,C,nan,I+T_masked
+mv_1095,A,A,A,nan,I+T_masked
+mv_1096,B,B,A,nan,I+T_masked
+mv_1097,B,B,A,nan,I+T_masked
+mv_1098,B,B,A,nan,I+T_masked
+mv_1100,A,A,B,nan,I+T_masked
+mv_1101,A,A,B,nan,I+T_masked
+mv_1102,A,A,B,nan,I+T_masked
+mv_1103,A,A,B,nan,I+T_masked
+mv_1105,A,A,C,nan,I+T_masked
+mv_1106,A,A,C,nan,I+T_masked
+mv_1107,A,A,C,nan,I+T_masked
+mv_1108,A,A,C,nan,I+T_masked
+mv_1110,A,A,A,nan,I+T_masked
+mv_1111,A,A,A,nan,I+T_masked
+mv_1112,A,A,A,nan,I+T_masked
+mv_1113,A,A,A,nan,I+T_masked
+mv_1115,C,C,B,nan,I+T_masked
+mv_1116,A,A,B,nan,I+T_masked
+mv_1117,A,A,B,nan,I+T_masked
+mv_1118,A,A,B,nan,I+T_masked
+mv_1120,A,A,D,nan,I+T_masked
+mv_1121,A,A,D,nan,I+T_masked
+mv_1122,A,A,D,nan,I+T_masked
+mv_1123,A,A,D,nan,I+T_masked
+mv_1125,B: [NUM],B,C,nan,I+T_masked
+mv_1126,B,B,C,nan,I+T_masked
+mv_1127,B,B,C,nan,I+T_masked
+mv_1128,B,B,C,nan,I+T_masked
+mv_1130,A,A,D,nan,I+T_masked
+mv_1131,A,A,D,nan,I+T_masked
+mv_1132,A,A,D,nan,I+T_masked
+mv_1133,A,A,D,nan,I+T_masked
+mv_1135,A,A,C,nan,I+T_masked
+mv_1136,A,A,C,nan,I+T_masked
+mv_1137,A,A,C,nan,I+T_masked
+mv_1138,D,D,C,nan,I+T_masked
+mv_1140,A,A,C,nan,I+T_masked
+mv_1141,A,A,C,nan,I+T_masked
+mv_1142,B,B,C,nan,I+T_masked
+mv_1143,A,A,C,nan,I+T_masked
+mv_1145,A,A,D,nan,I+T_masked
+mv_1146,A,A,D,nan,I+T_masked
+mv_1147,A,A,D,nan,I+T_masked
+mv_1148,A,A,D,nan,I+T_masked
+mv_1150,A,A,B,nan,I+T_masked
+mv_1151,A,A,B,nan,I+T_masked
+mv_1152,A,A,B,nan,I+T_masked
+mv_1153,A,A,B,nan,I+T_masked
+mv_1155,A,A,B,nan,I+T_masked
+mv_1156,A,A,B,nan,I+T_masked
+mv_1157,A,A,B,nan,I+T_masked
+mv_1158,B,B,B,nan,I+T_masked
+mv_1160,A,A,A,nan,I+T_masked
+mv_1161,A,A,A,nan,I+T_masked
+mv_1162,A,A,A,nan,I+T_masked
+mv_1163,A,A,A,nan,I+T_masked
+mv_1165,A,A,C,nan,I+T_masked
+mv_1166,A,A,C,nan,I+T_masked
+mv_1167,A,A,C,nan,I+T_masked
+mv_1168,A,A,C,nan,I+T_masked
+mv_1170,A,A,B,nan,I+T_masked
+mv_1171,C,C,B,nan,I+T_masked
+mv_1172,A,A,B,nan,I+T_masked
+mv_1173,A,A,B,nan,I+T_masked
+mv_1175,A,A,C,nan,I+T_masked
+mv_1176,A,A,C,nan,I+T_masked
+mv_1177,A,A,C,nan,I+T_masked
+mv_1178,A,A,C,nan,I+T_masked
+mv_1180,A,A,C,nan,I+T_masked
+mv_1181,A,A,C,nan,I+T_masked
+mv_1182,A,A,C,nan,I+T_masked
+mv_1183,A,A,C,nan,I+T_masked
+mv_1185,A,A,B,nan,I+T_masked
+mv_1186,A,A,B,nan,I+T_masked
+mv_1187,A,A,B,nan,I+T_masked
+mv_1188,B,B,B,nan,I+T_masked
+mv_1190,A,A,B,nan,I+T_masked
+mv_1191,A,A,B,nan,I+T_masked
+mv_1192,A,A,B,nan,I+T_masked
+mv_1193,A,A,B,nan,I+T_masked
+mv_1195,A,A,A,nan,I+T_masked
+mv_1196,A,A,A,nan,I+T_masked
+mv_1197,A,A,A,nan,I+T_masked
+mv_1198,A,A,A,nan,I+T_masked
+mv_1200,A,A,D,nan,I+T_masked
+mv_1201,A,A,D,nan,I+T_masked
+mv_1202,A,A,D,nan,I+T_masked
+mv_1203,A,A,D,nan,I+T_masked
+mv_1205,A,A,C,nan,I+T_masked
+mv_1206,A,A,C,nan,I+T_masked
+mv_1207,A,A,C,nan,I+T_masked
+mv_1208,A,A,C,nan,I+T_masked
+mv_1210,A,A,D,nan,I+T_masked
+mv_1211,A,A,D,nan,I+T_masked
+mv_1212,A,A,D,nan,I+T_masked
+mv_1213,A,A,D,nan,I+T_masked
+mv_1215,D,D,B,nan,I+T_masked
+mv_1216,C,C,B,nan,I+T_masked
+mv_1217,C,C,B,nan,I+T_masked
+mv_1218,A,A,B,nan,I+T_masked
+mv_1220,B,B,A,nan,I+T_masked
+mv_1221,A,A,A,nan,I+T_masked
+mv_1222,A,A,A,nan,I+T_masked
+mv_1223,A,A,A,nan,I+T_masked
+mv_1225,A,A,B,nan,I+T_masked
+mv_1226,A,A,B,nan,I+T_masked
+mv_1227,A,A,B,nan,I+T_masked
+mv_1228,A,A,B,nan,I+T_masked
+mv_1230,C,C,B,nan,I+T_masked
+mv_1231,C,C,B,nan,I+T_masked
+mv_1232,C,C,B,nan,I+T_masked
+mv_1233,A,A,B,nan,I+T_masked
+mv_1235,A,A,C,nan,I+T_masked
+mv_1236,A,A,C,nan,I+T_masked
+mv_1237,A,A,C,nan,I+T_masked
+mv_1238,A,A,C,nan,I+T_masked
+mv_1240,A,A,D,nan,I+T_masked
+mv_1241,A,A,D,nan,I+T_masked
+mv_1242,A,A,D,nan,I+T_masked
+mv_1243,A,A,D,nan,I+T_masked
+mv_1245,A,A,D,nan,I+T_masked
+mv_1246,A,A,D,nan,I+T_masked
+mv_1247,A,A,D,nan,I+T_masked
+mv_1248,A,A,D,nan,I+T_masked
+mv_1250,A,A,A,nan,I+T_masked
+mv_1251,A,A,A,nan,I+T_masked
+mv_1252,A,A,A,nan,I+T_masked
+mv_1253,A,A,A,nan,I+T_masked
+mv_1255,B,B,B,nan,I+T_masked
+mv_1256,B,B,B,nan,I+T_masked
+mv_1257,B,B,B,nan,I+T_masked
+mv_1258,B,B,B,nan,I+T_masked
+mv_1260,A,A,C,nan,I+T_masked
+mv_1261,A,A,C,nan,I+T_masked
+mv_1262,A,A,C,nan,I+T_masked
+mv_1263,A,A,C,nan,I+T_masked
+mv_1265,A,A,D,nan,I+T_masked
+mv_1266,A,A,D,nan,I+T_masked
+mv_1267,A,A,D,nan,I+T_masked
+mv_1268,A,A,D,nan,I+T_masked
+mv_1270,A,A,B,nan,I+T_masked
+mv_1271,A,A,B,nan,I+T_masked
+mv_1272,A,A,B,nan,I+T_masked
+mv_1273,A,A,B,nan,I+T_masked
+mv_1275,A,A,A,nan,I+T_masked
+mv_1276,A,A,A,nan,I+T_masked
+mv_1277,A,A,A,nan,I+T_masked
+mv_1278,A,A,A,nan,I+T_masked
+mv_1280,A,A,C,nan,I+T_masked
+mv_1281,A E = [NUM],A,C,nan,I+T_masked
+mv_1282,A E,A,C,nan,I+T_masked
+mv_1283,A,A,C,nan,I+T_masked
+mv_1285,C,C,B,nan,I+T_masked
+mv_1286,C,C,B,nan,I+T_masked
+mv_1287,C,C,B,nan,I+T_masked
+mv_1288,C,C,B,nan,I+T_masked
+mv_1290,A,A,C,nan,I+T_masked
+mv_1291,A,A,C,nan,I+T_masked
+mv_1292,A,A,C,nan,I+T_masked
+mv_1293,A,A,C,nan,I+T_masked
+mv_1295,A,A,B,nan,I+T_masked
+mv_1296,B,B,B,nan,I+T_masked
+mv_1297,B,B,B,nan,I+T_masked
+mv_1298,B,B,B,nan,I+T_masked
+mv_1300,A,A,B,nan,I+T_masked
+mv_1301,A,A,B,nan,I+T_masked
+mv_1302,[NUM],[NUM],B,nan,I+T_masked
+mv_1303,C,C,B,nan,I+T_masked
+mv_1305,A,A,C,nan,I+T_masked
+mv_1306,A,A,C,nan,I+T_masked
+mv_1307,A,A,C,nan,I+T_masked
+mv_1308,A,A,C,nan,I+T_masked
+mv_1310,A,A,B,nan,I+T_masked
+mv_1311,B,B,B,nan,I+T_masked
+mv_1312,A,A,B,nan,I+T_masked
+mv_1313,B,B,B,nan,I+T_masked
+mv_1315,A,A,C,nan,I+T_masked
+mv_1316,A,A,C,nan,I+T_masked
+mv_1317,A,A,C,nan,I+T_masked
+mv_1318,A,A,C,nan,I+T_masked
+mv_1320,B,B,B,nan,I+T_masked
+mv_1321,A,A,B,nan,I+T_masked
+mv_1322,A,A,B,nan,I+T_masked
+mv_1323,A,A,B,nan,I+T_masked
+mv_1325,A,A,D,nan,I+T_masked
+mv_1326,A,A,D,nan,I+T_masked
+mv_1327,A,A,D,nan,I+T_masked
+mv_1328,A,A,D,nan,I+T_masked
+mv_1330,A,A,C,nan,I+T_masked
+mv_1331,B,B,C,nan,I+T_masked
+mv_1332,B,B,C,nan,I+T_masked
+mv_1333,B,B,C,nan,I+T_masked
+mv_1335,A,A,A,nan,I+T_masked
+mv_1336,A,A,A,nan,I+T_masked
+mv_1337,D,D,A,nan,I+T_masked
+mv_1338,A,A,A,nan,I+T_masked
+mv_1340,A,A,C,nan,I+T_masked
+mv_1341,B,B,C,nan,I+T_masked
+mv_1342,A,A,C,nan,I+T_masked
+mv_1343,B,B,C,nan,I+T_masked
+mv_1345,A,A,C,nan,I+T_masked
+mv_1346,A,A,C,nan,I+T_masked
+mv_1347,A,A,C,nan,I+T_masked
+mv_1348,A,A,C,nan,I+T_masked
+mv_1350,A,A,B,nan,I+T_masked
+mv_1351,A,A,B,nan,I+T_masked
+mv_1352,A,A,B,nan,I+T_masked
+mv_1353,A,A,B,nan,I+T_masked
+mv_1355,A,A,A,nan,I+T_masked
+mv_1356,A,A,A,nan,I+T_masked
+mv_1357,A,A,A,nan,I+T_masked
+mv_1358,A,A,A,nan,I+T_masked
+mv_1360,A,A,B,nan,I+T_masked
+mv_1361,A,A,B,nan,I+T_masked
+mv_1362,A,A,B,nan,I+T_masked
+mv_1363,A,A,B,nan,I+T_masked
+mv_1365,A,A,C,nan,I+T_masked
+mv_1366,A,A,C,nan,I+T_masked
+mv_1367,A,A,C,nan,I+T_masked
+mv_1368,A,A,C,nan,I+T_masked
+mv_1370,A,A,C,nan,I+T_masked
+mv_1371,A,A,C,nan,I+T_masked
+mv_1372,A,A,C,nan,I+T_masked
+mv_1373,A,A,C,nan,I+T_masked
+mv_1375,A,A,C,nan,I+T_masked
+mv_1376,B,B,C,nan,I+T_masked
+mv_1377,B,B,C,nan,I+T_masked
+mv_1378,B,B,C,nan,I+T_masked
+mv_1380,A,A,C,nan,I+T_masked
+mv_1381,A,A,C,nan,I+T_masked
+mv_1382,A,A,C,nan,I+T_masked
+mv_1383,B,B,C,nan,I+T_masked
+mv_1385,A,A,A,nan,I+T_masked
+mv_1386,A,A,A,nan,I+T_masked
+mv_1387,A,A,A,nan,I+T_masked
+mv_1388,A,A,A,nan,I+T_masked
+mv_1390,A,A,A,nan,I+T_masked
+mv_1391,A,A,A,nan,I+T_masked
+mv_1392,A,A,A,nan,I+T_masked
+mv_1393,A,A,A,nan,I+T_masked
+mv_1395,A,A,B,nan,I+T_masked
+mv_1396,A,A,B,nan,I+T_masked
+mv_1397,A,A,B,nan,I+T_masked
+mv_1398,A,A,B,nan,I+T_masked
+mv_1400,D,D,A,nan,I+T_masked
+mv_1401,D: [0.52],D,A,nan,I+T_masked
+mv_1402,D: [0.52],D,A,nan,I+T_masked
+mv_1403,D: [0.52],D,A,nan,I+T_masked
+mv_1405,A,A,B,nan,I+T_masked
+mv_1406,A,A,B,nan,I+T_masked
+mv_1407,A,A,B,nan,I+T_masked
+mv_1408,A,A,B,nan,I+T_masked
+mv_1410,A,A,C,nan,I+T_masked
+mv_1411,A,A,C,nan,I+T_masked
+mv_1412,A,A,C,nan,I+T_masked
+mv_1413,B,B,C,nan,I+T_masked
+mv_1415,B,B,B,nan,I+T_masked
+mv_1416,A,A,B,nan,I+T_masked
+mv_1417,A,A,B,nan,I+T_masked
+mv_1418,A,A,B,nan,I+T_masked
+mv_1420,B,B,C,nan,I+T_masked
+mv_1421,B,B,C,nan,I+T_masked
+mv_1422,B,B,C,nan,I+T_masked
+mv_1423,B,B,C,nan,I+T_masked
+mv_1425,A,A,D,nan,I+T_masked
+mv_1426,A,A,D,nan,I+T_masked
+mv_1427,A,A,D,nan,I+T_masked
+mv_1428,B,B,D,nan,I+T_masked
+mv_1430,A,A,D,nan,I+T_masked
+mv_1431,A,A,D,nan,I+T_masked
+mv_1432,A,A,D,nan,I+T_masked
+mv_1433,A,A,D,nan,I+T_masked
+mv_1435,A,A,A,nan,I+T_masked
+mv_1436,A,A,A,nan,I+T_masked
+mv_1437,A,A,A,nan,I+T_masked
+mv_1438,A,A,A,nan,I+T_masked
+mv_1440,A,A,B,nan,I+T_masked
+mv_1441,A,A,B,nan,I+T_masked
+mv_1442,A,A,B,nan,I+T_masked
+mv_1443,A,A,B,nan,I+T_masked
+mv_1445,A,A,A,nan,I+T_masked
+mv_1446,A,A,A,nan,I+T_masked
+mv_1447,A,A,A,nan,I+T_masked
+mv_1448,A,A,A,nan,I+T_masked
+mv_1450,A,A,D,nan,I+T_masked
+mv_1451,A,A,D,nan,I+T_masked
+mv_1452,A,A,D,nan,I+T_masked
+mv_1453,A,A,D,nan,I+T_masked
+mv_1455,A,A,D,nan,I+T_masked
+mv_1456,A,A,D,nan,I+T_masked
+mv_1457,A,A,D,nan,I+T_masked
+mv_1458,A,A,D,nan,I+T_masked
+mv_1460,A,A,C,nan,I+T_masked
+mv_1461,A,A,C,nan,I+T_masked
+mv_1462,A,A,C,nan,I+T_masked
+mv_1463,A,A,C,nan,I+T_masked
+mv_1465,A,A,A,nan,I+T_masked
+mv_1466,A,A,A,nan,I+T_masked
+mv_1467,A,A,A,nan,I+T_masked
+mv_1468,A,A,A,nan,I+T_masked
+mv_1470,A,A,A,nan,I+T_masked
+mv_1471,A,A,A,nan,I+T_masked
+mv_1472,A,A,A,nan,I+T_masked
+mv_1473,A,A,A,nan,I+T_masked
+mv_1475,A,A,B,nan,I+T_masked
+mv_1476,A,A,B,nan,I+T_masked
+mv_1477,A,A,B,nan,I+T_masked
+mv_1478,A,A,B,nan,I+T_masked
+mv_1480,A,A,B,nan,I+T_masked
+mv_1481,C,C,B,nan,I+T_masked
+mv_1482,A,A,B,nan,I+T_masked
+mv_1483,A,A,B,nan,I+T_masked
+mv_1485,A,A,A,nan,I+T_masked
+mv_1486,A,A,A,nan,I+T_masked
+mv_1487,A,A,A,nan,I+T_masked
+mv_1488,B,B,A,nan,I+T_masked
+mv_1490,A,A,C,nan,I+T_masked
+mv_1491,A,A,C,nan,I+T_masked
+mv_1492,A,A,C,nan,I+T_masked
+mv_1493,A,A,C,nan,I+T_masked
+mv_1495,B,B,B,nan,I+T_masked
+mv_1496,B,B,B,nan,I+T_masked
+mv_1497,B,B,B,nan,I+T_masked
+mv_1498,B,B,B,nan,I+T_masked
+mv_1500,A,A,A,nan,I+T_masked
+mv_1501,A:19.7,A,A,nan,I+T_masked
+mv_1502,A:19.7,A,A,nan,I+T_masked
+mv_1503,A,A,A,nan,I+T_masked
+mv_1505,A,A,A,nan,I+T_masked
+mv_1506,A,A,A,nan,I+T_masked
+mv_1507,A,A,A,nan,I+T_masked
+mv_1508,A,A,A,nan,I+T_masked
+mv_1510,A,A,B,nan,I+T_masked
+mv_1511,A,A,B,nan,I+T_masked
+mv_1512,A,A,B,nan,I+T_masked
+mv_1513,A,A,B,nan,I+T_masked
+mv_1515,A,A,C,nan,I+T_masked
+mv_1516,A,A,C,nan,I+T_masked
+mv_1517,A,A,C,nan,I+T_masked
+mv_1518,A,A,C,nan,I+T_masked
+mv_1520,D,D,D,nan,I+T_masked
+mv_1521,D,D,D,nan,I+T_masked
+mv_1522,D,D,D,nan,I+T_masked
+mv_1523,A,A,D,nan,I+T_masked
+mv_1525,A,A,A,nan,I+T_masked
+mv_1526,B,B,A,nan,I+T_masked
+mv_1527,B,B,A,nan,I+T_masked
+mv_1528,B,B,A,nan,I+T_masked
+mv_1530,A,A,B,nan,I+T_masked
+mv_1531,A,A,B,nan,I+T_masked
+mv_1532,A,A,B,nan,I+T_masked
+mv_1533,A,A,B,nan,I+T_masked
+mv_1535,A,A,A,nan,I+T_masked
+mv_1536,A,A,A,nan,I+T_masked
+mv_1537,A,A,A,nan,I+T_masked
+mv_1538,A,A,A,nan,I+T_masked
+mv_1540,A,A,C,nan,I+T_masked
+mv_1541,A,A,C,nan,I+T_masked
+mv_1542,A,A,C,nan,I+T_masked
+mv_1543,A,A,C,nan,I+T_masked
+mv_1545,A,A,B,nan,I+T_masked
+mv_1546,A,A,B,nan,I+T_masked
+mv_1547,[NUM],[NUM],B,nan,I+T_masked
+mv_1548,B,B,B,nan,I+T_masked
+mv_1550,A,A,D,nan,I+T_masked
+mv_1551,A,A,D,nan,I+T_masked
+mv_1552,A,A,D,nan,I+T_masked
+mv_1553,B,B,D,nan,I+T_masked
+mv_1555,A,A,B,nan,I+T_masked
+mv_1556,A,A,B,nan,I+T_masked
+mv_1557,A,A,B,nan,I+T_masked
+mv_1558,A,A,B,nan,I+T_masked
+mv_1560,A,A,B,nan,I+T_masked
+mv_1561,A,A,B,nan,I+T_masked
+mv_1562,A,A,B,nan,I+T_masked
+mv_1563,A,A,B,nan,I+T_masked
+mv_1565,A,A,C,nan,I+T_masked
+mv_1566,A,A,C,nan,I+T_masked
+mv_1567,A,A,C,nan,I+T_masked
+mv_1568,C,C,C,nan,I+T_masked
+mv_1570,A,A,D,nan,I+T_masked
+mv_1571,A,A,D,nan,I+T_masked
+mv_1572,A,A,D,nan,I+T_masked
+mv_1573,A,A,D,nan,I+T_masked
+mv_1575,A,A,C,nan,I+T_masked
+mv_1576,A,A,C,nan,I+T_masked
+mv_1577,A,A,C,nan,I+T_masked
+mv_1578,A,A,C,nan,I+T_masked
+mv_1580,A,A,B,nan,I+T_masked
+mv_1581,A,A,B,nan,I+T_masked
+mv_1582,A,A,B,nan,I+T_masked
+mv_1583,A,A,B,nan,I+T_masked
+mv_1585,A,A,C,nan,I+T_masked
+mv_1586,A,A,C,nan,I+T_masked
+mv_1587,A,A,C,nan,I+T_masked
+mv_1588,A,A,C,nan,I+T_masked
+mv_1590,A,A,A,nan,I+T_masked
+mv_1591,A,A,A,nan,I+T_masked
+mv_1592,A,A,A,nan,I+T_masked
+mv_1593,A,A,A,nan,I+T_masked
+mv_1595,A,A,C,nan,I+T_masked
+mv_1596,A,A,C,nan,I+T_masked
+mv_1597,A,A,C,nan,I+T_masked
+mv_1598,A: 9,A,C,nan,I+T_masked
+mv_1600,A,A,C,nan,I+T_masked
+mv_1601,A,A,C,nan,I+T_masked
+mv_1602,A,A,C,nan,I+T_masked
+mv_1603,A,A,C,nan,I+T_masked
+mv_1605,A,A,C,nan,I+T_masked
+mv_1606,A,A,C,nan,I+T_masked
+mv_1607,A,A,C,nan,I+T_masked
+mv_1608,A,A,C,nan,I+T_masked
+mv_1610,B,B,D,nan,I+T_masked
+mv_1611,B,B,D,nan,I+T_masked
+mv_1612,B,B,D,nan,I+T_masked
+mv_1613,C,C,D,nan,I+T_masked
+mv_1615,A,A,C,nan,I+T_masked
+mv_1616,A,A,C,nan,I+T_masked
+mv_1617,A,A,C,nan,I+T_masked
+mv_1618,A,A,C,nan,I+T_masked
+mv_1620,A,A,B,nan,I+T_masked
+mv_1621,A,A,B,nan,I+T_masked
+mv_1622,A,A,B,nan,I+T_masked
+mv_1623,A,A,B,nan,I+T_masked
+mv_1625,A,A,A,nan,I+T_masked
+mv_1626,A,A,A,nan,I+T_masked
+mv_1627,A,A,A,nan,I+T_masked
+mv_1628,A,A,A,nan,I+T_masked
+mv_1630,355,355,11.8,14.16,I+T_masked
+mv_1631,10.7,10.7,11.8,14.16,I+T_masked
+mv_1632,10.7,10.7,11.8,14.16,I+T_masked
+mv_1633,10.7,10.7,11.8,14.16,I+T_masked
+mv_1635,17.6,17.6,22.3,26.76,I+T_masked
+mv_1636,17.6,17.6,22.3,26.76,I+T_masked
+mv_1637,17.6,17.6,22.3,26.76,I+T_masked
+mv_1638,17.6,17.6,22.3,26.76,I+T_masked
+mv_1640,966,966,2191.7 metres,nan,I+T_masked
+mv_1641,145.96,145.96,2191.7 metres,nan,I+T_masked
+mv_1642,145.96,145.96,2191.7 metres,nan,I+T_masked
+mv_1643,1496,1496,2191.7 metres,nan,I+T_masked
+mv_1645,190,190,S 23.5 ^\circ W,nan,I+T_masked
+mv_1646,190,190,S 23.5 ^\circ W,nan,I+T_masked
+mv_1647,190,190,S 23.5 ^\circ W,nan,I+T_masked
+mv_1648,190,190,S 23.5 ^\circ W,nan,I+T_masked
+mv_1650,45,45,315^\circT,nan,I+T_masked
+mv_1651,45,45,315^\circT,nan,I+T_masked
+mv_1652,45,45,315^\circT,nan,I+T_masked
+mv_1653,45,45,315^\circT,nan,I+T_masked
+mv_1655,50,50,230 ^\circ T,nan,I+T_masked
+mv_1656,50,50,230 ^\circ T,nan,I+T_masked
+mv_1657,50,50,230 ^\circ T,nan,I+T_masked
+mv_1658,50,50,230 ^\circ T,nan,I+T_masked
+mv_1660,120,120,217 ^\circ T,nan,I+T_masked
+mv_1661,180,180,217 ^\circ T,nan,I+T_masked
+mv_1662,45,45,217 ^\circ T,nan,I+T_masked
+mv_1663,180,180,217 ^\circ T,nan,I+T_masked
+mv_1665,29,29,118掳T,nan,I+T_masked
+mv_1666,29.5,29.5,118掳T,nan,I+T_masked
+mv_1667,29.5,29.5,118掳T,nan,I+T_masked
+mv_1668,28.9,28.9,118掳T,nan,I+T_masked
+mv_1670,320,320,212°T,nan,I+T_masked
+mv_1671,320,320,212°T,nan,I+T_masked
+mv_1672,320,320,212°T,nan,I+T_masked
+mv_1673,320,320,212°T,nan,I+T_masked
+mv_1675,315,315,329° T,nan,I+T_masked
+mv_1676,315,315,329° T,nan,I+T_masked
+mv_1677,315,315,329° T,nan,I+T_masked
+mv_1678,315,315,329° T,nan,I+T_masked
+mv_1680,135,135,270 ^\circ T,nan,I+T_masked
+mv_1681,37,37,270 ^\circ T,nan,I+T_masked
+mv_1682,37,37,270 ^\circ T,nan,I+T_masked
+mv_1683,370,370,270 ^\circ T,nan,I+T_masked
+mv_1685,390,390,319 ^\circ T,nan,I+T_masked
+mv_1686,390,390,319 ^\circ T,nan,I+T_masked
+mv_1687,390,390,319 ^\circ T,nan,I+T_masked
+mv_1688,390,390,319 ^\circ T,nan,I+T_masked
+mv_1690,B,B,090^\circ T,nan,I+T_masked
+mv_1691,B,B,090^\circ T,nan,I+T_masked
+mv_1692,49,49,090^\circ T,nan,I+T_masked
+mv_1693,B,B,090^\circ T,nan,I+T_masked
+mv_1695,B,B,053 ^\circ T,nan,I+T_masked
+mv_1696,B,B,053 ^\circ T,nan,I+T_masked
+mv_1697,347,347,053 ^\circ T,nan,I+T_masked
+mv_1698,B,B,053 ^\circ T,nan,I+T_masked
+mv_1700,45,45,132 ^\circT,nan,I+T_masked
+mv_1701,45,45,132 ^\circT,nan,I+T_masked
+mv_1702,45,45,132 ^\circT,nan,I+T_masked
+mv_1703,45,45,132 ^\circT,nan,I+T_masked
+mv_1705,135,135,221 ^\circ T,nan,I+T_masked
+mv_1706,40,40,221 ^\circ T,nan,I+T_masked
+mv_1707,40,40,221 ^\circ T,nan,I+T_masked
+mv_1708,40,40,221 ^\circ T,nan,I+T_masked
+mv_1710,32,32,62^\circ,nan,I+T_masked
+mv_1711,3.2,3.2,62^\circ,nan,I+T_masked
+mv_1712,3.2,3.2,62^\circ,nan,I+T_masked
+mv_1713,32,32,62^\circ,nan,I+T_masked
+mv_1715,0.0,0.0,53.6^\circ,nan,I+T_masked
+mv_1716,42,42,53.6^\circ,nan,I+T_masked
+mv_1717,42,42,53.6^\circ,nan,I+T_masked
+mv_1718,42,42,53.6^\circ,nan,I+T_masked
+mv_1720,116,116,90.1,108.12,I+T_masked
+mv_1721,116,116,90.1,108.12,I+T_masked
+mv_1722,116,116,90.1,108.12,I+T_masked
+mv_1723,116,116,90.1,108.12,I+T_masked
+mv_1725,25,25,37.23,44.68,I+T_masked
+mv_1726,25,25,37.23,44.68,I+T_masked
+mv_1727,25,25,37.23,44.68,I+T_masked
+mv_1728,25,25,37.23,44.68,I+T_masked
+mv_1730,20,20,19,23.0,I+T_masked
+mv_1731,43,43,19,23.0,I+T_masked
+mv_1732,43,43,19,23.0,I+T_masked
+mv_1733,43,43,19,23.0,I+T_masked
+mv_1735,19,19,285,342.0,I+T_masked
+mv_1736,40,40,285,342.0,I+T_masked
+mv_1737,40,40,285,342.0,I+T_masked
+mv_1738,40,40,285,342.0,I+T_masked
+mv_1740,30,30,53.13,63.76,I+T_masked
+mv_1741,5,5,53.13,63.76,I+T_masked
+mv_1742,5,5,53.13,63.76,I+T_masked
+mv_1743,5,5,53.13,63.76,I+T_masked
+mv_1745,1000,1000,1688,2026.0,I+T_masked
+mv_1746,100,100,1688,2026.0,I+T_masked
+mv_1747,100,100,1688,2026.0,I+T_masked
+mv_1748,100,100,1688,2026.0,I+T_masked
+mv_1750,10,10,4.4 m,nan,I+T_masked
+mv_1751,22.5,22.5,4.4 m,nan,I+T_masked
+mv_1752,22.5,22.5,4.4 m,nan,I+T_masked
+mv_1753,25m,25m,4.4 m,nan,I+T_masked
+mv_1755,100,100,675 m,nan,I+T_masked
+mv_1756,10,10,675 m,nan,I+T_masked
+mv_1757,10,10,675 m,nan,I+T_masked
+mv_1758,1.5,1.5,675 m,nan,I+T_masked
+mv_1760,35,35,28,34.0,I+T_masked
+mv_1761,35,35,28,34.0,I+T_masked
+mv_1762,35,35,28,34.0,I+T_masked
+mv_1763,35,35,28,34.0,I+T_masked
+mv_1765,45,45,45.32,54.38,I+T_masked
+mv_1766,45.0,45.0,45.32,54.38,I+T_masked
+mv_1767,45.0,45.0,45.32,54.38,I+T_masked
+mv_1768,45.0,45.0,45.32,54.38,I+T_masked
+mv_1770,1.5,1.5,93.31,111.97,I+T_masked
+mv_1771,31.1,31.1,93.31,111.97,I+T_masked
+mv_1772,31.1,31.1,93.31,111.97,I+T_masked
+mv_1773,31.71,31.71,93.31,111.97,I+T_masked
+mv_1775,10.0,10.0,18.05,21.66,I+T_masked
+mv_1776,0.5,0.5,18.05,21.66,I+T_masked
+mv_1777,0.5,0.5,18.05,21.66,I+T_masked
+mv_1778,0.5,0.5,18.05,21.66,I+T_masked
+mv_1780,35,35,35掳,nan,I+T_masked
+mv_1781,35,35,35掳,nan,I+T_masked
+mv_1782,35,35,35掳,nan,I+T_masked
+mv_1783,35,35,35掳,nan,I+T_masked
+mv_1785,37.5,37.5,24.6,29.52,I+T_masked
+mv_1786,37.5,37.5,24.6,29.52,I+T_masked
+mv_1787,37.5,37.5,24.6,29.52,I+T_masked
+mv_1788,37.5,37.5,24.6,29.52,I+T_masked
+mv_1790,67,67,51.1,61.32,I+T_masked
+mv_1791,0.67,0.67,51.1,61.32,I+T_masked
+mv_1792,0.67,0.67,51.1,61.32,I+T_masked
+mv_1793,0.67,0.67,51.1,61.32,I+T_masked
+mv_1795,7.3,7.3,6.3,7.56,I+T_masked
+mv_1796,0.73,0.73,6.3,7.56,I+T_masked
+mv_1797,0.73,0.73,6.3,7.56,I+T_masked
+mv_1798,0.73,0.73,6.3,7.56,I+T_masked
+mv_1800,22.5,22.5,9,11.0,I+T_masked
+mv_1801,22,22,9,11.0,I+T_masked
+mv_1802,22,22,9,11.0,I+T_masked
+mv_1803,22.5,22.5,9,11.0,I+T_masked
+mv_1805,3,3,229,275.0,I+T_masked
+mv_1806,3,3,229,275.0,I+T_masked
+mv_1807,3,3,229,275.0,I+T_masked
+mv_1808,3,3,229,275.0,I+T_masked
+mv_1810,21.5,21.5,21.6,25.92,I+T_masked
+mv_1811,21.5,21.5,21.6,25.92,I+T_masked
+mv_1812,21.5,21.5,21.6,25.92,I+T_masked
+mv_1813,2.1,2.1,21.6,25.92,I+T_masked
+mv_1815,35,35,74.85,89.82,I+T_masked
+mv_1816,35.0,35.0,74.85,89.82,I+T_masked
+mv_1817,6.5,6.5,74.85,89.82,I+T_masked
+mv_1818,35.0,35.0,74.85,89.82,I+T_masked
+mv_1820,2.34,2.34,23.9,28.68,I+T_masked
+mv_1821,23.45,23.45,23.9,28.68,I+T_masked
+mv_1822,23.45,23.45,23.9,28.68,I+T_masked
+mv_1823,23.45,23.45,23.9,28.68,I+T_masked
+mv_1825,27m,27m,4.6 m,nan,I+T_masked
+mv_1826,27.0,27.0,4.6 m,nan,I+T_masked
+mv_1827,27.0,27.0,4.6 m,nan,I+T_masked
+mv_1828,27.1m,27.1m,4.6 m,nan,I+T_masked
+mv_1830,10.6,10.6,4.4,5.28,I+T_masked
+mv_1831,10.6,10.6,4.4,5.28,I+T_masked
+mv_1832,10.6,10.6,4.4,5.28,I+T_masked
+mv_1833,10.6,10.6,4.4,5.28,I+T_masked
+mv_1835,1.5,1.5,777,932.0,I+T_masked
+mv_1836,100,100,777,932.0,I+T_masked
+mv_1837,100,100,777,932.0,I+T_masked
+mv_1838,15,15,777,932.0,I+T_masked
+mv_1840,60,60,1,3.0,I+T_masked
+mv_1841,60,60,1,3.0,I+T_masked
+mv_1842,60,60,1,3.0,I+T_masked
+mv_1843,60,60,1,3.0,I+T_masked
+mv_1845,45,45,45^\circ,nan,I+T_masked
+mv_1846,45,45,45^\circ,nan,I+T_masked
+mv_1847,45,45,45^\circ,nan,I+T_masked
+mv_1848,45,45,45^\circ,nan,I+T_masked
+mv_1850,w = 1.4142,1.4142,22,26.0,I+T_masked
+mv_1851,1.5,1.5,22,26.0,I+T_masked
+mv_1852,1.5,1.5,22,26.0,I+T_masked
+mv_1853,1.5,1.5,22,26.0,I+T_masked
+mv_1855,120,120,60^\circ,nan,I+T_masked
+mv_1856,120,120,60^\circ,nan,I+T_masked
+mv_1857,120,120,60^\circ,nan,I+T_masked
+mv_1858,120,120,60^\circ,nan,I+T_masked
+mv_1860,30,30,17,20.0,I+T_masked
+mv_1861,30,30,17,20.0,I+T_masked
+mv_1862,30,30,17,20.0,I+T_masked
+mv_1863,30%,30,17,20.0,I+T_masked
+mv_1865,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1866,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1867,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1868,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1870,4.5,4.5,4\sqrt{6},nan,I+T_masked
+mv_1871,45,45,4\sqrt{6},nan,I+T_masked
+mv_1872,45,45,4\sqrt{6},nan,I+T_masked
+mv_1873,45,45,4\sqrt{6},nan,I+T_masked
+mv_1875,45,45,4\sqrt{3},nan,I+T_masked
+mv_1876,45,45,4\sqrt{3},nan,I+T_masked
+mv_1877,45,45,4\sqrt{3},nan,I+T_masked
+mv_1878,0.5,0.5,4\sqrt{3},nan,I+T_masked
+mv_1880,9,9,\frac{9\sqrt{3}}{2},nan,I+T_masked
+mv_1881,9,9,\frac{9\sqrt{3}}{2},nan,I+T_masked
+mv_1882,9,9,\frac{9\sqrt{3}}{2},nan,I+T_masked
+mv_1883,9,9,\frac{9\sqrt{3}}{2},nan,I+T_masked
+mv_1885,5,5,4\sqrt{5},nan,I+T_masked
+mv_1886,5,5,4\sqrt{5},nan,I+T_masked
+mv_1887,5,5,4\sqrt{5},nan,I+T_masked
+mv_1888,1.5,1.5,4\sqrt{5},nan,I+T_masked
+mv_1890,0.5,0.5,4+4\sqrt{3},nan,I+T_masked
+mv_1891,1.5,1.5,4+4\sqrt{3},nan,I+T_masked
+mv_1892,1.5,1.5,4+4\sqrt{3},nan,I+T_masked
+mv_1893,0.0,0.0,4+4\sqrt{3},nan,I+T_masked
+mv_1895,60,60,1,3.0,I+T_masked
+mv_1896,60,60,1,3.0,I+T_masked
+mv_1897,60,60,1,3.0,I+T_masked
+mv_1898,60,60,1,3.0,I+T_masked
+mv_1900,45,45,22,26.0,I+T_masked
+mv_1901,1.5,1.5,22,26.0,I+T_masked
+mv_1902,1.5,1.5,22,26.0,I+T_masked
+mv_1903,0.5,0.5,22,26.0,I+T_masked
+mv_1905,12,12,60^\circ,nan,I+T_masked
+mv_1906,12,12,60^\circ,nan,I+T_masked
+mv_1907,12,12,60^\circ,nan,I+T_masked
+mv_1908,12,12,60^\circ,nan,I+T_masked
+mv_1910,30,30,2,4.0,I+T_masked
+mv_1911,30,30,2,4.0,I+T_masked
+mv_1912,30,30,2,4.0,I+T_masked
+mv_1913,30,30,2,4.0,I+T_masked
+mv_1915,30,30,17,20.0,I+T_masked
+mv_1916,300,300,17,20.0,I+T_masked
+mv_1917,300,300,17,20.0,I+T_masked
+mv_1918,30,30,17,20.0,I+T_masked
+mv_1920,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1921,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1922,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1923,30,30,\frac{\sqrt{30}}{2},nan,I+T_masked
+mv_1925,45,45,4\sqrt{6},nan,I+T_masked
+mv_1926,45,45,4\sqrt{6},nan,I+T_masked
+mv_1927,45,45,4\sqrt{6},nan,I+T_masked
+mv_1928,45,45,4\sqrt{6},nan,I+T_masked
+mv_1930,20.0,20.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_masked
+mv_1931,18.0,18.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_masked
+mv_1932,18.0,18.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_masked
+mv_1933,18.0,18.0,Circumference $=50.27 \mathrm{~cm}$,nan,I+T_masked
+mv_1935,18.0,18.0,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_masked
+mv_1936,18.5 cm,18.5 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_masked
+mv_1937,18.5 cm,18.5 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_masked
+mv_1938,18.5 cm,18.5 cm,Circumference $=113.1 \mathrm{~cm}$,nan,I+T_masked
+mv_1940,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_masked
+mv_1941,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_masked
+mv_1942,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_masked
+mv_1943,13.09,13.09,$C=40.84 \mathrm{~cm}$,nan,I+T_masked
+mv_1945,44,44,$$r=7.00$$,nan,I+T_masked
+mv_1946,44 cm,44 cm,$$r=7.00$$,nan,I+T_masked
+mv_1947,44 cm,44 cm,$$r=7.00$$,nan,I+T_masked
+mv_1948,44 cm,44 cm,$$r=7.00$$,nan,I+T_masked
+mv_1950,42,42,$D=13.37$,nan,I+T_masked
+mv_1951,42,42,$D=13.37$,nan,I+T_masked
+mv_1952,42,42,$D=13.37$,nan,I+T_masked
+mv_1953,42,42,$D=13.37$,nan,I+T_masked
+mv_1955,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_masked
+mv_1956,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_masked
+mv_1957,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_masked
+mv_1958,10.0,10.0,Perimeter $=35.7 \mathrm{~mm}$,nan,I+T_masked
+mv_1960,1.0,1.0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1961,1.0,1.0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1962,1.0,1.0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1963,1.0,1.0,Area $=113.1 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1965,2.0,2.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1966,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1967,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1968,0.0,0.0,Area $=9.4 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1970,3.1415926535897932384626433600000000000000000000000000000000000,3.1415926535897932384626433600000000000000000000000000000000000,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1971,3.1415926535897932384626433832795028841971693993751058209749445,3.1415926535897932384626433832795028841971693993751058209749445,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1972,3.1415926535897932384626433832795028848954937519541059973741897,3.1415926535897932384626433832795028848954937519541059973741897,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1973,3.1415926535897932384626433832795028841971693993751058209749445,3.1415926535897932384626433832795028841971693993751058209749445,Area $=9 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1975,11.0,11.0,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1976,11.1 cm,11.1 cm,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1977,11.25,11.25,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1978,11.1 cm,11.1 cm,Area $=121 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1980,50,50,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1981,50,50,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1982,50,50,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1983,50,50,Area $=2500 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_1985,1.4999999999999999999999999999999999999999999999999999999999999,1.4999999999999999999999999999999999999999999999999999999999999,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1986,1.0,1.0,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1987,1.0,1.0,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1988,1.0,1.0,Area $=\frac{\pi}{25} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_1990,1.43,1.43,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_1991,5.0,5.0,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_1992,5.0,5.0,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_1993,5.0,5.0,Area $=\frac{25 \pi}{4} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_1995,1.14,1.14,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_masked
+mv_1996,0.0,0.0,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_masked
+mv_1997,0.0,0.0,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_masked
+mv_1998,0.0,0.0,Area $=\frac{121 \pi}{4} \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2000,0.0,0.0,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2001,1.49,1.49,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2002,1.49,1.49,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2003,1.49,1.49,Area $=\frac{147 \pi}{4} \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2005,5.27 cm,5.27 cm,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2006,5.27,5.27,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2007,5.27,5.27,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2008,5.27,5.27,Area $=347.4248 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2010,0.0,0.0,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2011,0.667,0.667,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2012,0.667,0.667,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2013,0.667,0.667,Area $=\frac{338 \pi}{3} \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2015,0.000,0.000,7298.6737 \mathrm{~mm}^{2},nan,I+T_masked
+mv_2016,0.000,0.000,7298.6737 \mathrm{~mm}^{2},nan,I+T_masked
+mv_2017,0.000,0.000,7298.6737 \mathrm{~mm}^{2},nan,I+T_masked
+mv_2018,0.000,0.000,7298.6737 \mathrm{~mm}^{2},nan,I+T_masked
+mv_2020,0.00,0.00,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2021,0.00,0.00,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2022,0.00,0.00,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2023,0.00,0.00,Area $=1115.94 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2025,0.00,0.00,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2026,0.00,0.00,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2027,0.00,0.00,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2028,0.00,0.00,Area $=3426.49 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2030,20.0,20.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_masked
+mv_2031,1.0,1.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_masked
+mv_2032,1.0,1.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_masked
+mv_2033,1.0,1.0,Perimeter $=18.8 \mathrm{~cm}$,nan,I+T_masked
+mv_2035,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_masked
+mv_2036,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_masked
+mv_2037,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_masked
+mv_2038,100,100,Perimeter $=18.89 \mathrm{~cm}$,nan,I+T_masked
+mv_2040,10.8,10.8,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_masked
+mv_2041,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_masked
+mv_2042,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_masked
+mv_2043,1.0,1.0,Perimeter $=60.68 \mathrm{~cm}$,nan,I+T_masked
+mv_2045,80.23,80.23,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_masked
+mv_2046,100.0,100.0,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_masked
+mv_2047,100.0,100.0,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_masked
+mv_2048,100.0,100.0,Perimeter $=492.14 \mathrm{~mm}$,nan,I+T_masked
+mv_2050,12.5,12.5,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_masked
+mv_2051,1.57,1.57,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_masked
+mv_2052,1.57,1.57,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_masked
+mv_2053,1.57,1.57,Perimeter $=257.73 \mathrm{~m}$,nan,I+T_masked
+mv_2055,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2056,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2057,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2058,6.3 mm,6.3 m,Area $=70.69 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_2060,27.5,27.5,$r=24.4$,nan,I+T_masked
+mv_2061,27.5,27.5,$r=24.4$,nan,I+T_masked
+mv_2062,27.5,27.5,$r=24.4$,nan,I+T_masked
+mv_2063,27.5,27.5,$r=24.4$,nan,I+T_masked
+mv_2065,0.00,0.00,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2066,0.00,0.00,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2067,0.00,0.00,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2068,0.00,0.00,Area $=73.52\mathrm{~cm}^{2}$,nan,I+T_masked
+mv_2070,0.00,0.00,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2071,0.00,0.00,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2072,0.00,0.00,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2073,0.00,0.00,Area $=315.4 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_2075,[NUM],[NUM],Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2076,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2077,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2078,0.56,0.56,Area of sector $=6 \pi \mathrm{cm}^{2}$,nan,I+T_masked
+mv_2080,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_masked
+mv_2081,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_masked
+mv_2082,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_masked
+mv_2083,28 cm,28 cm,Perimeter $=94 \mathrm{~cm}$,nan,I+T_masked
+mv_2085,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_masked
+mv_2086,19.5,19.5,Perimeter $=74 \mathrm{~mm}$,nan,I+T_masked
+mv_2087,19,19,Perimeter $=74 \mathrm{~mm}$,nan,I+T_masked
+mv_2088,19.5,19.5,Perimeter $=74 \mathrm{~mm}$,nan,I+T_masked
+mv_2090,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_masked
+mv_2091,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_masked
+mv_2092,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_masked
+mv_2093,28,28,Perimeter $=28 \mathrm{~mm}$,nan,I+T_masked
+mv_2095,10 cm,10 cm,$5=s$,nan,I+T_masked
+mv_2096,10 cm,10 cm,$5=s$,nan,I+T_masked
+mv_2097,10 cm,10 cm,$5=s$,nan,I+T_masked
+mv_2098,10 cm,10 cm,$5=s$,nan,I+T_masked
+mv_2100,6096,6096,96,115.0,I+T_masked
+mv_2101,690,690,96,115.0,I+T_masked
+mv_2102,690,690,96,115.0,I+T_masked
+mv_2103,690,690,96,115.0,I+T_masked
+mv_2105,6099,6099,36,43.0,I+T_masked
+mv_2106,6096,6096,36,43.0,I+T_masked
+mv_2107,6096,6096,36,43.0,I+T_masked
+mv_2108,6096,6096,36,43.0,I+T_masked
+mv_2110,1000,1000,3799 km,nan,I+T_masked
+mv_2111,100000,100000,3799 km,nan,I+T_masked
+mv_2112,100000,100000,3799 km,nan,I+T_masked
+mv_2113,100000000,100000000,3799 km,nan,I+T_masked
+mv_2115,0.00,0.00,60.21 \mathrm{m}^2,nan,I+T_masked
+mv_2116,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,60.21 \mathrm{m}^2,nan,I+T_masked
+mv_2117,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,60.21 \mathrm{m}^2,nan,I+T_masked
+mv_2118,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,60.21 \mathrm{m}^2,nan,I+T_masked
+mv_2120,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,1389.32 \mathrm{m}^2,nan,I+T_masked
+mv_2121,0.01,0.01,1389.32 \mathrm{m}^2,nan,I+T_masked
+mv_2122,0.01,0.01,1389.32 \mathrm{m}^2,nan,I+T_masked
+mv_2123,0.01,0.01,1389.32 \mathrm{m}^2,nan,I+T_masked
+mv_2125,550,550,729,875.0,I+T_masked
+mv_2126,550,550,729,875.0,I+T_masked
+mv_2127,550,550,729,875.0,I+T_masked
+mv_2128,550,550,729,875.0,I+T_masked
+mv_2130,W,W,N 34° W,nan,I+T_masked
+mv_2131,W,W,N 34° W,nan,I+T_masked
+mv_2132,W,W,N 34° W,nan,I+T_masked
+mv_2133,W,W,N 34° W,nan,I+T_masked
+mv_2135,100,100,\frac{1225\pi }{2} \text { units }^2,nan,I+T_masked
+mv_2136,100,100,\frac{1225\pi }{2} \text { units }^2,nan,I+T_masked
+mv_2137,100,100,\frac{1225\pi }{2} \text { units }^2,nan,I+T_masked
+mv_2138,100,100,\frac{1225\pi }{2} \text { units }^2,nan,I+T_masked
+mv_2140,B,B,False,nan,I+T_masked
+mv_2141,B,B,False,nan,I+T_masked
+mv_2142,B,B,False,nan,I+T_masked
+mv_2143,B,B,False,nan,I+T_masked
+mv_2145,B,B,False,nan,I+T_masked
+mv_2146,B,B,False,nan,I+T_masked
+mv_2147,B,B,False,nan,I+T_masked
+mv_2148,B,B,False,nan,I+T_masked
+mv_2150,12,12,$h=15$,nan,I+T_masked
+mv_2151,12,12,$h=15$,nan,I+T_masked
+mv_2152,12,12,$h=15$,nan,I+T_masked
+mv_2153,12,12,$h=15$,nan,I+T_masked
+mv_2155,1.49,1.49,8.246,9.9,I+T_masked
+mv_2156,1.5,1.5,8.246,9.9,I+T_masked
+mv_2157,1.5,1.5,8.246,9.9,I+T_masked
+mv_2158,1.5,1.5,8.246,9.9,I+T_masked
+mv_2160,"[0.3, 0.5, 0.4, 0.62]",0.3,"(2,-2)",nan,I+T_masked
+mv_2161,"[0.3, 0.5, 0.4, 0.6] [0.5, 0.5, 0.6, 0.6] [0.7, 0.5, 0.8, 0.6]",0.3,"(2,-2)",nan,I+T_masked
+mv_2162,"[0.3, 0.5, 0.4, 0.6] [0.5, 0.5, 0.6, 0.6] [0.7, 0.5, 0.8, 0.6]",0.3,"(2,-2)",nan,I+T_masked
+mv_2163,"[0.3, 0.5, 0.4, 0.6] [0.5, 0.5, 0.6, 0.6] [0.7, 0.5, 0.8, 0.6]",0.3,"(2,-2)",nan,I+T_masked
+mv_2165,x^2 + y^2 = 4,2,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_masked
+mv_2166,y = -x + 6,6,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_masked
+mv_2167,y = -x + 6,6,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_masked
+mv_2168,y = -x + 6,6,\frac{x^2}{81}+\frac{y^2}{9}=1,nan,I+T_masked
+mv_2170,x^2 + y^2 = [NUM]^2,2,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_masked
+mv_2171,x^2 + 5x - 10 = 0,2,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_masked
+mv_2172,x^2 + 5x - 10 = 0,2,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_masked
+mv_2173,x^2 + 5x - 10 = 0,2,\frac{(x+2)^2}{4}+\frac{(y-2)^2}{9}=1,nan,I+T_masked
+mv_2175,y = (x/10)^2,10,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_masked
+mv_2176,y = -x^2 + 10x + 10,2,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_masked
+mv_2177,y = x^2 - 4x + 10,2,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_masked
+mv_2178,y = -x^2 + 10x + 10,2,\frac{y^2}{16}-\frac{x^2}{25}=1,nan,I+T_masked
+mv_2180,y = -x^2 + 2x - 1,2,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_masked
+mv_2181,y = -x^2 + 2x - 1,2,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_masked
+mv_2182,y = x^2 - 2x + 1,2,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_masked
+mv_2183,y = -x^2 + 2x - 1,2,\frac{y^2}{9}-\frac{(x+1)^2}{9}=1,nan,I+T_masked
+mv_2185,y = -x^2 + 2x - 1,2,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_masked
+mv_2186,y = -x^2 + 2x - 3,2,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_masked
+mv_2187,y = x^2 - 3x + 2,2,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_masked
+mv_2188,y = -x^2 + 2x - 3,2,\frac{(x+3)^2}{25}-\frac{(y+3)^2}{25}=1,nan,I+T_masked
+mv_2190,[NUM],[NUM],"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_masked
+mv_2191,0.5,0.5,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_masked
+mv_2192,0.5,0.5,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_masked
+mv_2193,0.5,0.5,"$\left(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}\right)$",nan,I+T_masked
+mv_2195,B,B,"C
+D",nan,I+T_masked
+mv_2196,B,B,"C
+D",nan,I+T_masked
+mv_2197,B,B,"C
+D",nan,I+T_masked
+mv_2198,B,B,"C
+D",nan,I+T_masked
+mv_2200,[NUM],[NUM],$\frac{4}{5}$,nan,I+T_masked
+mv_2201,0.5,0.5,$\frac{4}{5}$,nan,I+T_masked
+mv_2202,0.5,0.5,$\frac{4}{5}$,nan,I+T_masked
+mv_2203,0.5,0.5,$\frac{4}{5}$,nan,I+T_masked
+mv_2205,0.5,0.5,$\frac{4}{3}$,nan,I+T_masked
+mv_2206,0.5,0.5,$\frac{4}{3}$,nan,I+T_masked
+mv_2207,0.5,0.5,$\frac{4}{3}$,nan,I+T_masked
+mv_2208,0.5,0.5,$\frac{4}{3}$,nan,I+T_masked
+mv_2210,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2211,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2212,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2213,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2215,0.5,0.5,$-\frac{20}{21}$,nan,I+T_masked
+mv_2216,0.5,0.5,$-\frac{20}{21}$,nan,I+T_masked
+mv_2217,0.5,0.5,$-\frac{20}{21}$,nan,I+T_masked
+mv_2218,0.5,0.5,$-\frac{20}{21}$,nan,I+T_masked
+mv_2220,[NUM],[NUM],$\frac{20}{29}$,nan,I+T_masked
+mv_2221,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2222,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2223,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2225,[NUM],[NUM],$-\frac{21}{29}$,nan,I+T_masked
+mv_2226,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2227,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2228,0.5,0.5,$-\frac{21}{29}$,nan,I+T_masked
+mv_2230,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2231,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2232,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2233,0.5,0.5,$\frac{20}{29}$,nan,I+T_masked
+mv_2235,0.5,0.5,$-\frac{21}{20}$,nan,I+T_masked
+mv_2236,0.5,0.5,$-\frac{21}{20}$,nan,I+T_masked
+mv_2237,0.5,0.5,$-\frac{21}{20}$,nan,I+T_masked
+mv_2238,22/39,22,$-\frac{21}{20}$,nan,I+T_masked
+mv_2240,A,A,A,nan,I+T_masked
+mv_2241,B,B,A,nan,I+T_masked
+mv_2242,B,B,A,nan,I+T_masked
+mv_2243,B,B,A,nan,I+T_masked
+mv_2245,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_masked
+mv_2246,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_masked
+mv_2247,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_masked
+mv_2248,y = 0.5 x + 0.5,0.5,y=-2 x+5,nan,I+T_masked
+mv_2250,y = -x + 5,5,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2251,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2252,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2253,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2255,y = -x + 5,5,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_2256,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_2257,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_2258,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_2260,"$(0, 0)$",0,"(0,0)",nan,I+T_masked
+mv_2261,"$(0.4, 0.41)$",0.4,"(0,0)",nan,I+T_masked
+mv_2262,"$(0.4, 0.41)$",0.4,"(0,0)",nan,I+T_masked
+mv_2263,"$(0.4, 0.41)$",0.4,"(0,0)",nan,I+T_masked
+mv_2265,1,1,2,4.0,I+T_masked
+mv_2266,1,1,2,4.0,I+T_masked
+mv_2267,1,1,2,4.0,I+T_masked
+mv_2268,1,1,2,4.0,I+T_masked
+mv_2270,10,10,8,10.0,I+T_masked
+mv_2271,10,10,8,10.0,I+T_masked
+mv_2272,10,10,8,10.0,I+T_masked
+mv_2273,10,10,8,10.0,I+T_masked
+mv_2275,x^2 + y^2 = [NUM]^2,2,$x^{2}+y^{2}=49$,nan,I+T_masked
+mv_2276,x^2 + y^2 = 10,2,$x^{2}+y^{2}=49$,nan,I+T_masked
+mv_2277,x^2 + y^2 = 10,2,$x^{2}+y^{2}=49$,nan,I+T_masked
+mv_2278,x^2 + y^2 = 10,2,$x^{2}+y^{2}=49$,nan,I+T_masked
+mv_2280,x^2 + y^2 = [NUM]^2,2,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_masked
+mv_2281,x^2 + y^2 = 10,2,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_masked
+mv_2282,x^2 + y^2 = 10,2,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_masked
+mv_2283,x^2 + y^2 = 10,2,$(x-1)^{2}+(y-3)^{2}=36$,nan,I+T_masked
+mv_2285,0.5,0.5,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_masked
+mv_2286,0.5,0.5,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_masked
+mv_2287,0.5,0.5,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_masked
+mv_2288,0.5,0.5,$\frac{-2 \sqrt{13}}{13}$,nan,I+T_masked
+mv_2290,1,1,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_masked
+mv_2291,1,1,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_masked
+mv_2292,1,1,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_masked
+mv_2293,1,1,"Complete the statement.Every point on the circle is exactly 5 units away from the point (0,0).",nan,I+T_masked
+mv_2295,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2296,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2297,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2298,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2300,10,10,3,4.0,I+T_masked
+mv_2301,10,10,3,4.0,I+T_masked
+mv_2302,10,10,3,4.0,I+T_masked
+mv_2303,10,10,3,4.0,I+T_masked
+mv_2305,10,10,6,7.0,I+T_masked
+mv_2306,10,10,6,7.0,I+T_masked
+mv_2307,10,10,6,7.0,I+T_masked
+mv_2308,10,10,6,7.0,I+T_masked
+mv_2310,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2311,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2312,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2313,"(5, 10)",5,"(-3,-3)",nan,I+T_masked
+mv_2315,10,10,3,4.0,I+T_masked
+mv_2316,10,10,3,4.0,I+T_masked
+mv_2317,10,10,3,4.0,I+T_masked
+mv_2318,10,10,3,4.0,I+T_masked
+mv_2320,(x-h)^2 + (y-k)^2 = r^2,2,(x+3)^2+(y+3)^2=9,nan,I+T_masked
+mv_2321,x^2 + y^2 = 10,2,(x+3)^2+(y+3)^2=9,nan,I+T_masked
+mv_2322,x^2 + y^2 = 10,2,(x+3)^2+(y+3)^2=9,nan,I+T_masked
+mv_2323,x^2 + y^2 = 10,2,(x+3)^2+(y+3)^2=9,nan,I+T_masked
+mv_2325,A,A,A,nan,I+T_masked
+mv_2326,D,D,A,nan,I+T_masked
+mv_2327,D,D,A,nan,I+T_masked
+mv_2328,D,D,A,nan,I+T_masked
+mv_2330,x^2 + y^2 = 10,2,x^2+(y+4)^2=4^2,nan,I+T_masked
+mv_2331,x^2 + y^2 = 10,2,x^2+(y+4)^2=4^2,nan,I+T_masked
+mv_2332,x^2 + y^2 = 10,2,x^2+(y+4)^2=4^2,nan,I+T_masked
+mv_2333,x^2 + y^2 = 10,2,x^2+(y+4)^2=4^2,nan,I+T_masked
+mv_2335,5,5,"(1,3)",nan,I+T_masked
+mv_2336,5,5,"(1,3)",nan,I+T_masked
+mv_2337,5,5,"(1,3)",nan,I+T_masked
+mv_2338,5,5,"(1,3)",nan,I+T_masked
+mv_2340,10,10,"(0,0)",nan,I+T_masked
+mv_2341,5,5,"(0,0)",nan,I+T_masked
+mv_2342,5,5,"(0,0)",nan,I+T_masked
+mv_2343,5,5,"(0,0)",nan,I+T_masked
+mv_2345,10,10,7,8.0,I+T_masked
+mv_2346,10,10,7,8.0,I+T_masked
+mv_2347,10,10,7,8.0,I+T_masked
+mv_2348,10,10,7,8.0,I+T_masked
+mv_2350,x^2 + y^2 = 10,2,y=\sqrt{49-x^2},nan,I+T_masked
+mv_2351,y = x,y,y=\sqrt{49-x^2},nan,I+T_masked
+mv_2352,y = x,y,y=\sqrt{49-x^2},nan,I+T_masked
+mv_2353,y = x,y,y=\sqrt{49-x^2},nan,I+T_masked
+mv_2355,10,10,"(0,0)",nan,I+T_masked
+mv_2356,5,5,"(0,0)",nan,I+T_masked
+mv_2357,5,5,"(0,0)",nan,I+T_masked
+mv_2358,5,5,"(0,0)",nan,I+T_masked
+mv_2360,"[NUM, NUM]","[NUM,","Center $=(20,10)$",nan,I+T_masked
+mv_2361,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_2362,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_2363,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_2365,"[0.0, 0.0, 1.0, 0.99]",0.0,"(-2,1]",nan,I+T_masked
+mv_2366,"[0.0, 0.0, 1.0, 0.99]",0.0,"(-2,1]",nan,I+T_masked
+mv_2367,"[0.0, 0.0, 1.0, 0.99]",0.0,"(-2,1]",nan,I+T_masked
+mv_2368,"[0.0, 0.0, 1.0, 0.99]",0.0,"(-2,1]",nan,I+T_masked
+mv_2370,"[0.4, 0.0, 0.99, 0.99]",0.4,"(-\infty, 4]",nan,I+T_masked
+mv_2371,"[0.4, 0.3, 0.8, 0.69]",0.4,"(-\infty, 4]",nan,I+T_masked
+mv_2372,"[0.4, 0.3, 0.8, 0.69]",0.4,"(-\infty, 4]",nan,I+T_masked
+mv_2373,"[0.4, 0.3, 0.8, 0.69]",0.4,"(-\infty, 4]",nan,I+T_masked
+mv_2375,A,A,B,nan,I+T_masked
+mv_2376,B,B,B,nan,I+T_masked
+mv_2377,B,B,B,nan,I+T_masked
+mv_2378,B,B,B,nan,I+T_masked
+mv_2380,A,A,A,nan,I+T_masked
+mv_2381,A,A,A,nan,I+T_masked
+mv_2382,A,A,A,nan,I+T_masked
+mv_2383,A,A,A,nan,I+T_masked
+mv_2385,B,B,B,nan,I+T_masked
+mv_2386,B,B,B,nan,I+T_masked
+mv_2387,B,B,B,nan,I+T_masked
+mv_2388,B,B,B,nan,I+T_masked
+mv_2390,B,B,A,nan,I+T_masked
+mv_2391,B,B,A,nan,I+T_masked
+mv_2392,B,B,A,nan,I+T_masked
+mv_2393,B,B,A,nan,I+T_masked
+mv_2395,B,B,B,nan,I+T_masked
+mv_2396,B,B,B,nan,I+T_masked
+mv_2397,B,B,B,nan,I+T_masked
+mv_2398,B,B,B,nan,I+T_masked
+mv_2400,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_masked
+mv_2401,"[0.0, 0.5, 1.0, 5.5]",0.0,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_masked
+mv_2402,"[0.0, 0.5, 1.0, 5.5]",0.0,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_masked
+mv_2403,"[0.0, 0.5, 1.0, 5.5]",0.0,"domain: [-4, 0) and range: (-3, 1]",nan,I+T_masked
+mv_2405,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (2,8] and range: [6,8)",nan,I+T_masked
+mv_2406,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (2,8] and range: [6,8)",nan,I+T_masked
+mv_2407,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (2,8] and range: [6,8)",nan,I+T_masked
+mv_2408,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (2,8] and range: [6,8)",nan,I+T_masked
+mv_2410,"[0.0, -10, 10, 10]",0.0,"domain: [-4,4] and range: [0,2]",nan,I+T_masked
+mv_2411,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-4,4] and range: [0,2]",nan,I+T_masked
+mv_2412,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-4,4] and range: [0,2]",nan,I+T_masked
+mv_2413,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-4,4] and range: [0,2]",nan,I+T_masked
+mv_2415,"[0.0, -infinity, 1.0, infinity]",0.0,"domain: [-5,3) and range: [0,2]",nan,I+T_masked
+mv_2416,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-5,3) and range: [0,2]",nan,I+T_masked
+mv_2417,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-5,3) and range: [0,2]",nan,I+T_masked
+mv_2418,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-5,3) and range: [0,2]",nan,I+T_masked
+mv_2420,"[0.0, -infinity, 1.0, infinity]",0.0,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_masked
+mv_2421,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_masked
+mv_2422,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_masked
+mv_2423,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: (-\infty, 1] and range: [0, \infty)",nan,I+T_masked
+mv_2425,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_masked
+mv_2426,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_masked
+mv_2427,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_masked
+mv_2428,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-6,-\frac{1}{6}] \cup[\frac{1}{6}, 6] and range: [-6,-\frac{1}{6}\right] \cup[\frac{1}{6}, 6]",nan,I+T_masked
+mv_2430,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_masked
+mv_2431,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_masked
+mv_2432,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_masked
+mv_2433,"[0.0, 0.0, 1.0, 0.99]",0.0,"domain: [-3, \infty) and range: [0, \infty)",nan,I+T_masked
+mv_2435,3,3,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_masked
+mv_2436,1,1,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_masked
+mv_2437,1,1,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_masked
+mv_2438,1,1,"The function is increasing on (-\infty,-2.5) \cup(1, \infty), and decreasing on (-2.5,1)",nan,I+T_masked
+mv_2440,"[0.1, 0.1, 0.99, 0.99]",0.1,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_masked
+mv_2441,1,1,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_masked
+mv_2442,1,1,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_masked
+mv_2443,1,1,"\text { increasing on }(-\infty, 1) \cup(3,4) \text {, decreasing on }(1,3) \cup(4, \infty)",nan,I+T_masked
+mv_2445,1,1,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_masked
+mv_2446,0,0,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_masked
+mv_2447,0,0,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_masked
+mv_2448,0,0,"\text { local maximum: }(-3,60) \text {, local minimum: }(3, -60)",nan,I+T_masked
+mv_2450,100,100,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_masked
+mv_2451,10,10,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_masked
+mv_2452,10,10,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_masked
+mv_2453,10,10,"\text { Local minimum at }(-2,-2) \text {, decreasing on }(-3,-2) \text {, increasing on }(-2, \infty)",nan,I+T_masked
+mv_2455,B,B,A,nan,I+T_masked
+mv_2456,B,B,A,nan,I+T_masked
+mv_2457,B,B,A,nan,I+T_masked
+mv_2458,B,B,A,nan,I+T_masked
+mv_2460,f(x) = 3x - 2,3,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_masked
+mv_2461,y = -x + 3,3,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_masked
+mv_2462,y = -x + 3,3,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_masked
+mv_2463,y = -x + 3,3,"When x<=3 $f(x)=-x+1$, when x>3, $f(x)=x-5$",nan,I+T_masked
+mv_2465,y = 5 - x,5,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_masked
+mv_2466,y = -x + 5,5,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_masked
+mv_2467,y = -x + 5,5,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_masked
+mv_2468,y = -x + 5,5,"When x<=-3 $f(x) = -x-5$, when x>3, $f(x)=x+1$",nan,I+T_masked
+mv_2470,y = -x^2 + 3x - 4,2,f(x)=-(x+1)^2+2,nan,I+T_masked
+mv_2471,y = -x^2 + 3x - 4,2,f(x)=-(x+1)^2+2,nan,I+T_masked
+mv_2472,y = -x^2 + 3x - 4,2,f(x)=-(x+1)^2+2,nan,I+T_masked
+mv_2473,y = -x^2 + 3x - 4,2,f(x)=-(x+1)^2+2,nan,I+T_masked
+mv_2475,B,B,B,nan,I+T_masked
+mv_2476,B,B,B,nan,I+T_masked
+mv_2477,B,B,B,nan,I+T_masked
+mv_2478,B,B,B,nan,I+T_masked
+mv_2480,y = 5x - 1,5,$-\frac{3}{2}x+3$,nan,I+T_masked
+mv_2481,5x - 3,5,$-\frac{3}{2}x+3$,nan,I+T_masked
+mv_2482,5x - 3,5,$-\frac{3}{2}x+3$,nan,I+T_masked
+mv_2483,5x - 3,5,$-\frac{3}{2}x+3$,nan,I+T_masked
+mv_2485,B,B,A,nan,I+T_masked
+mv_2486,B,B,A,nan,I+T_masked
+mv_2487,B,B,A,nan,I+T_masked
+mv_2488,B,B,A,nan,I+T_masked
+mv_2490,B,B,A,nan,I+T_masked
+mv_2491,B,B,A,nan,I+T_masked
+mv_2492,B,B,A,nan,I+T_masked
+mv_2493,B,B,A,nan,I+T_masked
+mv_2495,"[0.0, 0.0, 1.0, 0.99]",0.0,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_masked
+mv_2496,Increasing,Increasing,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_masked
+mv_2497,1,1,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_masked
+mv_2498,Increasing,Increasing,"Increasing at (2, \infty) and decreasing at (-\infty, 2)",nan,I+T_masked
+mv_2500,"[0.0, 0.0, 1.0, 0.99]",0.0,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_masked
+mv_2501,5,5,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_masked
+mv_2502,5,5,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_masked
+mv_2503,5,5,"\text { increasing } \quad(-3,1) ; \quad \text { constant }(-\infty,-3) \cup(1, \infty)",nan,I+T_masked
+mv_2505,10,10,"(-1.8,10)",nan,I+T_masked
+mv_2506,10,10,"(-1.8,10)",nan,I+T_masked
+mv_2507,10,10,"(-1.8,10)",nan,I+T_masked
+mv_2508,10,10,"(-1.8,10)",nan,I+T_masked
+mv_2510,y = 5 - 3x,5,f(x)=|x-3|,nan,I+T_masked
+mv_2511,y = 2x + 3,2,f(x)=|x-3|,nan,I+T_masked
+mv_2512,y = 2x + 3,2,f(x)=|x-3|,nan,I+T_masked
+mv_2513,y = 2x + 3,2,f(x)=|x-3|,nan,I+T_masked
+mv_2515,Odd,Odd,even,nan,I+T_masked
+mv_2516,Odd,Odd,even,nan,I+T_masked
+mv_2517,Odd,Odd,even,nan,I+T_masked
+mv_2518,Odd,Odd,even,nan,I+T_masked
+mv_2520,f(x) = |x|,f(x),f(x)=\frac{1}{2}|x+2|+1,nan,I+T_masked
+mv_2521,|x|,|x|,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_masked
+mv_2522,y = 0.5x - 1.5,0.5,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_masked
+mv_2523,|x|,|x|,f(x)=\frac{1}{2}|x+2|+1,nan,I+T_masked
+mv_2525,f(x) = |x|,f(x),f(x)=-3|x-3|+3,nan,I+T_masked
+mv_2526,|x|,|x|,f(x)=-3|x-3|+3,nan,I+T_masked
+mv_2527,y = x,y,f(x)=-3|x-3|+3,nan,I+T_masked
+mv_2528,|x|,|x|,f(x)=-3|x-3|+3,nan,I+T_masked
+mv_2530,A.$[NUM] x-[NUM] y=[NUM]$,A,B,nan,I+T_masked
+mv_2531,A.$[NUM] x-[NUM] y=[NUM]$,A,B,nan,I+T_masked
+mv_2532,A.$[NUM] x-[NUM] y=[NUM]$,A,B,nan,I+T_masked
+mv_2533,A.$[NUM] x-[NUM] y=[NUM]$,A,B,nan,I+T_masked
+mv_2535,0,0,slope =-4,nan,I+T_masked
+mv_2536,1,1,slope =-4,nan,I+T_masked
+mv_2537,1,1,slope =-4,nan,I+T_masked
+mv_2538,1,1,slope =-4,nan,I+T_masked
+mv_2540,<|endoftext|>,<|endoftext|>,$y \leq 5$,nan,I+T_masked
+mv_2541,0,0,$y \leq 5$,nan,I+T_masked
+mv_2542,0,0,$y \leq 5$,nan,I+T_masked
+mv_2543,0,0,$y \leq 5$,nan,I+T_masked
+mv_2545,-10 < x < 10,-10,$y \geq-2 x-6$,nan,I+T_masked
+mv_2546,10,10,$y \geq-2 x-6$,nan,I+T_masked
+mv_2547,10,10,$y \geq-2 x-6$,nan,I+T_masked
+mv_2548,10,10,$y \geq-2 x-6$,nan,I+T_masked
+mv_2550,-5 < x < 5,-5,$y<2 x+6$,nan,I+T_masked
+mv_2551,5,5,$y<2 x+6$,nan,I+T_masked
+mv_2552,5,5,$y<2 x+6$,nan,I+T_masked
+mv_2553,5,5,$y<2 x+6$,nan,I+T_masked
+mv_2555,0,0,$y>-3 x$,nan,I+T_masked
+mv_2556,10,10,$y>-3 x$,nan,I+T_masked
+mv_2557,10,10,$y>-3 x$,nan,I+T_masked
+mv_2558,10,10,$y>-3 x$,nan,I+T_masked
+mv_2560,-10 < x < 10,-10,$y \leq 2 x+3$,nan,I+T_masked
+mv_2561,10,10,$y \leq 2 x+3$,nan,I+T_masked
+mv_2562,10,10,$y \leq 2 x+3$,nan,I+T_masked
+mv_2563,10,10,$y \leq 2 x+3$,nan,I+T_masked
+mv_2565,0,0,Slope $=\frac{1}{5}$,nan,I+T_masked
+mv_2566,1,1,Slope $=\frac{1}{5}$,nan,I+T_masked
+mv_2567,1,1,Slope $=\frac{1}{5}$,nan,I+T_masked
+mv_2568,1,1,Slope $=\frac{1}{5}$,nan,I+T_masked
+mv_2570,1/2,1,Slope $=-\frac{1}{2}$,nan,I+T_masked
+mv_2571,1/2,1,Slope $=-\frac{1}{2}$,nan,I+T_masked
+mv_2572,1/2,1,Slope $=-\frac{1}{2}$,nan,I+T_masked
+mv_2573,1/2,1,Slope $=-\frac{1}{2}$,nan,I+T_masked
+mv_2575,D,D,B,nan,I+T_masked
+mv_2576,D,D,B,nan,I+T_masked
+mv_2577,D,D,B,nan,I+T_masked
+mv_2578,D,D,B,nan,I+T_masked
+mv_2580,C,C,(C),nan,I+T_masked
+mv_2581,C,C,(C),nan,I+T_masked
+mv_2582,C,C,(C),nan,I+T_masked
+mv_2583,C,C,(C),nan,I+T_masked
+mv_2585,B.$x>[NUM]$,B,(C),nan,I+T_masked
+mv_2586,B.$x>[NUM]$,B,(C),nan,I+T_masked
+mv_2587,B.$x>[NUM]$,B,(C),nan,I+T_masked
+mv_2588,B.$x>[NUM]$,B,(C),nan,I+T_masked
+mv_2590,10,10,4,5.0,I+T_masked
+mv_2591,10,10,4,5.0,I+T_masked
+mv_2592,10,10,4,5.0,I+T_masked
+mv_2593,1.5,1.5,4,5.0,I+T_masked
+mv_2595,15,15,7,8.0,I+T_masked
+mv_2596,10,10,7,8.0,I+T_masked
+mv_2597,10,10,7,8.0,I+T_masked
+mv_2598,1000,1000,7,8.0,I+T_masked
+mv_2600,C,C,(B),nan,I+T_masked
+mv_2601,A,A,(B),nan,I+T_masked
+mv_2602,A,A,(B),nan,I+T_masked
+mv_2603,A,A,(B),nan,I+T_masked
+mv_2605,[NUM],[NUM],5,6.0,I+T_masked
+mv_2606,10,10,5,6.0,I+T_masked
+mv_2607,10,10,5,6.0,I+T_masked
+mv_2608,10,10,5,6.0,I+T_masked
+mv_2610,B,B,(B),nan,I+T_masked
+mv_2611,B,B,(B),nan,I+T_masked
+mv_2612,B,B,(B),nan,I+T_masked
+mv_2613,B,B,(B),nan,I+T_masked
+mv_2615,A,A,E,nan,I+T_masked
+mv_2616,A,A,E,nan,I+T_masked
+mv_2617,A,A,E,nan,I+T_masked
+mv_2618,A,A,E,nan,I+T_masked
+mv_2620,E,E,F,nan,I+T_masked
+mv_2621,A,A,F,nan,I+T_masked
+mv_2622,A,A,F,nan,I+T_masked
+mv_2623,A,A,F,nan,I+T_masked
+mv_2625,A,A,F,nan,I+T_masked
+mv_2626,A,A,F,nan,I+T_masked
+mv_2627,A,A,F,nan,I+T_masked
+mv_2628,A,A,F,nan,I+T_masked
+mv_2630,A,A,D,nan,I+T_masked
+mv_2631,A,A,D,nan,I+T_masked
+mv_2632,A,A,D,nan,I+T_masked
+mv_2633,A,A,D,nan,I+T_masked
+mv_2635,A,A,E,nan,I+T_masked
+mv_2636,A,A,E,nan,I+T_masked
+mv_2637,A,A,E,nan,I+T_masked
+mv_2638,A,A,E,nan,I+T_masked
+mv_2640,[NUM],[NUM],0.2,1.2,I+T_masked
+mv_2641,2,2,0.2,1.2,I+T_masked
+mv_2642,y = 3x + 2,3,0.2,1.2,I+T_masked
+mv_2643,2,2,0.2,1.2,I+T_masked
+mv_2645,[NUM],[NUM],-5.35,-6.42,I+T_masked
+mv_2646,0.5,0.5,-5.35,-6.42,I+T_masked
+mv_2647,2x^2 + 3x - 1,2,-5.35,-6.42,I+T_masked
+mv_2648,0.5,0.5,-5.35,-6.42,I+T_masked
+mv_2650,[NUM],[NUM],2,4.0,I+T_masked
+mv_2651,1,1,2,4.0,I+T_masked
+mv_2652,2x^2 - 4x + 3,2,2,4.0,I+T_masked
+mv_2653,1,1,2,4.0,I+T_masked
+mv_2655,[NUM],[NUM],7.7,9.24,I+T_masked
+mv_2656,2x^2 + 13x + 13,2,7.7,9.24,I+T_masked
+mv_2657,2x^2 + 13x + 13,2,7.7,9.24,I+T_masked
+mv_2658,2x^2 + 13x + 13,2,7.7,9.24,I+T_masked
+mv_2660,[NUM],[NUM],1.5,1.8,I+T_masked
+mv_2661,3.5,3.5,1.5,1.8,I+T_masked
+mv_2662,3.5,3.5,1.5,1.8,I+T_masked
+mv_2663,3.5,3.5,1.5,1.8,I+T_masked
+mv_2665,8,8,3.15,3.78,I+T_masked
+mv_2666,8,8,3.15,3.78,I+T_masked
+mv_2667,8,8,3.15,3.78,I+T_masked
+mv_2668,8,8,3.15,3.78,I+T_masked
+mv_2670,[NUM],[NUM],4.6,5.52,I+T_masked
+mv_2671,1,1,4.6,5.52,I+T_masked
+mv_2672,3,3,4.6,5.52,I+T_masked
+mv_2673,1,1,4.6,5.52,I+T_masked
+mv_2675,[NUM],[NUM],5.3,6.36,I+T_masked
+mv_2676,1,1,5.3,6.36,I+T_masked
+mv_2677,2,2,5.3,6.36,I+T_masked
+mv_2678,1,1,5.3,6.36,I+T_masked
+mv_2680,2π,2,\pi,nan,I+T_masked
+mv_2681,2π,2,\pi,nan,I+T_masked
+mv_2682,0.8,0.8,\pi,nan,I+T_masked
+mv_2683,2π,2,\pi,nan,I+T_masked
+mv_2685,2π,2,{8}{5} \pi,nan,I+T_masked
+mv_2686,2π,2,{8}{5} \pi,nan,I+T_masked
+mv_2687,1.0,1.0,{8}{5} \pi,nan,I+T_masked
+mv_2688,2π,2,{8}{5} \pi,nan,I+T_masked
+mv_2690,2π,2,4 \pi,nan,I+T_masked
+mv_2691,2π,2,4 \pi,nan,I+T_masked
+mv_2692,1.5,1.5,4 \pi,nan,I+T_masked
+mv_2693,2π,2,4 \pi,nan,I+T_masked
+mv_2695,2π,2,14,17.0,I+T_masked
+mv_2696,2π,2,14,17.0,I+T_masked
+mv_2697,1.5,1.5,14,17.0,I+T_masked
+mv_2698,2π,2,14,17.0,I+T_masked
+mv_2700,[NUM],[NUM],3,4.0,I+T_masked
+mv_2701,1/2,1,3,4.0,I+T_masked
+mv_2702,1.5,1.5,3,4.0,I+T_masked
+mv_2703,1/2,1,3,4.0,I+T_masked
+mv_2705,[NUM],[NUM],6.5,7.8,I+T_masked
+mv_2706,1,1,6.5,7.8,I+T_masked
+mv_2707,1,1,6.5,7.8,I+T_masked
+mv_2708,1,1,6.5,7.8,I+T_masked
+mv_2710,f(x) = 2x - 3,2,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_masked
+mv_2711,f(x) = sin(x),f(x),3 \cos (2 \pi x+4 \pi)-6,nan,I+T_masked
+mv_2712,f(x) = 2x + 3,2,3 \cos (2 \pi x+4 \pi)-6,nan,I+T_masked
+mv_2713,f(x) = sin(x),f(x),3 \cos (2 \pi x+4 \pi)-6,nan,I+T_masked
+mv_2715,B,B,C,nan,I+T_masked
+mv_2716,B,B,C,nan,I+T_masked
+mv_2717,B,B,C,nan,I+T_masked
+mv_2718,B,B,C,nan,I+T_masked
+mv_2720,B,B,B,nan,I+T_masked
+mv_2721,B,B,B,nan,I+T_masked
+mv_2722,B,B,B,nan,I+T_masked
+mv_2723,B,B,B,nan,I+T_masked
+mv_2725,A,A,A,nan,I+T_masked
+mv_2726,A,A,A,nan,I+T_masked
+mv_2727,A,A,A,nan,I+T_masked
+mv_2728,A,A,A,nan,I+T_masked
+mv_2730,h(x) = a cos(b x + c) + d,A,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_masked
+mv_2731,h(x) = sin(x),h(x),3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_masked
+mv_2732,h(x) = 10 - 3x,10,3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_masked
+mv_2733,h(x) = sin(x),h(x),3.5 \cos \left(\frac{2}{3} x+\frac{4 \pi}{3}\right)-0.5,nan,I+T_masked
+mv_2735,A,A,A,nan,I+T_masked
+mv_2736,A,A,A,nan,I+T_masked
+mv_2737,B,B,A,nan,I+T_masked
+mv_2738,A,A,A,nan,I+T_masked
+mv_2740,12,12,12.5,15.0,I+T_masked
+mv_2741,12,12,12.5,15.0,I+T_masked
+mv_2742,12,12,12.5,15.0,I+T_masked
+mv_2743,12,12,12.5,15.0,I+T_masked
+mv_2745,A,A,B,nan,I+T_masked
+mv_2746,A,A,B,nan,I+T_masked
+mv_2747,A,A,B,nan,I+T_masked
+mv_2748,A,A,B,nan,I+T_masked
+mv_2750,A,A,B,nan,I+T_masked
+mv_2751,A,A,B,nan,I+T_masked
+mv_2752,A,A,B,nan,I+T_masked
+mv_2753,A,A,B,nan,I+T_masked
+mv_2755,E,E,E,nan,I+T_masked
+mv_2756,E,E,E,nan,I+T_masked
+mv_2757,E,E,E,nan,I+T_masked
+mv_2758,E,E,E,nan,I+T_masked
+mv_2760,E,E,D,nan,I+T_masked
+mv_2761,A,A,D,nan,I+T_masked
+mv_2762,A,A,D,nan,I+T_masked
+mv_2763,A,A,D,nan,I+T_masked
+mv_2765,A,A,B,nan,I+T_masked
+mv_2766,A,A,B,nan,I+T_masked
+mv_2767,C,C,B,nan,I+T_masked
+mv_2768,A,A,B,nan,I+T_masked
+mv_2770,B,B,"A
+C",nan,I+T_masked
+mv_2771,B,B,"A
+C",nan,I+T_masked
+mv_2772,B,B,"A
+C",nan,I+T_masked
+mv_2773,B,B,"A
+C",nan,I+T_masked
+mv_2775,0.0,0.0,"-4.9
+-4.9",nan,I+T_masked
+mv_2776,0.00,0.00,"-4.9
+-4.9",nan,I+T_masked
+mv_2777,0.00,0.00,"-4.9
+-4.9",nan,I+T_masked
+mv_2778,0.00,0.00,"-4.9
+-4.9",nan,I+T_masked
+mv_2780,0,0,-1,1.0,I+T_masked
+mv_2781,0,0,-1,1.0,I+T_masked
+mv_2782,0,0,-1,1.0,I+T_masked
+mv_2783,0,0,-1,1.0,I+T_masked
+mv_2785,A,A,C,nan,I+T_masked
+mv_2786,A,A,C,nan,I+T_masked
+mv_2787,A,A,C,nan,I+T_masked
+mv_2788,A,A,C,nan,I+T_masked
+mv_2790,B,B,A,nan,I+T_masked
+mv_2791,B,B,A,nan,I+T_masked
+mv_2792,B,B,A,nan,I+T_masked
+mv_2793,B,B,A,nan,I+T_masked
+mv_2795,D,D,B,nan,I+T_masked
+mv_2796,D,D,B,nan,I+T_masked
+mv_2797,D,D,B,nan,I+T_masked
+mv_2798,D,D,B,nan,I+T_masked
+mv_2800,C,C,C,nan,I+T_masked
+mv_2801,C,C,C,nan,I+T_masked
+mv_2802,C,C,C,nan,I+T_masked
+mv_2803,C,C,C,nan,I+T_masked
+mv_2805,C,C,B,nan,I+T_masked
+mv_2806,C,C,B,nan,I+T_masked
+mv_2807,C,C,B,nan,I+T_masked
+mv_2808,C,C,B,nan,I+T_masked
+mv_2810,C,C,B,nan,I+T_masked
+mv_2811,C,C,B,nan,I+T_masked
+mv_2812,C,C,B,nan,I+T_masked
+mv_2813,C,C,B,nan,I+T_masked
+mv_2815,A,A,B,nan,I+T_masked
+mv_2816,A,A,B,nan,I+T_masked
+mv_2817,A,A,B,nan,I+T_masked
+mv_2818,A,A,B,nan,I+T_masked
+mv_2820,A,A,B,nan,I+T_masked
+mv_2821,B,B,B,nan,I+T_masked
+mv_2822,B,B,B,nan,I+T_masked
+mv_2823,B,B,B,nan,I+T_masked
+mv_2825,A,A,A,nan,I+T_masked
+mv_2826,B,B,A,nan,I+T_masked
+mv_2827,B,B,A,nan,I+T_masked
+mv_2828,B,B,A,nan,I+T_masked
+mv_2830,C,C,C,nan,I+T_masked
+mv_2831,C,C,C,nan,I+T_masked
+mv_2832,C,C,C,nan,I+T_masked
+mv_2833,C,C,C,nan,I+T_masked
+mv_2835,g(x) = x^[NUM] - 3,3,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_masked
+mv_2836,g(x) = 1/x,1,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_masked
+mv_2837,g(x) = 1/x,1,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_masked
+mv_2838,g(x) = 1/x,1,\[g(x)=(x + 4)^2 - 5\].,nan,I+T_masked
+mv_2840,g(x) = x^[NUM] - 3,3,g(x)=x^2-3,nan,I+T_masked
+mv_2841,g(x) = 1/x,1,g(x)=x^2-3,nan,I+T_masked
+mv_2842,g(x) = 1/x,1,g(x)=x^2-3,nan,I+T_masked
+mv_2843,g(x) = 1/x,1,g(x)=x^2-3,nan,I+T_masked
+mv_2845,g(x) = x^2,2,0.75 x^2,nan,I+T_masked
+mv_2846,g(x) = 1/x,1,0.75 x^2,nan,I+T_masked
+mv_2847,g(x) = 1/x,1,0.75 x^2,nan,I+T_masked
+mv_2848,g(x) = 1/x,1,0.75 x^2,nan,I+T_masked
+mv_2850,y = -x^2 + 1,2,g(x)=-x^2,nan,I+T_masked
+mv_2851,y = 0.5x - 0.25,0.5,g(x)=-x^2,nan,I+T_masked
+mv_2852,y = 0.5x - 0.25,0.5,g(x)=-x^2,nan,I+T_masked
+mv_2853,y = 0.5x - 0.25,0.5,g(x)=-x^2,nan,I+T_masked
+mv_2855,B,B,C,nan,I+T_masked
+mv_2856,B,B,C,nan,I+T_masked
+mv_2857,B,B,C,nan,I+T_masked
+mv_2858,B,B,C,nan,I+T_masked
+mv_2860,g(x) = x^3,3,g(x)=(x+2)^2+1,nan,I+T_masked
+mv_2861,g(x) = 1/x,1,g(x)=(x+2)^2+1,nan,I+T_masked
+mv_2862,g(x) = 1/x,1,g(x)=(x+2)^2+1,nan,I+T_masked
+mv_2863,g(x) = 1/x,1,g(x)=(x+2)^2+1,nan,I+T_masked
+mv_2865,B,B,D,nan,I+T_masked
+mv_2866,B,B,D,nan,I+T_masked
+mv_2867,B,B,D,nan,I+T_masked
+mv_2868,B,B,D,nan,I+T_masked
+mv_2870,A,A,C,nan,I+T_masked
+mv_2871,A,A,C,nan,I+T_masked
+mv_2872,A,A,C,nan,I+T_masked
+mv_2873,A,A,C,nan,I+T_masked
+mv_2875,A,A,A,nan,I+T_masked
+mv_2876,A,A,A,nan,I+T_masked
+mv_2877,D,D,A,nan,I+T_masked
+mv_2878,A,A,A,nan,I+T_masked
+mv_2880,A:p(x)=x(x-[NUM])^[NUM]([NUM] x+[NUM]),A,A,nan,I+T_masked
+mv_2881,B,B,A,nan,I+T_masked
+mv_2882,B,B,A,nan,I+T_masked
+mv_2883,B,B,A,nan,I+T_masked
+mv_2885,[NUM],[NUM],2500,3000.0,I+T_masked
+mv_2886,1200,1200,2500,3000.0,I+T_masked
+mv_2887,1200,1200,2500,3000.0,I+T_masked
+mv_2888,1200,1200,2500,3000.0,I+T_masked
+mv_2890,A:$Q=([NUM])^{t}$,A,C,nan,I+T_masked
+mv_2891,A,A,C,nan,I+T_masked
+mv_2892,A,A,C,nan,I+T_masked
+mv_2893,A,A,C,nan,I+T_masked
+mv_2895,100,100,$13 \%$,nan,I+T_masked
+mv_2896,100,100,$13 \%$,nan,I+T_masked
+mv_2897,100,100,$13 \%$,nan,I+T_masked
+mv_2898,100,100,$13 \%$,nan,I+T_masked
+mv_2900,A,A,A,nan,I+T_masked
+mv_2901,A,A,A,nan,I+T_masked
+mv_2902,A,A,A,nan,I+T_masked
+mv_2903,A,A,A,nan,I+T_masked
+mv_2905,A,A,A,nan,I+T_masked
+mv_2906,A,A,A,nan,I+T_masked
+mv_2907,A,A,A,nan,I+T_masked
+mv_2908,A,A,A,nan,I+T_masked
+mv_2910,A,A,A,nan,I+T_masked
+mv_2911,B,B,A,nan,I+T_masked
+mv_2912,B,B,A,nan,I+T_masked
+mv_2913,B,B,A,nan,I+T_masked
+mv_2915,A,A,B,nan,I+T_masked
+mv_2916,B,B,B,nan,I+T_masked
+mv_2917,B,B,B,nan,I+T_masked
+mv_2918,B,B,B,nan,I+T_masked
+mv_2920,A,A,A,nan,I+T_masked
+mv_2921,A,A,A,nan,I+T_masked
+mv_2922,A,A,A,nan,I+T_masked
+mv_2923,A,A,A,nan,I+T_masked
+mv_2925,A,A,A,nan,I+T_masked
+mv_2926,A,A,A,nan,I+T_masked
+mv_2927,A,A,A,nan,I+T_masked
+mv_2928,A,A,A,nan,I+T_masked
+mv_2930,A,A,B,nan,I+T_masked
+mv_2931,A,A,B,nan,I+T_masked
+mv_2932,A,A,B,nan,I+T_masked
+mv_2933,A,A,B,nan,I+T_masked
+mv_2935,g(x) = f(x) + 1,1,$g(x)=\ln x+4$,nan,I+T_masked
+mv_2936,g(x) = f(x) + 1,1,$g(x)=\ln x+4$,nan,I+T_masked
+mv_2937,g(x) = ln(x),g(x),$g(x)=\ln x+4$,nan,I+T_masked
+mv_2938,g(x) = log(f(x)),g(x),$g(x)=\ln x+4$,nan,I+T_masked
+mv_2940,A,A,A,nan,I+T_masked
+mv_2941,B,B,A,nan,I+T_masked
+mv_2942,A,A,A,nan,I+T_masked
+mv_2943,A,A,A,nan,I+T_masked
+mv_2945,D,D,D,nan,I+T_masked
+mv_2946,D,D,D,nan,I+T_masked
+mv_2947,D,D,D,nan,I+T_masked
+mv_2948,D,D,D,nan,I+T_masked
+mv_2950,1,1,-2,0.0,I+T_masked
+mv_2951,1,1,-2,0.0,I+T_masked
+mv_2952,1,1,-2,0.0,I+T_masked
+mv_2953,1,1,-2,0.0,I+T_masked
+mv_2955,1,1,=\frac{7}{4},nan,I+T_masked
+mv_2956,1,1,=\frac{7}{4},nan,I+T_masked
+mv_2957,1,1,=\frac{7}{4},nan,I+T_masked
+mv_2958,1,1,=\frac{7}{4},nan,I+T_masked
+mv_2960,y = 0,0,$x=0$,nan,I+T_masked
+mv_2961,0,0,$x=0$,nan,I+T_masked
+mv_2962,0,0,$x=0$,nan,I+T_masked
+mv_2963,0,0,$x=0$,nan,I+T_masked
+mv_2965,A,A,B,nan,I+T_masked
+mv_2966,A,A,B,nan,I+T_masked
+mv_2967,A,A,B,nan,I+T_masked
+mv_2968,A,A,B,nan,I+T_masked
+mv_2970,y = 0.5 x + 0.5,0.5,$y=x-5$,nan,I+T_masked
+mv_2971,y = 3.5 x + 0.5,3.5,$y=x-5$,nan,I+T_masked
+mv_2972,y = 3.5 x + 0.5,3.5,$y=x-5$,nan,I+T_masked
+mv_2973,y = 3.5 x + 0.5,3.5,$y=x-5$,nan,I+T_masked
+mv_2975,y = -x + 5,5,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2976,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2977,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2978,y = 6 - 2x,6,$y+3=\frac{3}{4}(x-2)$,nan,I+T_masked
+mv_2980,B,B,D,nan,I+T_masked
+mv_2981,A,A,D,nan,I+T_masked
+mv_2982,A,A,D,nan,I+T_masked
+mv_2983,A,A,D,nan,I+T_masked
+mv_2985,A,A,A,nan,I+T_masked
+mv_2986,A,A,A,nan,I+T_masked
+mv_2987,A,A,A,nan,I+T_masked
+mv_2988,A,A,A,nan,I+T_masked
+mv_2990,y[NUM] = x[NUM],y[NUM],$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_masked
+mv_2991,y[NUM] = x[NUM],y[NUM],$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_masked
+mv_2992,y[NUM] = x[NUM],y[NUM],$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_masked
+mv_2993,y,y,$y_2=(x+2)^3=y_1(x+2)$,nan,I+T_masked
+mv_2995,A,A,$72 x-2 x^3$,nan,I+T_masked
+mv_2996,A,A,$72 x-2 x^3$,nan,I+T_masked
+mv_2997,A,A,$72 x-2 x^3$,nan,I+T_masked
+mv_2998,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,$72 x-2 x^3$,nan,I+T_masked
+mv_3000,y = -x + 5,5,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_3001,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_3002,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_3003,y = 6x,6,$y-3=\frac{2}{3}(x-8)$,nan,I+T_masked
+mv_3005,"[0.0, 0.0, 1.0, 0.99]",0.0,"$[-5,-3) \cup(-3,5]$",nan,I+T_masked
+mv_3006,"[0.0, 0.0, 1.0, 0.99]",0.0,"$[-5,-3) \cup(-3,5]$",nan,I+T_masked
+mv_3007,"[0.0, 0.0, 1.0, 0.99]",0.0,"$[-5,-3) \cup(-3,5]$",nan,I+T_masked
+mv_3008,"[0.0, 0.0, 1.0, 0.99]",0.0,"$[-5,-3) \cup(-3,5]$",nan,I+T_masked
+mv_3010,B,B,B,nan,I+T_masked
+mv_3011,B,B,B,nan,I+T_masked
+mv_3012,B,B,B,nan,I+T_masked
+mv_3013,B,B,B,nan,I+T_masked
+mv_3015,10,10,$10km / h$,nan,I+T_masked
+mv_3016,10,10,$10km / h$,nan,I+T_masked
+mv_3017,10,10,$10km / h$,nan,I+T_masked
+mv_3018,10,10,$10km / h$,nan,I+T_masked
+mv_3020,0.0,0.0,1.6,1.92,I+T_masked
+mv_3021,0.0,0.0,1.6,1.92,I+T_masked
+mv_3022,0.0,0.0,1.6,1.92,I+T_masked
+mv_3023,0.0,0.0,1.6,1.92,I+T_masked
+mv_3025,0.0,0.0,$\frac{9}{10}$,nan,I+T_masked
+mv_3026,1.5,1.5,$\frac{9}{10}$,nan,I+T_masked
+mv_3027,1.5,1.5,$\frac{9}{10}$,nan,I+T_masked
+mv_3028,1.5,1.5,$\frac{9}{10}$,nan,I+T_masked
+mv_3030,A,A,A,nan,I+T_masked
+mv_3031,A,A,A,nan,I+T_masked
+mv_3032,A,A,A,nan,I+T_masked
+mv_3033,A,A,A,nan,I+T_masked
+mv_3035,1.5,1.5,$\frac{1}{2000}$,nan,I+T_masked
+mv_3036,10,10,$\frac{1}{2000}$,nan,I+T_masked
+mv_3037,10,10,$\frac{1}{2000}$,nan,I+T_masked
+mv_3038,10,10,$\frac{1}{2000}$,nan,I+T_masked
+mv_3040,C,C,C,nan,I+T_masked
+mv_3041,C,C,C,nan,I+T_masked
+mv_3042,C,C,C,nan,I+T_masked
+mv_3043,C,C,C,nan,I+T_masked
+mv_3045,1,1,0,1.0,I+T_masked
+mv_3046,1,1,0,1.0,I+T_masked
+mv_3047,1,1,0,1.0,I+T_masked
+mv_3048,1,1,0,1.0,I+T_masked
+mv_3050,A,A,B,nan,I+T_masked
+mv_3051,A,A,B,nan,I+T_masked
+mv_3052,A,A,B,nan,I+T_masked
+mv_3053,A,A,B,nan,I+T_masked
+mv_3055,A,A,B,nan,I+T_masked
+mv_3056,A,A,B,nan,I+T_masked
+mv_3057,A,A,B,nan,I+T_masked
+mv_3058,A,A,B,nan,I+T_masked
+mv_3060,D,D,D,nan,I+T_masked
+mv_3061,D,D,D,nan,I+T_masked
+mv_3062,D,D,D,nan,I+T_masked
+mv_3063,D,D,D,nan,I+T_masked
+mv_3065,A,A,D,nan,I+T_masked
+mv_3066,A,A,D,nan,I+T_masked
+mv_3067,A,A,D,nan,I+T_masked
+mv_3068,A,A,D,nan,I+T_masked
+mv_3070,D,D,A,nan,I+T_masked
+mv_3071,D,D,A,nan,I+T_masked
+mv_3072,D,D,A,nan,I+T_masked
+mv_3073,D,D,A,nan,I+T_masked
+mv_3075,D,D,A,nan,I+T_masked
+mv_3076,D,D,A,nan,I+T_masked
+mv_3077,D,D,A,nan,I+T_masked
+mv_3078,D,D,A,nan,I+T_masked
+mv_3080,D,D,B,nan,I+T_masked
+mv_3081,D,D,B,nan,I+T_masked
+mv_3082,D,D,B,nan,I+T_masked
+mv_3083,D,D,B,nan,I+T_masked
+mv_3085,A,A,B,nan,I+T_masked
+mv_3086,A,A,B,nan,I+T_masked
+mv_3087,A,A,B,nan,I+T_masked
+mv_3088,A,A,B,nan,I+T_masked
+mv_3090,10,10,8,10.0,I+T_masked
+mv_3091,10,10,8,10.0,I+T_masked
+mv_3092,10,10,8,10.0,I+T_masked
+mv_3093,10,10,8,10.0,I+T_masked
+mv_3095,B,B,B,nan,I+T_masked
+mv_3096,B,B,B,nan,I+T_masked
+mv_3097,B,B,B,nan,I+T_masked
+mv_3098,B,B,B,nan,I+T_masked
+mv_3100,A,A,B,nan,I+T_masked
+mv_3101,B,B,B,nan,I+T_masked
+mv_3102,B,B,B,nan,I+T_masked
+mv_3103,B,B,B,nan,I+T_masked
+mv_3105,A,A,C,nan,I+T_masked
+mv_3106,A,A,C,nan,I+T_masked
+mv_3107,A,A,C,nan,I+T_masked
+mv_3108,A,A,C,nan,I+T_masked
+mv_3110,120,120,90,108.0,I+T_masked
+mv_3111,120,120,90,108.0,I+T_masked
+mv_3112,120,120,90,108.0,I+T_masked
+mv_3113,120,120,90,108.0,I+T_masked
+mv_3115,y = 15t,15,y=-2 t+180,nan,I+T_masked
+mv_3116,y = 15t,15,y=-2 t+180,nan,I+T_masked
+mv_3117,y = 15t,15,y=-2 t+180,nan,I+T_masked
+mv_3118,y = 15t,15,y=-2 t+180,nan,I+T_masked
+mv_3120,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_3121,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_3122,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_3123,"$(10, 10)$",10,"Center $=(20,10)$",nan,I+T_masked
+mv_3125,"(0, 10)",0,"$=(4,0)$",nan,I+T_masked
+mv_3126,"(0, 10)",0,"$=(4,0)$",nan,I+T_masked
+mv_3127,"$(0, 10)$",0,"$=(4,0)$",nan,I+T_masked
+mv_3128,"(0, 0)",0,"$=(4,0)$",nan,I+T_masked
+mv_3130,"(0, -[NUM])",0,"$(4,0)$",nan,I+T_masked
+mv_3131,"(0, 10)",0,"$(4,0)$",nan,I+T_masked
+mv_3132,"(0, 10)",0,"$(4,0)$",nan,I+T_masked
+mv_3133,"$(0, 10)$",0,"$(4,0)$",nan,I+T_masked
+mv_3135,"$(10, 10)$",10,"$(0,14)$",nan,I+T_masked
+mv_3136,"$(10, 10)$",10,"$(0,14)$",nan,I+T_masked
+mv_3137,"$(10, 10)$",10,"$(0,14)$",nan,I+T_masked
+mv_3138,"$(10, 10)$",10,"$(0,14)$",nan,I+T_masked
+mv_3140,200,200,Bugs Bunny,nan,I+T_masked
+mv_3141,100,100,Bugs Bunny,nan,I+T_masked
+mv_3142,100,100,Bugs Bunny,nan,I+T_masked
+mv_3143,100,100,Bugs Bunny,nan,I+T_masked
+mv_3145,[NUM],[NUM],"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_masked
+mv_3146,"[0.42, 0.5, 0.5, 0.58]",0.42,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_masked
+mv_3147,"[0.42, 0.5, 0.5, 0.59]",0.42,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_masked
+mv_3148,"[0.42, 0.39, 0.52, 0.48]",0.42,"y=\sin x=\left(90^\circ ,5\right)",nan,I+T_masked
+mv_3150,"[0.3, 0.49, 0.4, 0.58]",0.3,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_masked
+mv_3151,"[0.42, 0.49, 0.5, 0.58]",0.42,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_masked
+mv_3152,"[0.42, 0.5, 0.5, 0.58]",0.42,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_masked
+mv_3153,"[0.42, 0.49, 0.5, 0.58]",0.42,"\left(x,y\right)=\left(270^\circ ,5\right)",nan,I+T_masked
+mv_3155,[NUM],[NUM],"\left(315^\circ ,1\right)",nan,I+T_masked
+mv_3156,"[0.42, 0.5, 0.52, 0.59]",0.42,"\left(315^\circ ,1\right)",nan,I+T_masked
+mv_3157,"[0.42, 0.5, 0.5, 0.59]",0.42,"\left(315^\circ ,1\right)",nan,I+T_masked
+mv_3158,"[0.42, 0.49, 0.52, 0.58]",0.42,"\left(315^\circ ,1\right)",nan,I+T_masked
+mv_3160,[NUM],[NUM],"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_masked
+mv_3161,"[0.3, 0.49, 0.4, 0.59]",0.3,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_masked
+mv_3162,"[0.3, 0.49, 0.4, 0.58]",0.3,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_masked
+mv_3163,"[0.3, 0.49, 0.4, 0.59]",0.3,"$(x, y)=\left(90^{\circ}, 5\right)$",nan,I+T_masked
+mv_3165,[NUM],[NUM],"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_masked
+mv_3166,"[0.42, 0.5, 0.5, 0.58]",0.42,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_masked
+mv_3167,"[0.42, 0.5, 0.5, 0.58]",0.42,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_masked
+mv_3168,"[0.42, 0.5, 0.5, 0.58]",0.42,"$(x, y)=\left(315^{\circ}, 1\right)$",nan,I+T_masked
+mv_3170,[NUM]m,[NUM]m,diameter $=10 \mathrm{~m}$,nan,I+T_masked
+mv_3171,13,13,diameter $=10 \mathrm{~m}$,nan,I+T_masked
+mv_3172,13,13,diameter $=10 \mathrm{~m}$,nan,I+T_masked
+mv_3173,13,13,diameter $=10 \mathrm{~m}$,nan,I+T_masked
+mv_3175,12,12,$r=5$,nan,I+T_masked
+mv_3176,12,12,$r=5$,nan,I+T_masked
+mv_3177,12,12,$r=5$,nan,I+T_masked
+mv_3178,12,12,$r=5$,nan,I+T_masked
+mv_3180,11.5,11.5,$y=21.61$,nan,I+T_masked
+mv_3181,11.5,11.5,$y=21.61$,nan,I+T_masked
+mv_3182,11.5,11.5,$y=21.61$,nan,I+T_masked
+mv_3183,11.5 cm,11.5 cm,$y=21.61$,nan,I+T_masked
+mv_3185,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3186,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3187,0.00,0.00,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3188,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Area $=124.85 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3190,0.00,0.00,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_masked
+mv_3191,0.00,0.00,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_masked
+mv_3192,0.00,0.00,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_masked
+mv_3193,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=1633.63 \mathrm{~m}^{3}$,nan,I+T_masked
+mv_3195,1.18,1.18,Weight $=63.3 \mathrm{~g}$,nan,I+T_masked
+mv_3196,1.28,1.28,Weight $=63.3 \mathrm{~g}$,nan,I+T_masked
+mv_3197,1.28,1.28,Weight $=63.3 \mathrm{~g}$,nan,I+T_masked
+mv_3198,1.28,1.28,Weight $=63.3 \mathrm{~g}$,nan,I+T_masked
+mv_3200,10.0,10.0,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3201,1.43,1.43,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3202,1.43,1.43,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3203,1.5,1.5,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3205,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3206,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3207,0.0,0.0,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3208,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=883.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3210,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3211,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3212,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3213,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=25.13 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3215,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3216,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3217,0.53,0.53,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3218,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=32.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3220,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3221,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3222,0.00,0.00,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3223,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=10.45 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3225,0.4999999999999999999999999999999999999999999999999999999999999,0.4999999999999999999999999999999999999999999999999999999999999,220.0 \mathrm{~cm}^{3},nan,I+T_masked
+mv_3226,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,220.0 \mathrm{~cm}^{3},nan,I+T_masked
+mv_3227,0.5999999999999999999999999999999999999999999999999999999999999,0.5999999999999999999999999999999999999999999999999999999999999,220.0 \mathrm{~cm}^{3},nan,I+T_masked
+mv_3228,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,220.0 \mathrm{~cm}^{3},nan,I+T_masked
+mv_3230,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,56.55 units $^{3}$,nan,I+T_masked
+mv_3231,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,56.55 units $^{3}$,nan,I+T_masked
+mv_3232,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,56.55 units $^{3}$,nan,I+T_masked
+mv_3233,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,56.55 units $^{3}$,nan,I+T_masked
+mv_3235,1.23,1.23,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3236,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3237,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3238,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=113.10 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3240,1.083,1.083,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3241,1.0,1.0,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3242,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3243,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=33.51 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3245,1.43,1.43,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3246,100,100,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3247,10.5,10.5,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3248,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=508.94 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3250,1.0,1.0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3251,1.0,1.0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3252,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3253,1.0,1.0,Volume $=2854.54 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3255,12.5,12.5,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_masked
+mv_3256,1.00,1.00,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_masked
+mv_3257,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_masked
+mv_3258,1.00,1.00,Volume $=46827.83 \mathrm{~mm}^{3}$,nan,I+T_masked
+mv_3260,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=452.389$ cubic units,nan,I+T_masked
+mv_3261,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=452.389$ cubic units,nan,I+T_masked
+mv_3262,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=452.389$ cubic units,nan,I+T_masked
+mv_3263,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=452.389$ cubic units,nan,I+T_masked
+mv_3265,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3266,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3267,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3268,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=34159.095 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3270,[NUM],[NUM],Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3271,10.0,10.0,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3272,10.0,10.0,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3273,100000000,100000000,Surface Area $=2827.43 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3275,149,149,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3276,49.0,49.0,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3277,49,49,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3278,1.0,1.0,Surface Area $=9236.28 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3280,1000,1000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3281,1000,1000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3282,1000,1000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3283,1000,1000,Surface Area $=109603.88 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3285,1.49,1.49,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3286,1.57,1.57,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3287,1.59,1.59,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3288,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Surface Area $=9.86 \mathrm{~m}^{2}$,nan,I+T_masked
+mv_3290,143,143,$h=58$,nan,I+T_masked
+mv_3291,100,100,$h=58$,nan,I+T_masked
+mv_3292,100,100,$h=58$,nan,I+T_masked
+mv_3293,14.3,14.3,$h=58$,nan,I+T_masked
+mv_3295,100,100,$h=30$,nan,I+T_masked
+mv_3296,79,79,$h=30$,nan,I+T_masked
+mv_3297,79,79,$h=30$,nan,I+T_masked
+mv_3298,79,79,$h=30$,nan,I+T_masked
+mv_3300,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3301,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3302,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3303,100.0,100.0,Surface Area $=603.19 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3305,10.0,10.0,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3306,1000,1000,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3307,1000,1000,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3308,100000000,100000000,$\mathrm{SA}=3298.67 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3310,$A = \pi R^2 + \pi r^2$,A,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_masked
+mv_3311,$A = 2 \pi r^2$,A,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_masked
+mv_3312,$A = \pi L^2$,A,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_masked
+mv_3313,2πr^2,2,Surface area $=2 \pi(R+r)(L+R-r)$ square units,nan,I+T_masked
+mv_3315,11.095,11.095,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3316,11.09 cm²,11.09 cm,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3317,11.09 cm²,11.09 cm,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3318,11.09 cm²,11.09 cm,Surface Area $=1520.53 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3320,10.0,10.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3321,10.0,10.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3322,1.0,1.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3323,10.0,10.0,Surface Area $=254.47 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3325,56.72,56.72,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3326,56.77,56.77,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3327,56.77,56.77,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3328,56.77,56.77,Surface Area $=39647.77 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3330,1.00,1.00,Area $=113.097$ units $^{2}$,nan,I+T_masked
+mv_3331,0.00,0.00,Area $=113.097$ units $^{2}$,nan,I+T_masked
+mv_3332,0.0,0.0,Area $=113.097$ units $^{2}$,nan,I+T_masked
+mv_3333,0.00,0.00,Area $=113.097$ units $^{2}$,nan,I+T_masked
+mv_3335,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_masked
+mv_3336,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_masked
+mv_3337,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_masked
+mv_3338,1.0,1.0,Surface Area $=603.186$ units $^{2}$,nan,I+T_masked
+mv_3340,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_masked
+mv_3341,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_masked
+mv_3342,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_masked
+mv_3343,1.0,1.0,Surface Area $=52647.45$ units $^{2}$,nan,I+T_masked
+mv_3345,100.0,100.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3346,1000,1000,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3347,10.0,10.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3348,10.0,10.0,S.A. of rectangular prism $=4371.46 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3350,25,25,Surface Area $=8128.50$ units $^{2}$,nan,I+T_masked
+mv_3351,25,25,Surface Area $=8128.50$ units $^{2}$,nan,I+T_masked
+mv_3352,25,25,Surface Area $=8128.50$ units $^{2}$,nan,I+T_masked
+mv_3353,1.25,1.25,Surface Area $=8128.50$ units $^{2}$,nan,I+T_masked
+mv_3355,10.0,10.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3356,10.0,10.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3357,10.0,10.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3358,1.0,1.0,Surface Area $=235.87 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3360,10.55 mm²,10.55 m,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3361,10.00,10.00,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3362,10.5,10.5,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3363,10.00,10.00,Total S.A. $=3222.80 \mathrm{~mm}^{2}$,nan,I+T_masked
+mv_3365,1.27 cm²,1.27 cm,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3366,1.0,1.0,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3367,1.27,1.27,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3368,1.25 cm²,1.25 cm,Surface area $=78.5 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3370,15.09 cm²,15.09 cm,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3371,15.0 cm,15.0 cm,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3372,15.0,15.0,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3373,15.0,15.0,Total surface area $=4194.03 \mathrm{~cm}^{2}$,nan,I+T_masked
+mv_3375,12.5,12.5,S.A. $=1209.84$,nan,I+T_masked
+mv_3376,12.5,12.5,S.A. $=1209.84$,nan,I+T_masked
+mv_3377,0.0,0.0,S.A. $=1209.84$,nan,I+T_masked
+mv_3378,12.5 cm²,12.5 cm,S.A. $=1209.84$,nan,I+T_masked
+mv_3380,0.00,0.00,11.83,14.2,I+T_masked
+mv_3381,0.00,0.00,11.83,14.2,I+T_masked
+mv_3382,0.0,0.0,11.83,14.2,I+T_masked
+mv_3383,14.5,14.5,11.83,14.2,I+T_masked
+mv_3385,45.0,45.0,68.34,82.01,I+T_masked
+mv_3386,45.0,45.0,68.34,82.01,I+T_masked
+mv_3387,23.04,23.04,68.34,82.01,I+T_masked
+mv_3388,12.0,12.0,68.34,82.01,I+T_masked
+mv_3390,1.0,1.0,54.74,65.69,I+T_masked
+mv_3391,1.0,1.0,54.74,65.69,I+T_masked
+mv_3392,1,1,54.74,65.69,I+T_masked
+mv_3393,0.0,0.0,54.74,65.69,I+T_masked
+mv_3395,0.5,0.5,10.74,12.89,I+T_masked
+mv_3396,0.5,0.5,10.74,12.89,I+T_masked
+mv_3397,0.3,0.3,10.74,12.89,I+T_masked
+mv_3398,0.39,0.39,10.74,12.89,I+T_masked
+mv_3400,0.0,0.0,75.15 \mathrm{m}^2,nan,I+T_masked
+mv_3401,0.00,0.00,75.15 \mathrm{m}^2,nan,I+T_masked
+mv_3402,0.00,0.00,75.15 \mathrm{m}^2,nan,I+T_masked
+mv_3403,0.00,0.00,75.15 \mathrm{m}^2,nan,I+T_masked
+mv_3405,0.5,0.5,69.30,83.16,I+T_masked
+mv_3406,0.5,0.5,69.30,83.16,I+T_masked
+mv_3407,1.5,1.5,69.30,83.16,I+T_masked
+mv_3408,0.45,0.45,69.30,83.16,I+T_masked
+mv_3410,1/2 AB + 1/2 BD + 1/2 DF,1,\sqrt{AB^2+BD^2+DF^2},nan,I+T_masked
+mv_3411,1/2,1,\sqrt{AB^2+BD^2+DF^2},nan,I+T_masked
+mv_3412,1/2,1,\sqrt{AB^2+BD^2+DF^2},nan,I+T_masked
+mv_3413,1/2,1,\sqrt{AB^2+BD^2+DF^2},nan,I+T_masked
+mv_3415,0.00,0.00,94.59 \mathrm{m}^2,nan,I+T_masked
+mv_3416,0.29,0.29,94.59 \mathrm{m}^2,nan,I+T_masked
+mv_3417,0.29,0.29,94.59 \mathrm{m}^2,nan,I+T_masked
+mv_3418,0.00,0.00,94.59 \mathrm{m}^2,nan,I+T_masked
+mv_3420,13,13,14,17.0,I+T_masked
+mv_3421,13,13,14,17.0,I+T_masked
+mv_3422,13,13,14,17.0,I+T_masked
+mv_3423,L,L,14,17.0,I+T_masked
+mv_3425,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3426,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3427,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3428,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=367.57 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3430,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3431,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3432,0.00,0.00,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3433,100000000000000000000000000000000000000000000000000000000000000,100000000000000000000000000000000000000000000000000000000000000,Volume $=70.7 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3435,[NUM],[NUM],Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3436,0.00,0.00,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3437,0.00,0.00,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3438,0.00,0.00,Volume $=127.2 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3440,0.00,0.00,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3441,0.00,0.00,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3442,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3443,0.00,0.00,Volume $=169.6 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3445,0.00,0.00,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3446,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3447,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3448,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=502.65 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3450,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3451,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3452,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3453,0.00,0.00,Volume $=577.3 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3455,1.59 x 10^-2,1.59,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3456,1.5,1.5,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3457,1.5,1.5,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3458,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=816.81 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3460,15.0,15.0,Weight $=18.63 \mathrm{~kg}$,nan,I+T_masked
+mv_3461,15.5,15.5,Weight $=18.63 \mathrm{~kg}$,nan,I+T_masked
+mv_3462,15.0 g,15.0,Weight $=18.63 \mathrm{~kg}$,nan,I+T_masked
+mv_3463,15.5,15.5,Weight $=18.63 \mathrm{~kg}$,nan,I+T_masked
+mv_3465,100,100,Weekly water intake $=15.5$ Litres,nan,I+T_masked
+mv_3466,100,100,Weekly water intake $=15.5$ Litres,nan,I+T_masked
+mv_3467,100,100,Weekly water intake $=15.5$ Litres,nan,I+T_masked
+mv_3468,100,100,Weekly water intake $=15.5$ Litres,nan,I+T_masked
+mv_3470,0.0,0.0,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3471,0.00,0.00,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3472,0.00,0.00,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3473,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=89.1 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3475,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3476,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3477,0.00,0.00,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3478,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=609.47 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3480,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3481,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3482,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3483,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=874.93 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3485,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3486,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3487,0.00,0.00,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3488,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,Volume $=944.07 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3490,120,120,216.\mathrm{cm}^2,nan,I+T_masked
+mv_3491,125.49 cm²,125.49 cm,216.\mathrm{cm}^2,nan,I+T_masked
+mv_3492,12.56 cm²,12.56 cm,216.\mathrm{cm}^2,nan,I+T_masked
+mv_3493,64 square centimeters,64 s,216.\mathrm{cm}^2,nan,I+T_masked
+mv_3495,[NUM] m^2,2,288 \mathrm{m}^2,nan,I+T_masked
+mv_3496,1.25,1.25,288 \mathrm{m}^2,nan,I+T_masked
+mv_3497,1.25,1.25,288 \mathrm{m}^2,nan,I+T_masked
+mv_3498,12.5 cm²,12.5 cm,288 \mathrm{m}^2,nan,I+T_masked
+mv_3500,120 cm²,120 cm,768 \mathrm{cm}^2,nan,I+T_masked
+mv_3501,120 cm²,120 cm,768 \mathrm{cm}^2,nan,I+T_masked
+mv_3502,12.5 cm²,12.5 cm,768 \mathrm{cm}^2,nan,I+T_masked
+mv_3503,12 cm²,12 cm,768 \mathrm{cm}^2,nan,I+T_masked
+mv_3505,12.0,12.0,528 \mathrm{cm}^2,nan,I+T_masked
+mv_3506,12.8 cm,12.8 cm,528 \mathrm{cm}^2,nan,I+T_masked
+mv_3507,12.5 cm,12.5 cm,528 \mathrm{cm}^2,nan,I+T_masked
+mv_3508,120 cm²,120 cm,528 \mathrm{cm}^2,nan,I+T_masked
+mv_3510,100,100,338 \mathrm{cm}^2,nan,I+T_masked
+mv_3511,100,100,338 \mathrm{cm}^2,nan,I+T_masked
+mv_3512,100,100,338 \mathrm{cm}^2,nan,I+T_masked
+mv_3513,18 cm²,18 cm,338 \mathrm{cm}^2,nan,I+T_masked
+mv_3515,117.5 cm,117.5 cm,534 \mathrm{cm}^2,nan,I+T_masked
+mv_3516,117.5 cm²,117.5 cm,534 \mathrm{cm}^2,nan,I+T_masked
+mv_3517,17.25 cm²,17.25 cm,534 \mathrm{cm}^2,nan,I+T_masked
+mv_3518,117.5 cm²,117.5 cm,534 \mathrm{cm}^2,nan,I+T_masked
+mv_3520,13.5 cm,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_masked
+mv_3521,13.5 cm,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_masked
+mv_3522,13.5 cm,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_masked
+mv_3523,13.5 cm²,13.5 cm,577.0 \mathrm{cm}^2,nan,I+T_masked
+mv_3525,12.5 cm^2,12.5 cm,608 \mathrm{cm}^2,nan,I+T_masked
+mv_3526,120 cm,120 cm,608 \mathrm{cm}^2,nan,I+T_masked
+mv_3527,12 cm²,12 cm,608 \mathrm{cm}^2,nan,I+T_masked
+mv_3528,12 cm²,12 cm,608 \mathrm{cm}^2,nan,I+T_masked
+mv_3530,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_masked
+mv_3531,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_masked
+mv_3532,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_masked
+mv_3533,12.0,12.0,200.49 \mathrm{cm}^2,nan,I+T_masked
+mv_3535,12,12,120 \mathrm{cm}^2,nan,I+T_masked
+mv_3536,12,12,120 \mathrm{cm}^2,nan,I+T_masked
+mv_3537,12.5 cm²,12.5 cm,120 \mathrm{cm}^2,nan,I+T_masked
+mv_3538,12,12,120 \mathrm{cm}^2,nan,I+T_masked
+mv_3540,12.5,12.5,256.2 \mathrm{m}^2,nan,I+T_masked
+mv_3541,1.0,1.0,256.2 \mathrm{m}^2,nan,I+T_masked
+mv_3542,0.01,0.01,256.2 \mathrm{m}^2,nan,I+T_masked
+mv_3543,1.0,1.0,256.2 \mathrm{m}^2,nan,I+T_masked
+mv_3545,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_masked
+mv_3546,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_masked
+mv_3547,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_masked
+mv_3548,10.0,10.0,122.52 \mathrm{cm}^2,nan,I+T_masked
+mv_3550,12.59,12.59,91.11 \mathrm{cm}^2,nan,I+T_masked
+mv_3551,12.56,12.56,91.11 \mathrm{cm}^2,nan,I+T_masked
+mv_3552,1.49,1.49,91.11 \mathrm{cm}^2,nan,I+T_masked
+mv_3553,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,91.11 \mathrm{cm}^2,nan,I+T_masked
+mv_3555,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_masked
+mv_3556,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_masked
+mv_3557,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_masked
+mv_3558,10.0,10.0,288.6 \mathrm{m}^2,nan,I+T_masked
+mv_3560,12.37,12.37,651.82 \mathrm{cm}^2,nan,I+T_masked
+mv_3561,12.37,12.37,651.82 \mathrm{cm}^2,nan,I+T_masked
+mv_3562,12.37,12.37,651.82 \mathrm{cm}^2,nan,I+T_masked
+mv_3563,12.75,12.75,651.82 \mathrm{cm}^2,nan,I+T_masked
+mv_3565,100,100,323.10 \mathrm{m}^2,nan,I+T_masked
+mv_3566,10.0,10.0,323.10 \mathrm{m}^2,nan,I+T_masked
+mv_3567,1.0,1.0,323.10 \mathrm{m}^2,nan,I+T_masked
+mv_3568,10.0,10.0,323.10 \mathrm{m}^2,nan,I+T_masked
+mv_3570,0.00,0.00,520.55 \mathrm{cm}^2,nan,I+T_masked
+mv_3571,0.00,0.00,520.55 \mathrm{cm}^2,nan,I+T_masked
+mv_3572,0.00,0.00,520.55 \mathrm{cm}^2,nan,I+T_masked
+mv_3573,1.25 cm²,1.25 cm,520.55 \mathrm{cm}^2,nan,I+T_masked
+mv_3575,25,25,8128.50 \text { units }^2,nan,I+T_masked
+mv_3576,25,25,8128.50 \text { units }^2,nan,I+T_masked
+mv_3577,25,25,8128.50 \text { units }^2,nan,I+T_masked
+mv_3578,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,8128.50 \text { units }^2,nan,I+T_masked
+mv_3580,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,200 \mathrm{cm}^3,nan,I+T_masked
+mv_3581,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,200 \mathrm{cm}^3,nan,I+T_masked
+mv_3582,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,200 \mathrm{cm}^3,nan,I+T_masked
+mv_3583,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,200 \mathrm{cm}^3,nan,I+T_masked
+mv_3585,4πr^3,4,36\pi \mathrm{cm}^3,nan,I+T_masked
+mv_3586,4πr^3,4,36\pi \mathrm{cm}^3,nan,I+T_masked
+mv_3587,12.57,12.57,36\pi \mathrm{cm}^3,nan,I+T_masked
+mv_3588,4π,4,36\pi \mathrm{cm}^3,nan,I+T_masked
+mv_3590,1/2,1,1:64,nan,I+T_masked
+mv_3591,1,1,1:64,nan,I+T_masked
+mv_3592,1,1,1:64,nan,I+T_masked
+mv_3593,1:1,1,1:64,nan,I+T_masked
+mv_3595,100,100,100,120.0,I+T_masked
+mv_3596,90,90,100,120.0,I+T_masked
+mv_3597,90,90,100,120.0,I+T_masked
+mv_3598,900,900,100,120.0,I+T_masked
+mv_3600,$x^3$,3,12x^2+144x+384 \mathrm{m}^3,nan,I+T_masked
+mv_3601,64,64,12x^2+144x+384 \mathrm{m}^3,nan,I+T_masked
+mv_3602,1.0,1.0,12x^2+144x+384 \mathrm{m}^3,nan,I+T_masked
+mv_3603,12 cubic meters,12,12x^2+144x+384 \mathrm{m}^3,nan,I+T_masked
+mv_3605,L = [NUM]x + [NUM],L,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_masked
+mv_3606,L = [NUM]x+[NUM],L,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_masked
+mv_3607,L = [NUM]x + [NUM],L,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_masked
+mv_3608,L = 2x + 1,2,\frac{5\left(5x+7\right)}{2x+3} units,nan,I+T_masked
+mv_3610,[NUM]x+[NUM],[NUM]x+[NUM],63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_masked
+mv_3611,[NUM]x,[NUM]x,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_masked
+mv_3612,[NUM]x,[NUM]x,63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_masked
+mv_3613,[NUM]x+[NUM],[NUM]x+[NUM],63\pi x^3+66\pi x^2+15\pi x litres,nan,I+T_masked
+mv_3615,x^3 + 4x^2 + 12x + 12,3,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_masked
+mv_3616,x^4,4,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_masked
+mv_3617,x^4,4,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_masked
+mv_3618,x^4,4,$x^{3}+12 x^{2}+48 x+64$,nan,I+T_masked
+mv_3620,1.43,1.43,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3621,1.49,1.49,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3622,1.43,1.43,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3623,0.00,0.00,Volume $=904.78 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3625,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,$299 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3626,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,$299 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3627,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,$299 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3628,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,$299 \mathrm{~cm}^{3}$,nan,I+T_masked
+mv_3630,13 cm,13 cm,$1690cm^2$,nan,I+T_masked
+mv_3631,13 cm,13 cm,$1690cm^2$,nan,I+T_masked
+mv_3632,13 cm,13 cm,$1690cm^2$,nan,I+T_masked
+mv_3633,13.5 cm^3,13.5 cm,$1690cm^2$,nan,I+T_masked
+mv_3635,12,12,$144cm^3$,nan,I+T_masked
+mv_3636,12 cubic centimeters,12,$144cm^3$,nan,I+T_masked
+mv_3637,12.5 cm^3,12.5 cm,$144cm^3$,nan,I+T_masked
+mv_3638,12 cubic centimeters,12,$144cm^3$,nan,I+T_masked
+mv_3640,12,12,48 \mathrm{cm}^3,nan,I+T_masked
+mv_3641,24,24,48 \mathrm{cm}^3,nan,I+T_masked
+mv_3642,0.00,0.00,48 \mathrm{cm}^3,nan,I+T_masked
+mv_3643,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,48 \mathrm{cm}^3,nan,I+T_masked
+mv_3645,0.25,0.25,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3646,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3647,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3648,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3650,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3651,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3652,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3653,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,32 \mathrm{cm}^3,nan,I+T_masked
+mv_3655,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,270 \mathrm{cm}^3,nan,I+T_masked
+mv_3656,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,270 \mathrm{cm}^3,nan,I+T_masked
+mv_3657,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,270 \mathrm{cm}^3,nan,I+T_masked
+mv_3658,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,270 \mathrm{cm}^3,nan,I+T_masked
+mv_3660,144,144,399 \mathrm{cm}^3,nan,I+T_masked
+mv_3661,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,399 \mathrm{cm}^3,nan,I+T_masked
+mv_3662,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,399 \mathrm{cm}^3,nan,I+T_masked
+mv_3663,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,399 \mathrm{cm}^3,nan,I+T_masked
+mv_3665,1.0,1.0,1608.5,1930.2,I+T_masked
+mv_3666,0.0,0.0,1608.5,1930.2,I+T_masked
+mv_3667,0.0,0.0,1608.5,1930.2,I+T_masked
+mv_3668,0.0,0.0,1608.5,1930.2,I+T_masked
+mv_3670,12,12,3136 \mathrm{cm}^3,nan,I+T_masked
+mv_3671,12,12,3136 \mathrm{cm}^3,nan,I+T_masked
+mv_3672,10,10,3136 \mathrm{cm}^3,nan,I+T_masked
+mv_3673,1,1,3136 \mathrm{cm}^3,nan,I+T_masked
+mv_3675,0.53,0.53,125.3 \mathrm{cm}^3,nan,I+T_masked
+mv_3676,0.53,0.53,125.3 \mathrm{cm}^3,nan,I+T_masked
+mv_3677,0.5,0.5,125.3 \mathrm{cm}^3,nan,I+T_masked
+mv_3678,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,125.3 \mathrm{cm}^3,nan,I+T_masked
+mv_3680,11.19,11.19,\frac{847}{3} \mathrm{mm}^3,nan,I+T_masked
+mv_3681,11.11,11.11,\frac{847}{3} \mathrm{mm}^3,nan,I+T_masked
+mv_3682,11.0,11.0,\frac{847}{3} \mathrm{mm}^3,nan,I+T_masked
+mv_3683,0.0000000000000000000000000000000000000000000000000000000000000,0.0000000000000000000000000000000000000000000000000000000000000,\frac{847}{3} \mathrm{mm}^3,nan,I+T_masked
+mv_3685,0.599,0.599,169.65 \mathrm{cm}^3,nan,I+T_masked
+mv_3686,0.00,0.00,169.65 \mathrm{cm}^3,nan,I+T_masked
+mv_3687,0.00,0.00,169.65 \mathrm{cm}^3,nan,I+T_masked
+mv_3688,1.25,1.25,169.65 \mathrm{cm}^3,nan,I+T_masked
+mv_3690,[NUM],[NUM],720 \mathrm{cm}^3,nan,I+T_masked
+mv_3691,15.999999999999999999999999999999999999999999999999999999999999,15.999999999999999999999999999999999999999999999999999999999999,720 \mathrm{cm}^3,nan,I+T_masked
+mv_3692,15.999999999999999999999999999999999999999999999999999999999999,15.999999999999999999999999999999999999999999999999999999999999,720 \mathrm{cm}^3,nan,I+T_masked
+mv_3693,15.5 cm,15.5 cm,720 \mathrm{cm}^3,nan,I+T_masked
+mv_3695,45,45,58,70.0,I+T_masked
+mv_3696,45,45,58,70.0,I+T_masked
+mv_3697,45,45,58,70.0,I+T_masked
+mv_3698,10,10,58,70.0,I+T_masked
+mv_3700,100,100,30,36.0,I+T_masked
+mv_3701,100,100,30,36.0,I+T_masked
+mv_3702,100,100,30,36.0,I+T_masked
+mv_3703,1,1,30,36.0,I+T_masked
+mv_3705,120,120,33929 \mathrm{cm}^2,nan,I+T_masked
+mv_3706,120,120,33929 \mathrm{cm}^2,nan,I+T_masked
+mv_3707,120,120,33929 \mathrm{cm}^2,nan,I+T_masked
+mv_3708,120,120,33929 \mathrm{cm}^2,nan,I+T_masked
+mv_3710,L = [NUM]x + [NUM],L,24 units,nan,I+T_masked
+mv_3711,L = [NUM]x,L,24 units,nan,I+T_masked
+mv_3712,L = [NUM]x,L,24 units,nan,I+T_masked
+mv_3713,L = 2x,2,24 units,nan,I+T_masked
+mv_3715,[NUM],[NUM],3,4.0,I+T_masked
+mv_3716,1.5 cm,1.5 cm,3,4.0,I+T_masked
+mv_3717,1.5 cm,1.5 cm,3,4.0,I+T_masked
+mv_3718,1.5 cm,1.5 cm,3,4.0,I+T_masked
+mv_3720,20,20,14,17.0,I+T_masked
+mv_3721,10,10,14,17.0,I+T_masked
+mv_3722,10,10,14,17.0,I+T_masked
+mv_3723,13,13,14,17.0,I+T_masked
+mv_3725,1.5,1.5,15.81,18.97,I+T_masked
+mv_3726,1.5,1.5,15.81,18.97,I+T_masked
+mv_3727,15,15,15.81,18.97,I+T_masked
+mv_3728,0.5,0.5,15.81,18.97,I+T_masked
+mv_3730,7,7,\sqrt{147},nan,I+T_masked
+mv_3731,7,7,\sqrt{147},nan,I+T_masked
+mv_3732,7,7,\sqrt{147},nan,I+T_masked
+mv_3733,7,7,\sqrt{147},nan,I+T_masked
+mv_3735,26.6,26.6,23.41,28.09,I+T_masked
+mv_3736,26.6 cm,26.6 cm,23.41,28.09,I+T_masked
+mv_3737,26.6 cm,26.6 cm,23.41,28.09,I+T_masked
+mv_3738,16.0,16.0,23.41,28.09,I+T_masked
+mv_3740,10,10,\sqrt{122},nan,I+T_masked
+mv_3741,10,10,\sqrt{122},nan,I+T_masked
+mv_3742,10,10,\sqrt{122},nan,I+T_masked
+mv_3743,1/9,1,\sqrt{122},nan,I+T_masked
+mv_3745,12,12,$x=8 \mathrm{~cm}$,nan,I+T_masked
+mv_3746,12,12,$x=8 \mathrm{~cm}$,nan,I+T_masked
+mv_3747,12,12,$x=8 \mathrm{~cm}$,nan,I+T_masked
+mv_3748,16 cm,16 cm,$x=8 \mathrm{~cm}$,nan,I+T_masked
+mv_3750,A,A,C,nan,I+T_masked
+mv_3751,A,A,C,nan,I+T_masked
+mv_3752,A,A,C,nan,I+T_masked
+mv_3753,A,A,C,nan,I+T_masked
+mv_3755,C:[NUM],C,A,nan,I+T_masked
+mv_3756,A,A,A,nan,I+T_masked
+mv_3757,A,A,A,nan,I+T_masked
+mv_3758,A,A,A,nan,I+T_masked
+mv_3760,A,A,D,nan,I+T_masked
+mv_3761,A,A,D,nan,I+T_masked
+mv_3762,A,A,D,nan,I+T_masked
+mv_3763,A,A,D,nan,I+T_masked
+mv_3765,A. 75,A,C,nan,I+T_masked
+mv_3766,A.[NUM],A,C,nan,I+T_masked
+mv_3767,A.[NUM],A,C,nan,I+T_masked
+mv_3768,A.[NUM],A,C,nan,I+T_masked
+mv_3770,D.\sqrt{[NUM]} (approximately [NUM]),D,A,nan,I+T_masked
+mv_3771,D.\sqrt{[NUM]} (approximately [NUM]),D,A,nan,I+T_masked
+mv_3772,D.\sqrt{[NUM]} (approximately [NUM]),D,A,nan,I+T_masked
+mv_3773,D.\sqrt{[NUM]} (approximately [NUM]),D,A,nan,I+T_masked
+mv_3775,A. [NUM],A,E,nan,I+T_masked
+mv_3776,A.[NUM],A,E,nan,I+T_masked
+mv_3777,A.[NUM],A,E,nan,I+T_masked
+mv_3778,A.[NUM],A,E,nan,I+T_masked
+mv_3780,A. [NUM],A,C,nan,I+T_masked
+mv_3781,A,A,C,nan,I+T_masked
+mv_3782,A,A,C,nan,I+T_masked
+mv_3783,A,A,C,nan,I+T_masked
+mv_3785,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3786,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3787,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3788,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3790,A. [NUM],A,A,nan,I+T_masked
+mv_3791,A. [NUM],A,A,nan,I+T_masked
+mv_3792,A. [NUM],A,A,nan,I+T_masked
+mv_3793,A. [NUM],A,A,nan,I+T_masked
+mv_3795,B.r*\sqrt{[NUM]},B,E,nan,I+T_masked
+mv_3796,B. [NUM] \* r,B,E,nan,I+T_masked
+mv_3797,B.r*\sqrt{[NUM]},B,E,nan,I+T_masked
+mv_3798,B.r*\sqrt{[NUM]},B,E,nan,I+T_masked
+mv_3800,E,E,C,nan,I+T_masked
+mv_3801,E,E,C,nan,I+T_masked
+mv_3802,E,E,C,nan,I+T_masked
+mv_3803,E,E,C,nan,I+T_masked
+mv_3805,D.[NUM]/[NUM],D,C,nan,I+T_masked
+mv_3806,D.[NUM]/[NUM],D,C,nan,I+T_masked
+mv_3807,D.[NUM]/[NUM],D,C,nan,I+T_masked
+mv_3808,D.[NUM]/[NUM],D,C,nan,I+T_masked
+mv_3810,A. [NUM]:[NUM],A,D,nan,I+T_masked
+mv_3811,A. [NUM]:[NUM],A,D,nan,I+T_masked
+mv_3812,A. [NUM]:[NUM],A,D,nan,I+T_masked
+mv_3813,A. [NUM]:[NUM],A,D,nan,I+T_masked
+mv_3815,A. [NUM],A,C,nan,I+T_masked
+mv_3816,A. [NUM],A,C,nan,I+T_masked
+mv_3817,A. [NUM],A,C,nan,I+T_masked
+mv_3818,A. [NUM],A,C,nan,I+T_masked
+mv_3820,[NUM],[NUM],23,28.0,I+T_masked
+mv_3821,[NUM],[NUM],23,28.0,I+T_masked
+mv_3822,[NUM],[NUM],23,28.0,I+T_masked
+mv_3823,[NUM],[NUM],23,28.0,I+T_masked
+mv_3825,0.5,0.5,123,148.0,I+T_masked
+mv_3826,0.5,0.5,123,148.0,I+T_masked
+mv_3827,0.5,0.5,123,148.0,I+T_masked
+mv_3828,0.5,0.5,123,148.0,I+T_masked
+mv_3830,0.5,0.5,0,1.0,I+T_masked
+mv_3831,0.25,0.25,0,1.0,I+T_masked
+mv_3832,0.25,0.25,0,1.0,I+T_masked
+mv_3833,0.25,0.25,0,1.0,I+T_masked
+mv_3835,A. [NUM],A,B,nan,I+T_masked
+mv_3836,A. [NUM],A,B,nan,I+T_masked
+mv_3837,A. [NUM],A,B,nan,I+T_masked
+mv_3838,A. [NUM],A,B,nan,I+T_masked
+mv_3840,A,A,B,nan,I+T_masked
+mv_3841,A,A,B,nan,I+T_masked
+mv_3842,A,A,B,nan,I+T_masked
+mv_3843,A,A,B,nan,I+T_masked
+mv_3845,7,7,1,3.0,I+T_masked
+mv_3846,7,7,1,3.0,I+T_masked
+mv_3847,1/3,1,1,3.0,I+T_masked
+mv_3848,7,7,1,3.0,I+T_masked
+mv_3850,0.5,0.5,49,59.0,I+T_masked
+mv_3851,0.5,0.5,49,59.0,I+T_masked
+mv_3852,0.5,0.5,49,59.0,I+T_masked
+mv_3853,0.5,0.5,49,59.0,I+T_masked
+mv_3855,E,E,B,nan,I+T_masked
+mv_3856,A,A,B,nan,I+T_masked
+mv_3857,A,A,B,nan,I+T_masked
+mv_3858,A,A,B,nan,I+T_masked
+mv_3860,A. [NUM],A,A,nan,I+T_masked
+mv_3861,A. [NUM],A,A,nan,I+T_masked
+mv_3862,A. [NUM],A,A,nan,I+T_masked
+mv_3863,A. [NUM],A,A,nan,I+T_masked
+mv_3865,A. [NUM],A,A,nan,I+T_masked
+mv_3866,A. [NUM],A,A,nan,I+T_masked
+mv_3867,A. [NUM],A,A,nan,I+T_masked
+mv_3868,A. [NUM],A,A,nan,I+T_masked
+mv_3870,12,12,24,29.0,I+T_masked
+mv_3871,12,12,24,29.0,I+T_masked
+mv_3872,12,12,24,29.0,I+T_masked
+mv_3873,12,12,24,29.0,I+T_masked
+mv_3875,100,100,50,60.0,I+T_masked
+mv_3876,100,100,50,60.0,I+T_masked
+mv_3877,100,100,50,60.0,I+T_masked
+mv_3878,100,100,50,60.0,I+T_masked
+mv_3880,A.[NUM],A,A,nan,I+T_masked
+mv_3881,A. [NUM],A,A,nan,I+T_masked
+mv_3882,A. [NUM],A,A,nan,I+T_masked
+mv_3883,A. [NUM],A,A,nan,I+T_masked
+mv_3885,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3886,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3887,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3888,A. [NUM]*\degree,A,D,nan,I+T_masked
+mv_3890,E. It cannot be determined from the information given.,E.,C,nan,I+T_masked
+mv_3891,E. It cannot be determined from the information given.,E.,C,nan,I+T_masked
+mv_3892,E. It cannot be determined from the information given.,E.,C,nan,I+T_masked
+mv_3893,E. It cannot be determined from the information given.,E.,C,nan,I+T_masked
+mv_3895,A. [NUM]*\sqrt{[NUM]},A,A,nan,I+T_masked
+mv_3896,A. [NUM]*\sqrt{[NUM]},A,A,nan,I+T_masked
+mv_3897,A. [NUM]*\sqrt{[NUM]},A,A,nan,I+T_masked
+mv_3898,B,B,A,nan,I+T_masked
+mv_3900,E.[NUM],E.[NUM],B,nan,I+T_masked
+mv_3901,A. [NUM],A,B,nan,I+T_masked
+mv_3902,E.[NUM],E.[NUM],B,nan,I+T_masked
+mv_3903,A. [NUM],A,B,nan,I+T_masked
+mv_3905,A.[NUM],A,B,nan,I+T_masked
+mv_3906,A.[NUM],A,B,nan,I+T_masked
+mv_3907,A.[NUM],A,B,nan,I+T_masked
+mv_3908,C.[NUM]*x,C,B,nan,I+T_masked
+mv_3910,A. [NUM],A,B,nan,I+T_masked
+mv_3911,A. [NUM],A,B,nan,I+T_masked
+mv_3912,A. [NUM],A,B,nan,I+T_masked
+mv_3913,A. [NUM],A,B,nan,I+T_masked
+mv_3915,A. [NUM],A,D,nan,I+T_masked
+mv_3916,A. [NUM],A,D,nan,I+T_masked
+mv_3917,A. [NUM],A,D,nan,I+T_masked
+mv_3918,A. [NUM],A,D,nan,I+T_masked
+mv_3920,C,C,B,nan,I+T_masked
+mv_3921,C,C,B,nan,I+T_masked
+mv_3922,C,C,B,nan,I+T_masked
+mv_3923,C,C,B,nan,I+T_masked
+mv_3925,A. [NUM],A,B,nan,I+T_masked
+mv_3926,A. [NUM],A,B,nan,I+T_masked
+mv_3927,A. [NUM],A,B,nan,I+T_masked
+mv_3928,A.[NUM],A,B,nan,I+T_masked
+mv_3930,A.[NUM]*\pi,A,D,nan,I+T_masked
+mv_3931,A.[NUM]*\pi,A,D,nan,I+T_masked
+mv_3932,A.[NUM]*\pi,A,D,nan,I+T_masked
+mv_3933,A.[NUM]*\pi,A,D,nan,I+T_masked
+mv_3935,A. [NUM]*a^[NUM] + [NUM],A,D,nan,I+T_masked
+mv_3936,A. [NUM]*a^[NUM] + [NUM],A,D,nan,I+T_masked
+mv_3937,A. [NUM]*a^[NUM] + [NUM],A,D,nan,I+T_masked
+mv_3938,A. [NUM]*a^[NUM] + [NUM],A,D,nan,I+T_masked
